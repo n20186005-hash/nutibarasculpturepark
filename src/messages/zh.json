@@ -12,15 +12,16 @@
     "backToHome": "返回首页"
   },
   "hero": {
-    "title": "Cerro de Nutibara Sculpture Park",
-    "subtitle": "城市全景、传统建筑与精美雕塑艺术",
+    "title": "Cerro Nutibara & Pueblito Paisa",
+    "subtitle": "麦德林的城市绿肺，穿梭于传统复刻与现代艺术之巅\\n在这里，俯瞰360度绝美城市全景，漫步于传统安蒂奥基亚小镇的时光回廊，感受现代雕塑艺术的魅力。",
     "rating": "4.6",
     "reviewCount": "5,649",
     "hours": "旅游胜地",
-    "openMaps": "查看地图导航"
+    "openMaps": "获取地图导航",
+    "viewGuide": "查看游览指南"
   },
   "intro": {
-    "title": "探索 Cerro de Nutibara",
+    "title": "探索努蒂巴拉山 (Explore the Hill)",
     "description": "探索哥伦比亚麦德林的文化地标 —— 完美融合传统建筑、当代雕塑与壮丽城市全景的顶级旅游目的地。\n\nCerro de Nutibara Sculpture Park 位于麦德林贝尔伦区，是一处独特的文化旅游景点，将「传统哥伦比亚小镇风情」与「现代雕塑艺术」完美结合。\n\n这里不仅有标志性的 Pueblito Paisa（小集镇）传统建筑群，还遍布着令人惊叹的雕塑作品。从山顶可以俯瞰麦德林整个城市的壮丽景色。无论是寻求文化体验的旅行者，还是渴望拍摄城市全景的摄影爱好者，都能在这里找到专属的完美体验。",
     "visitGuide": {
       "title": "游览建议",
@@ -37,10 +38,24 @@
         "🎨 雕塑艺术公园：公园内遍布着众多精美的雕塑作品，展现了哥伦比亚当代艺术的风采。这些雕塑与自然环境完美融合，为游客提供了独特的艺术体验。",
         "🌆 麦德林城市全景：位于山顶的优越位置，可以360度俯瞰麦德林城市的壮丽景色。白天可以欣赏城市布局，傍晚可以拍摄令人惊叹的日落和城市灯光明亮夜景。"
       ]
-    }
+    },
+    "items": [
+      {
+        "title": "🏛️ 漫步 Pueblito Paisa（派萨小镇）",
+        "description": "建于 1978 年，这里完美复刻了 20 世纪初哥伦比亚安蒂奥基亚地区的传统小镇风貌。漫步在鹅卵石广场上，参观传统教堂、市政厅和喷泉，品尝地道的 Bandeja Paisa，感受原汁原味的哥伦比亚风情。"
+      },
+      {
+        "title": "🎨 沉浸于现代雕塑艺术公园",
+        "description": "作为露天艺术的殿堂，山间散布着由国内外知名艺术家创作的现代雕塑作品。艺术的几何线条与葱郁的自然植被在这里达到了完美的平衡。"
+      },
+      {
+        "title": "🌆 360° 无死角城市观景台",
+        "description": "作为麦德林市区的制高点之一，这里是摄影爱好者的天堂。白天，红砖建筑如同积木般铺满整个山谷；傍晚，您将见证令人惊叹的安第斯日落与万家灯火的亮起。"
+      }
+    ]
   },
   "route": {
-    "title": "💡 游览建议与旅行贴士",
+    "title": "完美游览指南 (Visit Guide)",
     "overview": "完美的一天行程安排：",
     "steps": [
       "上午 (文化探索)：从公园入口出发前往 Pueblito Paisa，参观传统教堂和广场，了解哥伦比亚建筑文化。",
@@ -52,6 +67,32 @@
       "最佳时间：建议在傍晚时分前往，可以同时欣赏白天的城市景色和夜晚的灯光秀。",
       "防晒与补水：麦德林气候温暖，请随身携带防晒霜、太阳镜以及充足的饮用水。",
       "摄影准备：山顶是拍摄麦德林全景的绝佳位置，建议携带相机或手机充满电，并准备稳定的拍摄姿势。"
+    ],
+    "scheduleTitle": "🗓️ 推荐行程安排（建议游玩 2-3 小时）",
+    "scheduleItems": [
+      {
+        "time": "下午 4:00 (艺术与自然)",
+        "description": "从入口上山，穿梭于绿意盎然的雕塑公园，欣赏艺术作品。"
+      },
+      {
+        "time": "下午 5:00 (文化体验)",
+        "description": "抵达山顶 Pueblito Paisa，参观复刻版传统建筑，在广场品尝当地街头小吃（如 Obleas 威化饼或新鲜果汁）。"
+      },
+      {
+        "time": "傍晚 6:00 (全景时刻)",
+        "description": "前往观景台，寻找最佳机位，将麦德林从日落黄昏到华灯初上的壮丽景色尽收眼底。"
+      }
+    ],
+    "tipsTitle": "💡 行前实用贴士",
+    "tipsItems": [
+      {
+        "title": "天气与装备",
+        "description": "麦德林四季如春，但日照较强。请备好防晒霜、墨镜及充足的饮用水。"
+      },
+      {
+        "title": "无障碍设施",
+        "description": "景区设有无障碍通道、公共卫生间及停车场，适合全家老小一同出行。"
+      }
     ]
   },
   "knowledge": {
@@ -75,7 +116,7 @@
     ]
   },
   "basicInfo": {
-    "title": "核心标签 (Quick Facts)",
+    "title": "核心信息 (Quick Facts)",
     "officialName": "景点名称",
     "officialNameValue": "Cerro de Nutibara Sculpture Park（努蒂巴拉山雕塑公园）",
     "type": "景点类型",
@@ -93,10 +134,16 @@
     "phoneValue": "无",
     "petFriendly": "宠物准入",
     "petFriendlyValue": "请咨询现场工作人员",
-    "tickets": "门票信息",
-    "ticketsValue": "公园免费进入；部分特殊活动或展览可能收费，需现场咨询。",
+    "tickets": "门票价格",
+    "ticketsValue": "免费开放（内部部分商业设施/餐饮另行收费）",
     "facilities": "实用设施",
-    "facilitiesValue": "附近有公共卫生间、餐厅和停车场"
+    "facilitiesValue": "附近有公共卫生间、餐厅和停车场",
+    "hours": "营业时间",
+    "hoursValue": "每日 08:00–22:00",
+    "rating": "游客评分",
+    "ratingValue": "4.6 / 5.0 (基于 5,600+ 条评价)",
+    "location": "地理位置",
+    "locationValue": "哥伦比亚安蒂奥基亚省麦德林市（Belén 区交界）"
   },
   "hours": {
     "title": "开放时间与游览建议",
@@ -127,7 +174,7 @@
     "officialNoticeLink": "https://www.medellin.gov.co/"
   },
   "transport": {
-    "title": "交通指南",
+    "title": "如何到达 (Getting There)",
     "airport": "✈️ 机场到景点路线 (核心推荐)",
     "airportDesc": "距离 Cerro de Nutibara Sculpture Park 最近的机场是何塞·玛丽亚·科尔多瓦国际机场 (MDE)。抵达后，可乘坐出租车或网约车前往麦德林市区，再转乘前往贝尔伦区的交通工具。全程约 45 分钟至 1 小时即可直达 Cerro de Nutibara，这是最高效的抵达方式。",
     "selfDrive": "自驾前往",
@@ -139,7 +186,24 @@
     "cycling": "其他方式",
     "cyclingDesc": "可以在麦德林市内租用交通工具或打车游览，更好地欣赏城市风光。",
     "tips": "出行建议",
-    "tipsDesc": "从麦德林市中心出发路程较短，建议提前规划好行程和交通方式。"
+    "tipsDesc": "从麦德林市中心出发路程较短，建议提前规划好行程和交通方式。",
+    "addressTitle": "📍 地址",
+    "addressValue": "Cerro De Nutibara, Pueblito Paisa, Belén, Medellín, Antioquia",
+    "taxiTitle": "🚕 出租车 / 网约车 (最推荐)",
+    "taxiDesc": "无论从市区何处出发，直接打车至山顶（Pueblito Paisa 停车场）是最省时省力的方式。",
+    "metroTitle": "🚇 地铁出行",
+    "metroDesc": "乘坐地铁至 Exposiciones 站或 Industriales 站。出站后由于上坡路段较为陡峭，建议转乘出租车上山。",
+    "airportTitle": "✈️ 机场交通",
+    "airportItems": [
+      {
+        "name": "国际/主线航班 (MDE)",
+        "desc": "距离何塞·玛丽亚·科尔多瓦机场约 1 小时车程。"
+      },
+      {
+        "name": "国内支线航班 (EOH)",
+        "desc": "距离奥拉亚·埃雷拉机场仅 10-15 分钟车程，极度便利。"
+      }
+    ]
   },
   "gallery": {
     "title": "精彩照片",

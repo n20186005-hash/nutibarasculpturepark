@@ -12,15 +12,16 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Cerro de Nutibara Sculpture Park",
-    "subtitle": "City Panorama, Traditional Architecture & Exquisite Sculpture Art",
+    "title": "Cerro Nutibara & Pueblito Paisa",
+    "subtitle": "Medellín's green lung, navigating between traditional replicas and modern art.\\nEnjoy a stunning 360-degree panoramic view of the city, stroll through the timeless corridors of a traditional Antioquian town, and experience the charm of modern sculpture art.",
     "rating": "4.6",
     "reviewCount": "5,649",
     "hours": "Tourist Attraction",
-    "openMaps": "View Location"
+    "openMaps": "Get Directions",
+    "viewGuide": "View Visit Guide"
   },
   "intro": {
-    "title": "Explore Cerro de Nutibara",
+    "title": "Explore the Hill",
     "description": "Discover the cultural landmark of Medellín, Colombia — a top-tier tourist destination that perfectly blends traditional architecture, contemporary sculpture, and magnificent city panoramas.\n\nLocated in the Belén district of Medellín, Cerro de Nutibara Sculpture Park is a unique cultural tourism attraction that perfectly combines 'traditional Colombian village charm' with 'modern sculpture art.'\n\nNot only does it feature the iconic Pueblito Paisa traditional architectural complex, but it is also dotted with stunning sculpture works. From the mountaintop, you can overlook the magnificent scenery of the entire city of Medellín. Whether you're a traveler seeking cultural experiences or a photography enthusiast eager to capture city panoramas, you'll find your perfect experience here.",
     "visitGuide": {
       "title": "Visiting Tips",
@@ -37,10 +38,24 @@
         "🎨 Sculpture Art Park: The park is adorned with numerous exquisite sculpture works, showcasing the elegance of Colombian contemporary art. These sculptures perfectly blend with the natural environment, providing visitors with a unique artistic experience.",
         "🌆 Medellín City Panorama: The superior location on the mountaintop allows for a 360-degree overlook of Medellín's magnificent city scenery. During the day, you can appreciate the city layout; in the evening, you can photograph breathtaking sunsets and the bright city lights at night."
       ]
-    }
+    },
+    "items": [
+      {
+        "title": "🏛️ Stroll through Pueblito Paisa",
+        "description": "Built in 1978, this is a perfect 1:1 replica of a traditional early 20th-century town in the Antioquia region of Colombia. Walk along the cobblestone square, visit the traditional church, town hall, and fountain, taste an authentic Bandeja Paisa, and experience the original Colombian charm."
+      },
+      {
+        "title": "🎨 Immerse in the Modern Sculpture Park",
+        "description": "As a sanctuary of open-air art, modern sculptures created by renowned domestic and international artists are scattered across the hill. The geometric lines of the art and the lush natural vegetation achieve a perfect balance here."
+      },
+      {
+        "title": "🌆 360° Panoramic City Viewpoint",
+        "description": "As one of the highest points in urban Medellín, it is a paradise for photography enthusiasts. During the day, the red-brick buildings spread across the valley like building blocks; at dusk, you will witness the breathtaking Andean sunset and the lighting of thousands of homes."
+      }
+    ]
   },
   "route": {
-    "title": "💡 Pro Tips & Itinerary",
+    "title": "Visit Guide",
     "overview": "Perfect One-Day Itinerary:",
     "steps": [
       "Morning (Cultural Exploration): Depart from the park entrance to Pueblito Paisa, visit the traditional church and plaza, and learn about Colombian architectural culture.",
@@ -52,6 +67,32 @@
       "Best Time: It is recommended to go in the evening, as you can enjoy both the daytime city scenery and the nighttime light show.",
       "Sun Protection & Hydration: Medellín has a warm climate. Please carry sunscreen, sunglasses, and plenty of drinking water.",
       "Photography Preparation: The mountaintop is an excellent location for photographing Medellín's panorama. It is recommended to bring a camera or ensure your phone is fully charged, and prepare for stable shooting positions."
+    ],
+    "scheduleTitle": "🗓️ Recommended Itinerary (2-3 hours)",
+    "scheduleItems": [
+      {
+        "time": "4:00 PM (Art & Nature)",
+        "description": "Walk up the hill from the entrance, weave through the lush sculpture park, and appreciate the art pieces."
+      },
+      {
+        "time": "5:00 PM (Cultural Experience)",
+        "description": "Arrive at Pueblito Paisa at the top, visit the replica traditional buildings, and taste local street food (like Obleas wafers or fresh juices) in the square."
+      },
+      {
+        "time": "6:00 PM (Panoramic Moment)",
+        "description": "Head to the viewpoint, find the best spot, and take in the magnificent view of Medellín from sunset to the city lights turning on."
+      }
+    ],
+    "tipsTitle": "💡 Practical Tips",
+    "tipsItems": [
+      {
+        "title": "Weather & Gear",
+        "description": "Medellín has spring-like weather year-round, but the sun can be strong. Please bring sunscreen, sunglasses, and plenty of water."
+      },
+      {
+        "title": "Accessibility",
+        "description": "The area has accessible ramps, public restrooms, and parking, making it suitable for families of all ages."
+      }
     ]
   },
   "knowledge": {
@@ -94,9 +135,15 @@
     "petFriendly": "Pet Friendly",
     "petFriendlyValue": "Please consult on-site staff",
     "tickets": "Tickets",
-    "ticketsValue": "Park entrance is free; some special events or exhibitions may charge fees, please inquire on-site.",
+    "ticketsValue": "Free entry (some commercial/dining facilities charge separately)",
     "facilities": "Facilities",
-    "facilitiesValue": "Nearby public restrooms, restaurants and parking"
+    "facilitiesValue": "Nearby public restrooms, restaurants and parking",
+    "hours": "Opening Hours",
+    "hoursValue": "Daily 08:00–22:00",
+    "rating": "Rating",
+    "ratingValue": "4.6 / 5.0 (based on 5,600+ reviews)",
+    "location": "Location",
+    "locationValue": "Medellín, Antioquia (border of Belén)"
   },
   "hours": {
     "title": "Opening Hours & Visitor Info",
@@ -127,7 +174,7 @@
     "officialNoticeLink": "https://www.medellin.gov.co/"
   },
   "transport": {
-    "title": "How to Get There",
+    "title": "Getting There",
     "airport": "✈️ Airport to Landmark (Core Recommendation)",
     "airportDesc": "The closest airport to Cerro de Nutibara Sculpture Park is José María Córdova International Airport (MDE). Upon arrival, you can take a taxi or ride-hailing service to Medellín city center, then transfer to transportation heading to Belén district. The journey is about 45 minutes to 1 hour directly to Cerro de Nutibara, which is the most efficient way to arrive.",
     "selfDrive": "Driving",
@@ -139,7 +186,24 @@
     "cycling": "Other Options",
     "cyclingDesc": "You can rent transportation in Medellín city or take a taxi to explore and better appreciate the city scenery.",
     "tips": "Travel Tips",
-    "tipsDesc": "The journey from Medellín city center is short. It is recommended to plan your itinerary and transportation in advance."
+    "tipsDesc": "The journey from Medellín city center is short. It is recommended to plan your itinerary and transportation in advance.",
+    "addressTitle": "📍 Address",
+    "addressValue": "Cerro De Nutibara, Pueblito Paisa, Belén, Medellín, Antioquia",
+    "taxiTitle": "🚕 Taxi / Rideshare (Most Recommended)",
+    "taxiDesc": "No matter where you depart from in the city, taking a taxi directly to the top (Pueblito Paisa parking lot) is the most time-saving and effortless way.",
+    "metroTitle": "🚇 Metro",
+    "metroDesc": "Take the metro to Exposiciones or Industriales station. Because the uphill walk from the station is quite steep, we recommend transferring to a taxi to go up the hill.",
+    "airportTitle": "✈️ Airport Transport",
+    "airportItems": [
+      {
+        "name": "International/Mainline (MDE)",
+        "desc": "About a 1-hour drive from José María Córdova International Airport."
+      },
+      {
+        "name": "Domestic/Regional (EOH)",
+        "desc": "Only a 10-15 minute drive from Olaya Herrera Airport, extremely convenient."
+      }
+    ]
   },
   "gallery": {
     "title": "Stunning Photos",

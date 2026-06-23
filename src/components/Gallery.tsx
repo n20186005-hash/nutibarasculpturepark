@@ -4,27 +4,25 @@ import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photoFiles = [
-  'cerro-de-nutibara (1).jpg',
-  'cerro-de-nutibara (2).jpg',
-  'cerro-de-nutibara (3).jpg',
-  'cerro-de-nutibara (4).jpg',
-  'cerro-de-nutibara (5).jpg',
-  'cerro-de-nutibara (6).jpg',
-  'cerro-de-nutibara (7).jpg',
-  'cerro-de-nutibara (8).jpg',
-  'cerro-de-nutibara (9).jpg',
-  'cerro-de-nutibara (10).jpg',
-  'cerro-de-nutibara (11).jpg',
-  'cerro-de-nutibara (12).jpg',
-  'cerro-de-nutibara (13).jpg',
-  'cerro-de-nutibara (14).jpg',
-  'cerro-de-nutibara (15).jpg',
-  'cerro-de-nutibara (16).jpg',
-  'cerro-de-nutibara (17).jpg',
-  'cerro-de-nutibara (18).jpg',
-  'cerro-de-nutibara (19).jpg',
-  'cerro-de-nutibara (20).jpg',
-  'cerro-de-nutibara (21).jpg',
+  'cerro-de-nutibara-sculpture-park (1).jpg',
+  'cerro-de-nutibara-sculpture-park (2).jpg',
+  'cerro-de-nutibara-sculpture-park (3).jpg',
+  'cerro-de-nutibara-sculpture-park (4).jpg',
+  'cerro-de-nutibara-sculpture-park (5).jpg',
+  'cerro-de-nutibara-sculpture-park (6).jpg',
+  'cerro-de-nutibara-sculpture-park (7).jpg',
+  'cerro-de-nutibara-sculpture-park (8).jpg',
+  'cerro-de-nutibara-sculpture-park (9).jpg',
+  'cerro-de-nutibara-sculpture-park (10).jpg',
+  'cerro-de-nutibara-sculpture-park (11).jpg',
+  'cerro-de-nutibara-sculpture-park (12).jpg',
+  'cerro-de-nutibara-sculpture-park (13).jpg',
+  'cerro-de-nutibara-sculpture-park (14).jpg',
+  'cerro-de-nutibara-sculpture-park (15).jpg',
+  'cerro-de-nutibara-sculpture-park (16).jpg',
+  'cerro-de-nutibara-sculpture-park (17).jpg',
+  'cerro-de-nutibara-sculpture-park (18).jpg',
+  'cerro-de-nutibara-sculpture-park (19).jpg',
 ];
 
 export default function Gallery() {
@@ -93,7 +91,7 @@ export default function Gallery() {
 
             <div className="flex justify-center mt-8">
               <a
-                href="https://www.google.com/maps/place/Cerro+Nutibara,+Medell%C3%ADn,+Antioquia,+Colombia/@6.245833,-75.572778,15z"
+                href="https://maps.app.goo.gl/T35wBB8jhEUL2pxL6"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

@@ -12,15 +12,16 @@
     "backToHome": "Volver al Inicio"
   },
   "hero": {
-    "title": "Cerro de Nutibara Parque de las Esculturas",
-    "subtitle": "Panorama de la Ciudad, Arquitectura Tradicional y Exquisito Arte de Esculturas",
+    "title": "Cerro Nutibara & Pueblito Paisa",
+    "subtitle": "El pulmón verde de Medellín, navegando entre réplicas tradicionales y arte moderno.\\nDisfruta de una impresionante vista panorámica de 360 grados de la ciudad, pasea por los corredores del tiempo de un pueblo tradicional antioqueño y experimenta el encanto del arte escultórico moderno.",
     "rating": "4.6",
     "reviewCount": "5,649",
     "hours": "Atracción Turística",
-    "openMaps": "Ver Ubicación"
+    "openMaps": "Obtener Ruta",
+    "viewGuide": "Ver Guía de Visita"
   },
   "intro": {
-    "title": "Explora Cerro de Nutibara",
+    "title": "Explora el Cerro",
     "description": "Descubre el hito cultural de Medellín, Colombia — un destino turístico de primer nivel que combina a la perfección arquitectura tradicional, escultura contemporánea y magníficos panoramas de la ciudad.\n\nUbicado en el distrito de Belén de Medellín, el Cerro de Nutibara Parque de las Esculturas es una atracción turística cultural única que combina perfectamente el 'encanto del pueblo tradicional colombiano' con el 'arte de esculturas modernas'.\n\nNo solo cuenta con el icónico complejo arquitectónico tradicional de Pueblito Paisa, sino que también está adornado con impresionantes obras de esculturas. Desde la cima de la montaña, puedes overlook la magnífica scenery de toda la ciudad de Medellín. Ya sea que busques experiencias culturales o seas un entusiasta de la fotografía ansioso por capturar panoramas de la ciudad, encontrarás tu experiencia perfecta aquí.",
     "visitGuide": {
       "title": "Consejos de Visita",
@@ -37,10 +38,24 @@
         "🎨 Parque de Arte de Esculturas: El parque está adornado con numerosas obras de esculturas exquisitas, mostrando la elegancia del arte contemporáneo colombiano. Estas esculturas se funden perfectamente con el entorno natural, proporcionando a los visitantes una experiencia artística única.",
         "🌆 Panorama de la Ciudad de Medellín: La ubicación superior en la cima de la montaña permite un overlook de 360 grados de la magnífica scenery de la ciudad de Medellín. Durante el día, puedes apreciar el diseño de la ciudad; en el atardecer, puedes fotografiar breathtaking atardeceres y las brillantes luces de la ciudad en la noche."
       ]
-    }
+    },
+    "items": [
+      {
+        "title": "🏛️ Paseo por el Pueblito Paisa",
+        "description": "Construido en 1978, esta es una réplica perfecta 1:1 de un pueblo tradicional de principios del siglo XX en la región de Antioquia. Camina por la plaza empedrada, visita la iglesia tradicional, el ayuntamiento y la fuente, prueba una auténtica Bandeja Paisa y experimenta el encanto original colombiano."
+      },
+      {
+        "title": "🎨 Sumérgete en el Parque de Esculturas Modernas",
+        "description": "Como santuario de arte al aire libre, las esculturas modernas creadas por reconocidos artistas nacionales e internacionales se encuentran esparcidas por el cerro. Las líneas geométricas del arte y la exuberante vegetación natural logran un equilibrio perfecto aquí."
+      },
+      {
+        "title": "🌆 Mirador Panorámico 360°",
+        "description": "Como uno de los puntos más altos de la zona urbana de Medellín, es un paraíso para los entusiastas de la fotografía. Durante el día, los edificios de ladrillo rojo se extienden por el valle como bloques de construcción; al anochecer, serás testigo de la impresionante puesta de sol andina y el encendido de miles de luces de la ciudad."
+      }
+    ]
   },
   "route": {
-    "title": "💡 Consejos y Itinerario",
+    "title": "Guía de Visita",
     "overview": "Itinerario Perfecto de Un Día:",
     "steps": [
       "Mañana (Exploración Cultural): Salir de la entrada del parque hacia Pueblito Paisa, visitar la iglesia y plaza tradicionales, y aprender sobre la cultura arquitectónica colombiana.",
@@ -52,6 +67,32 @@
       "Mejor Momento: Se recomienda ir en el atardecer, ya que puedes disfrutar tanto del scenery de la ciudad durante el día como del espectáculo de luces nocturnas.",
       "Protección Solar e Hidratación: Medellín tiene un clima cálido. Por favor, lleva protector solar, gafas de sol y mucha agua potable.",
       "Preparación Fotográfica: La cima de la montaña es una ubicación excelente para fotografiar el panorama de Medellín. Se recomienda traer una cámara o asegurar que tu teléfono esté completamente cargado, y prepararse para posiciones de disparo estables."
+    ],
+    "scheduleTitle": "🗓️ Itinerario Recomendado (2-3 horas)",
+    "scheduleItems": [
+      {
+        "time": "4:00 PM (Arte y Naturaleza)",
+        "description": "Sube por la entrada, camina por el exuberante parque de esculturas y aprecia las obras de arte."
+      },
+      {
+        "time": "5:00 PM (Experiencia Cultural)",
+        "description": "Llega al Pueblito Paisa en la cima, visita los edificios tradicionales replicados y prueba la comida callejera local (como obleas o jugos frescos) en la plaza."
+      },
+      {
+        "time": "6:00 PM (Momento Panorámico)",
+        "description": "Dirígete al mirador, encuentra el mejor lugar y disfruta de la magnífica vista de Medellín desde el atardecer hasta que se encienden las luces de la ciudad."
+      }
+    ],
+    "tipsTitle": "💡 Consejos Prácticos",
+    "tipsItems": [
+      {
+        "title": "Clima y Equipamiento",
+        "description": "Medellín tiene un clima primaveral todo el año, pero el sol puede ser fuerte. Por favor, trae protector solar, gafas de sol y mucha agua."
+      },
+      {
+        "title": "Accesibilidad",
+        "description": "El área cuenta con rampas accesibles, baños públicos y estacionamiento, lo que la hace adecuada para familias de todas las edades."
+      }
     ]
   },
   "knowledge": {
@@ -75,7 +116,7 @@
     ]
   },
   "basicInfo": {
-    "title": "Datos Rápidos",
+    "title": "Datos Rápidos (Quick Facts)",
     "officialName": "Nombre Oficial",
     "officialNameValue": "Cerro de Nutibara Parque de las Esculturas",
     "type": "Tipo de Atracción",
@@ -94,9 +135,15 @@
     "petFriendly": "Mascotas permitidas",
     "petFriendlyValue": "Por favor consulte al personal en el sitio",
     "tickets": "Entradas",
-    "ticketsValue": "La entrada al parque es gratuita; algunos eventos especiales o exposiciones pueden cobrar tarifas, por favor consulte en el lugar.",
+    "ticketsValue": "Entrada gratuita (algunas instalaciones comerciales/gastronómicas cobran por separado)",
     "facilities": "Instalaciones",
-    "facilitiesValue": "Baños públicos cercanos, restaurantes y estacionamiento"
+    "facilitiesValue": "Baños públicos cercanos, restaurantes y estacionamiento",
+    "hours": "Horario de Atención",
+    "hoursValue": "Todos los días 08:00–22:00",
+    "rating": "Calificación",
+    "ratingValue": "4.6 / 5.0 (basado en más de 5,600 opiniones)",
+    "location": "Ubicación",
+    "locationValue": "Medellín, Antioquia (límite con Belén)"
   },
   "hours": {
     "title": "Horarios y Consejos para Visitantes",
@@ -139,7 +186,24 @@
     "cycling": "Otras Opciones",
     "cyclingDesc": "Puede alquilar transporte en la ciudad de Medellín o tomar un taxi para explorar y apreciar mejor el paisaje de la ciudad.",
     "tips": "Consejos de Viaje",
-    "tipsDesc": "El viaje desde el centro de Medellín es corto. Se recomienda planificar con anticipación su itinerario y transporte."
+    "tipsDesc": "El viaje desde el centro de Medellín es corto. Se recomienda planificar con anticipación su itinerario y transporte.",
+    "addressTitle": "📍 Dirección",
+    "addressValue": "Cerro De Nutibara, Pueblito Paisa, Belén, Medellín, Antioquia",
+    "taxiTitle": "🚕 Taxi / Uber (Más Recomendado)",
+    "taxiDesc": "No importa desde dónde salgas en la ciudad, tomar un taxi directamente hasta la cima (estacionamiento de Pueblito Paisa) es la forma más rápida y sin esfuerzo.",
+    "metroTitle": "🚇 Metro",
+    "metroDesc": "Toma el metro hasta la estación Exposiciones o Industriales. Debido a que la caminata cuesta arriba desde la estación es bastante empinada, recomendamos transferir a un taxi para subir el cerro.",
+    "airportTitle": "✈️ Transporte desde el Aeropuerto",
+    "airportItems": [
+      {
+        "name": "Vuelos Internacionales/Principales (MDE)",
+        "desc": "Aproximadamente 1 hora en auto desde el Aeropuerto Internacional José María Córdova."
+      },
+      {
+        "name": "Vuelos Nacionales/Regionales (EOH)",
+        "desc": "A solo 10-15 minutos en auto desde el Aeropuerto Olaya Herrera, extremadamente conveniente."
+      }
+    ]
   },
   "gallery": {
     "title": "Fotos Impresionantes",

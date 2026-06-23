@@ -29,10 +29,8 @@ export default function LanguageToggle() {
 
   const handleLanguageChange = (targetLocale: string) => {
     setOpen(false);
-    // 使用 router.push 直接切换语言 - 正确语法
-    // 注意：pathname 可能为 null，需要正确处理
-    const targetPath = pathname || '/';
-    router.push(targetPath, { locale: targetLocale });
+    const targetPath = pathname === '/' ? '' : pathname;
+    window.location.href = `/${targetLocale}${targetPath}`;
   };
 
   return (

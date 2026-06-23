@@ -2,14 +2,14 @@ import { useTranslations } from 'next-intl';
 
 export default function Hero() {
   const t = useTranslations('hero');
-  const mapsUrl = "https://www.google.com/maps/place/Cerro+Nutibara,+Medell%C3%ADn,+Antioquia,+Colombia/@6.245833,-75.572778,15z";
+  const mapsUrl = "https://maps.app.goo.gl/T35wBB8jhEUL2pxL6";
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/cerro-de-nutibara (1).jpg"
+          src="/gallery/cerro-de-nutibara-sculpture-park (1).jpg"
           alt="Cerro de Nutibara Sculpture Park"
           className="w-full h-full object-cover"
         />
@@ -53,6 +53,15 @@ export default function Hero() {
                 <circle cx="12" cy="10" r="3"/>
               </svg>
               <span className="text-white text-sm">{t('openMaps')}</span>
+            </a>
+            <a
+              href="#guide"
+              className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2 hover:bg-white/25 transition-colors"
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
+                <path d="M12 4v16m-8-8h16"/>
+              </svg>
+              <span className="text-white text-sm">{t('viewGuide')}</span>
             </a>
           </div>
         </div>

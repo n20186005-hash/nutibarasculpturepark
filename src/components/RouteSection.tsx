@@ -5,14 +5,17 @@ import { useTranslations, useMessages } from 'next-intl';
 export default function RouteSection() {
   const t = useTranslations('route');
   const messages = useMessages() as any;
-  const stepsData = (messages?.route?.steps || []) as string[];
-  const supplementsData = (messages?.route?.supplements || []) as string[];
-
-  const steps = Array.from({ length: stepsData.length }, (_, i) => i + 1);
-  const supplements = Array.from({ length: supplementsData.length }, (_, i) => i);
+  const scheduleItems = (messages?.route?.scheduleItems || []) as Array<{
+    time: string;
+    description: string;
+  }>;
+  const tipsItems = (messages?.route?.tipsItems || []) as Array<{
+    title: string;
+    description: string;
+  }>;
 
   return (
-    <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
+    <section id="guide" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
       <div className="max-w-4xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
@@ -23,7 +26,7 @@ export default function RouteSection() {
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
         <p className="text-lg leading-relaxed mb-10" style={{ color: 'var(--text-secondary)' }}>
-          {t('overview')}
+          {t('scheduleTitle')}
         </p>
 
         <div className="relative mb-10">
@@ -34,11 +37,12 @@ export default function RouteSection() {
           />
 
           <div className="space-y-6">
-            {steps.map((step) => (
+            {scheduleItems.map((item, index) => (
               <RouteStep
-                key={step}
-                step={step}
-                description={t(`steps.${step - 1}` as any)}
+                key={index}
+                time={item.time}
+                description={item.description}
+                index={index}
               />
             ))}
           </div>
@@ -50,13 +54,16 @@ export default function RouteSection() {
           style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
         >
           <h3 className="font-display text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
-            {t('supplementsTitle')}
+            {t('tipsTitle')}
           </h3>
           <ul className="space-y-3">
-            {supplements.map((i) => (
-              <li key={i} className="flex items-start gap-3">
+            {tipsItems.map((item, index) => (
+              <li key={index} className="flex items-start gap-3">
                 <span className="mt-1.5 flex-shrink-0 w-1.5 h-1.5 rounded-full" style={{ background: 'var(--accent)' }} />
-                <span style={{ color: 'var(--text-secondary)' }}>{t(`supplements.${i}` as any)}</span>
+                <span style={{ color: 'var(--text-secondary)' }}>
+                  <strong style={{ color: 'var(--text-primary)' }}>{item.title}: </strong>
+                  {item.description}
+                </span>
               </li>
             ))}
           </ul>
@@ -66,7 +73,7 @@ export default function RouteSection() {
   );
 }
 
-function RouteStep({ step, description }: { step: number; description: string }) {
+function RouteStep({ time, description, index }: { time: string; description: string; index: number }) {
   const icons = [
     <svg key="1" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 22s-8-4.5-8-11.8A8 8 0 0 1 12 2a8 8 0 0 1 8 8.2c0 7.3-8 11.8-8 11.8z"/><circle cx="12" cy="10" r="3"/></svg>,
     <svg key="2" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>,
@@ -91,7 +98,7 @@ function RouteStep({ step, description }: { step: number; description: string })
         className="flex-shrink-0 w-10 h-10 rounded-full flex items-center justify-center shadow-md"
         style={{ background: 'var(--accent)', color: 'white' }}
       >
-        {icons[step - 1] || icons[0]}
+        {icons[index % icons.length]}
       </div>
 
       {/* Content */}
@@ -100,7 +107,8 @@ function RouteStep({ step, description }: { step: number; description: string })
         style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
       >
         <p className="text-base leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
-          <span className="font-semibold mr-2" style={{ color: 'var(--text-primary)' }}>Step {step}:</span>
+          <span className="font-semibold mr-2" style={{ color: 'var(--text-primary)' }}>{time}</span>
+          <br/>
           {description}
         </p>
       </div>

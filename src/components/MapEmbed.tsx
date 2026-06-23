@@ -2,7 +2,7 @@ import { useTranslations } from 'next-intl';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
-  const mapsUrl = "https://www.google.com/maps/place/Cerro+Nutibara,+Medell%C3%ADn,+Antioquia,+Colombia/@6.245833,-75.572778,15z";
+  const mapsUrl = "https://maps.app.goo.gl/T35wBB8jhEUL2pxL6";
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>

@@ -17,19 +17,11 @@ export default function BasicInfo() {
         </h2>
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          <InfoCard title={t('officialName')} value={t('officialNameValue')} icon="🏛️" />
-          <InfoCard title={t('type')} value={t('typeValue')} icon="📍" />
-          <InfoCard title={t('petFriendly')} value={t('petFriendlyValue')} icon="🐕" />
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+          <InfoCard title={t('hours')} value={t('hoursValue')} icon="�" />
           <InfoCard title={t('tickets')} value={t('ticketsValue')} icon="🎫" />
-          <InfoCard title={t('country')} value={t('countryValue')} icon="🇨🇴" />
-          <InfoCard title={t('city')} value={t('cityValue')} icon="🏙️" />
-          <InfoCard title={t('plusCode')} value={t('plusCodeValue')} icon="🗺️" />
-          <InfoCard title={t('googleRating')} value={`${tHero('rating')}/5 (${tHero('reviewCount')})`} icon="⭐" />
-          <InfoCard title={t('facilities')} value={t('facilitiesValue')} icon="♿" />
-          <div className="md:col-span-3">
-            <InfoCard title={t('address')} value={t('addressValue')} icon="📌" />
-          </div>
+          <InfoCard title={t('rating')} value={t('ratingValue')} icon="⭐" />
+          <InfoCard title={t('location')} value={t('locationValue')} icon="�" />
         </div>
       </div>
     </section>
