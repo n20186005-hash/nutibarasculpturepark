@@ -13,7 +13,7 @@
   },
   "hero": {
     "title": "Cerro Nutibara & Pueblito Paisa",
-    "subtitle": "El pulmón verde de Medellín, navegando entre réplicas tradicionales y arte moderno.\\nDisfruta de una impresionante vista panorámica de 360 grados de la ciudad, pasea por los corredores del tiempo de un pueblo tradicional antioqueño y experimenta el encanto del arte escultórico moderno.",
+    "subtitle": "El pulmón verde de Medellín, navegando entre réplicas tradicionales y arte moderno. Disfruta de una impresionante vista panorámica de 360 grados de la ciudad, pasea por los corredores del tiempo de un pueblo tradicional antioqueño y experimenta el encanto del arte escultórico moderno.",
     "rating": "4.6",
     "reviewCount": "5,649",
     "hours": "Atracción Turística",
@@ -22,7 +22,7 @@
   },
   "intro": {
     "title": "Explora el Cerro",
-    "description": "Descubre el hito cultural de Medellín, Colombia — un destino turístico de primer nivel que combina a la perfección arquitectura tradicional, escultura contemporánea y magníficos panoramas de la ciudad.\n\nUbicado en el distrito de Belén de Medellín, el Cerro de Nutibara Parque de las Esculturas es una atracción turística cultural única que combina perfectamente el 'encanto del pueblo tradicional colombiano' con el 'arte de esculturas modernas'.\n\nNo solo cuenta con el icónico complejo arquitectónico tradicional de Pueblito Paisa, sino que también está adornado con impresionantes obras de esculturas. Desde la cima de la montaña, puedes overlook la magnífica scenery de toda la ciudad de Medellín. Ya sea que busques experiencias culturales o seas un entusiasta de la fotografía ansioso por capturar panoramas de la ciudad, encontrarás tu experiencia perfecta aquí.",
+    "description": "Descubre el hito cultural de Medellín, Colombia — un destino turístico de primer nivel que combina a la perfección arquitectura tradicional, escultura contemporánea y magníficos panoramas de la ciudad.  Ubicado en el distrito de Belén de Medellín, el Cerro de Nutibara Parque de las Esculturas es una atracción turística cultural única que combina perfectamente el 'encanto del pueblo tradicional colombiano' con el 'arte de esculturas modernas'.  No solo cuenta con el icónico complejo arquitectónico tradicional de Pueblito Paisa, sino que también está adornado con impresionantes obras de esculturas. Desde la cima de la montaña, puedes overlook la magnífica scenery de toda la ciudad de Medellín. Ya sea que busques experiencias culturales o seas un entusiasta de la fotografía ansioso por capturar panoramas de la ciudad, encontrarás tu experiencia perfecta aquí.",
     "visitGuide": {
       "title": "Consejos de Visita",
       "items": [
@@ -414,7 +414,7 @@
   },
   "cookieSettings": {
     "title": "Configuración de Cookies",
-    "description": "Última actualización: junio de 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
+    "description": "Última actualización: junio de 2026  Utilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
     "essential": {
       "title": "Cookies Esenciales",
       "description": "Estas cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden deshabilitar.",
@@ -485,5 +485,9 @@
   "didYouKnow": {
     "title": "💡 Huevo de Pascua Oculto: ¿Sabías que...?",
     "description": "¡Parte de la madera, las tejas rojas, las puertas y las ventanas utilizadas en la construcción del Pueblito Paisa son en realidad artefactos históricos auténticos rescatados y transportados desde el antiguo pueblo de El Peñol antes de que fuera inundado para construir el embalse Peñol-Guatapé!"
+  },
+  "about": {
+    "title": "Acerca del Cerro Nutibara",
+    "description": "El Cerro Nutibara es un hito natural y cultural icónico en el corazón de Medellín, Colombia. Como una de las \"islas verdes\" más grandes de la ciudad, no solo conserva ricos recursos ecológicos, sino que también es mundialmente famoso por el Pueblito Paisa y el parque de esculturas al aire libre en su cima. Como bien público, la atracción es administrada y mantenida actualmente por la **Alcaldía de Medellín**, dedicada a proporcionar un espacio gratuito y abierto para la recreación natural y la educación cultural tanto para los ciudadanos como para los visitantes internacionales."
   }
 }

@@ -13,7 +13,7 @@
   },
   "hero": {
     "title": "Cerro Nutibara & Pueblito Paisa",
-    "subtitle": "Medellín's green lung, navigating between traditional replicas and modern art.\\nEnjoy a stunning 360-degree panoramic view of the city, stroll through the timeless corridors of a traditional Antioquian town, and experience the charm of modern sculpture art.",
+    "subtitle": "Medellín's green lung, navigating between traditional replicas and modern art. Enjoy a stunning 360-degree panoramic view of the city, stroll through the timeless corridors of a traditional Antioquian town, and experience the charm of modern sculpture art.",
     "rating": "4.6",
     "reviewCount": "5,649",
     "hours": "Tourist Attraction",
@@ -22,7 +22,7 @@
   },
   "intro": {
     "title": "Explore the Hill",
-    "description": "Discover the cultural landmark of Medellín, Colombia — a top-tier tourist destination that perfectly blends traditional architecture, contemporary sculpture, and magnificent city panoramas.\n\nLocated in the Belén district of Medellín, Cerro de Nutibara Sculpture Park is a unique cultural tourism attraction that perfectly combines 'traditional Colombian village charm' with 'modern sculpture art.'\n\nNot only does it feature the iconic Pueblito Paisa traditional architectural complex, but it is also dotted with stunning sculpture works. From the mountaintop, you can overlook the magnificent scenery of the entire city of Medellín. Whether you're a traveler seeking cultural experiences or a photography enthusiast eager to capture city panoramas, you'll find your perfect experience here.",
+    "description": "Discover the cultural landmark of Medellín, Colombia — a top-tier tourist destination that perfectly blends traditional architecture, contemporary sculpture, and magnificent city panoramas.  Located in the Belén district of Medellín, Cerro de Nutibara Sculpture Park is a unique cultural tourism attraction that perfectly combines 'traditional Colombian village charm' with 'modern sculpture art.'  Not only does it feature the iconic Pueblito Paisa traditional architectural complex, but it is also dotted with stunning sculpture works. From the mountaintop, you can overlook the magnificent scenery of the entire city of Medellín. Whether you're a traveler seeking cultural experiences or a photography enthusiast eager to capture city panoramas, you'll find your perfect experience here.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -414,7 +414,7 @@
   },
   "cookieSettings": {
     "title": "Cookie Settings",
-    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "description": "Last Updated: June 2026  We use cookies to improve your browsing experience. You can manage your preferences below.",
     "essential": {
       "title": "Essential Cookies",
       "description": "These cookies are essential for the website to function properly and cannot be disabled.",
@@ -485,5 +485,9 @@
   "didYouKnow": {
     "title": "💡 Hidden Easter Egg: Did You Know?",
     "description": "Some of the wood, red tiles, doors, and windows used in the construction of Pueblito Paisa are actually authentic historical artifacts rescued and transported from the old town of El Peñol before it was flooded to build the Peñol-Guatapé reservoir!"
+  },
+  "about": {
+    "title": "About Cerro Nutibara",
+    "description": "Cerro Nutibara is an iconic natural and cultural landmark in the heart of Medellín, Colombia. As one of the city's largest \"green islands,\" it not only preserves rich ecological resources but is also globally renowned for the Pueblito Paisa and the open-air sculpture park at its summit. As a public asset, the attraction is currently managed and maintained by the **Medellín City Government (Alcaldía de Medellín)**, dedicated to providing a free and open space for natural recreation and cultural education for both locals and international visitors."
   }
 }

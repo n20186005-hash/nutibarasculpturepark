@@ -1,6 +1,7 @@
 import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
+import About from '@/components/About';
 import Intro from '@/components/Intro';
 import BasicInfo from '@/components/BasicInfo';
 import DeepDive from '@/components/DeepDive';
@@ -28,6 +29,7 @@ export default async function HomePage({
       <Header />
       <main>
         <Hero />
+        <About />
         <Intro />
         <BasicInfo />
         <DeepDive />
