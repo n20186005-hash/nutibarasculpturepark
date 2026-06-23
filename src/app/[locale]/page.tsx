@@ -3,7 +3,9 @@ import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import Intro from '@/components/Intro';
 import BasicInfo from '@/components/BasicInfo';
+import DeepDive from '@/components/DeepDive';
 import HistoryTimeline from '@/components/HistoryTimeline';
+import DidYouKnow from '@/components/DidYouKnow';
 import RouteSection from '@/components/RouteSection';
 import HoursSection from '@/components/HoursSection';
 import TicketsSection from '@/components/TicketsSection';
@@ -28,7 +30,9 @@ export default async function HomePage({
         <Hero />
         <Intro />
         <BasicInfo />
+        <DeepDive />
         <HistoryTimeline />
+        <DidYouKnow />
         <RouteSection />
         <HoursSection />
         <TicketsSection />

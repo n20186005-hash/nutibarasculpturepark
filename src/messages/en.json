@@ -374,29 +374,39 @@
     ]
   },
   "historyTimeline": {
-    "title": "Historical Timeline",
+    "title": "Historical Origins: From Indigenous Totems to Public Park",
     "items": [
       {
-        "year": "Early Days",
-        "title": "Origins: Natural Hill",
-        "plaque": "Natural Landscape",
-        "description": "Cerro de Nutibara was originally a natural hill in the Belén district of Medellín, gradually becoming popular among local residents and tourists for its superior geographical location and beautiful city panorama."
+        "year": "Pre-Columbian Era",
+        "title": "The Legend of Cacique Nutibara",
+        "plaque": "Indigenous Totem",
+        "description": "The hill is named after Cacique Nutibara, one of Colombia's most famous indigenous resistance leaders. Naming the hill Nutibara is a permanent tribute to the native history and anti-colonial spirit of this land."
       },
       {
-        "year": "Development Period",
-        "title": "Development: Pueblito Paisa Construction",
-        "plaque": "Cultural Development",
-        "description": "Over time, tourism in Medellín continued to develop. Cerro de Nutibara gradually added the Pueblito Paisa traditional architectural complex and various cultural facilities, becoming an important tourist attraction in the area."
+        "year": "18th - 19th Century",
+        "title": "Colonial & Republican Eras: Changes in Ownership",
+        "plaque": "Land Privatization",
+        "description": "Early on, it was named Morro Marcela de la Parra after its female owner. In the 19th century, it was owned by the Cadavid family (Morro de los Cadavides) and served mainly as a pasture and stone quarry."
       },
       {
-        "year": "Modern Era",
-        "title": "Modern: Comprehensive Cultural Park",
-        "plaque": "Tourism Development (Cultural Park)",
-        "description": "Today, Cerro de Nutibara Sculpture Park has become a comprehensive tourism destination combining cultural experience, art appreciation, and city viewing, receiving more recognition and love from tourists."
+        "year": "1920s",
+        "title": "Return to Public Assets",
+        "plaque": "Urban Green Lung",
+        "description": "Realizing its invaluable asset as an urban green lung and landscape core, the Medellín city government officially acquired it and planned it as a public park, beginning its modern transformation."
+      },
+      {
+        "year": "1978",
+        "title": "Pueblito Paisa Completed",
+        "plaque": "Architectural Experiment",
+        "description": "As industrialization advanced, traditional rural towns in Antioquia rapidly disappeared. Guided by historians and architects, this perfect replica town was built on the summit as a rescue architectural experiment of historical and anthropological significance."
+      },
+      {
+        "year": "1983",
+        "title": "Open-Air Sculpture Park",
+        "plaque": "Pioneering Art Experiment",
+        "description": "Pushed by the Medellín Museum of Modern Art (MAMM), Cerro Nutibara welcomed permanent sculptures by 11 top international and local artists. It was an early Latin American attempt to combine avant-garde abstract art with natural public spaces."
       }
-    ],
-    "guideTitle": "Visitor Guide Tip",
-    "guideContent": "When visiting, you can start from the park entrance and head to Pueblito Paisa; appreciate traditional architecture and plaza; explore sculpture art works; photograph city panorama at the viewpoint; if you have enough time, you can also continue exploring other attractions in Medellín."
+    ]
   },
   "officialManagement": {
     "title": "About Cerro de Nutibara Sculpture Park",
@@ -447,5 +457,33 @@
     },
     "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
     "rejectAll": "Reject All"
+  },
+  "deepDive": {
+    "title": "A Living Fossil of Nature and Culture: Deep Dive",
+    "geology": {
+      "title": "Geology & Ecology: An Urban \"Green Island\"",
+      "subtitle1": "Tectonic Origin: The Erosion-Resistant Andean Inselberg",
+      "desc1": "Geologically, Cerro Nutibara is a typical Inselberg. The hill is mainly composed of Cretaceous amphibolite and diorite, which are extremely hard. Over millions of years, softer surrounding rocks eroded away, leaving this core standing proudly.",
+      "subtitle2": "Ecological Value: The Aburrá Valley Sanctuary",
+      "desc2": "Covered with secondary evergreen broadleaf forests, including the native Guayacán tree. It is home to over 40 recorded bird species, tropical squirrels, and various amphibians, forming an invaluable ecological corridor within the city."
+    },
+    "architecture": {
+      "title": "Architecture & Cultural Anthropology: Semiotics of Pueblito Paisa",
+      "subtitle1": "What is \"Cultura Paisa\"?",
+      "desc1": "Paisa culture blends traits from Spanish colonizers, Basque immigrants, and local indigenous people, forming a unique dialect, cohesive family values, and an iconic architectural style.",
+      "subtitle2": "A 1:1 Time Capsule",
+      "desc2": "The central square features a typical Spanish grid layout; the traditional church replicates colonial white walls and red tiles; the barbershop, pharmacy, and school display real late-19th-century artifacts, educating the public about pre-industrial daily life."
+    },
+    "art": {
+      "title": "Contemporary Art History: Breaking Museum Walls",
+      "subtitle1": "Academic Guide to Core Exhibits",
+      "desc1": "\"Signos en el espacio\" (Signs in Space) by Carlos Rojas uses weathering steel to explore the conflict and symbiosis of geometry and nature. \"La de la tercera edad\" (Old Age) uses granite and metal to metaphorically represent the resilience of life.",
+      "subtitle2": "Art Movements",
+      "desc2": "The works cover Constructivism and Minimalism. They eschew figurative forms, using materials and spatial geometry to guide viewers in contemplating the relationship between humanity, art, and the hill itself."
+    }
+  },
+  "didYouKnow": {
+    "title": "💡 Hidden Easter Egg: Did You Know?",
+    "description": "Some of the wood, red tiles, doors, and windows used in the construction of Pueblito Paisa are actually authentic historical artifacts rescued and transported from the old town of El Peñol before it was flooded to build the Peñol-Guatapé reservoir!"
   }
 }

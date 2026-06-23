@@ -374,29 +374,39 @@
     ]
   },
   "historyTimeline": {
-    "title": "Cronología Histórica",
+    "title": "Orígenes Históricos: De los Tótem Indígenas a Parque Público",
     "items": [
       {
-        "year": "Días Iniciales",
-        "title": "Orígenes: Cerro Natural",
-        "plaque": "Paisaje Natural",
-        "description": "El Cerro de Nutibara fue originalmente una colina natural en el distrito de Belén de Medellín, volviéndose gradualmente popular entre los residentes locales y turistas por su superior ubicación geográfica y hermoso panorama de la ciudad."
+        "year": "Época Precolombina",
+        "title": "La Leyenda del Cacique Nutibara",
+        "plaque": "Tótem Indígena",
+        "description": "La colina lleva el nombre del Cacique Nutibara, uno de los líderes de resistencia indígena más famosos de Colombia. Nombrar la colina Nutibara es un tributo permanente a la historia nativa y al espíritu anticolonial de esta tierra."
       },
       {
-        "year": "Período de Desarrollo",
-        "title": "Desarrollo: Construcción de Pueblito Paisa",
-        "plaque": "Desarrollo Cultural",
-        "description": "Con el tiempo, el turismo en Medellín continuó desarrollándose. El Cerro de Nutibara agregó gradualmente el complejo arquitectónico tradicional de Pueblito Paisa y diversas instalaciones culturales, convirtiéndose en una atracción turística importante en el área."
+        "year": "Siglos XVIII - XIX",
+        "title": "Épocas Colonial y Republicana",
+        "plaque": "Privatización de Tierras",
+        "description": "Al principio, se llamaba Morro Marcela de la Parra en honor a su propietaria. En el siglo XIX, perteneció a la familia Cadavid (Morro de los Cadavides) y sirvió principalmente como pastizal y cantera de piedra."
       },
       {
-        "year": "Era Moderna",
-        "title": "Moderno: Parque Cultural Integral",
-        "plaque": "Desarrollo Turístico (Parque Cultural)",
-        "description": "Hoy en día, el Cerro de Nutibara Parque de las Esculturas se ha convertido en un destino turístico integral que combina experiencia cultural, apreciación artística y vista de la ciudad, recibiendo más reconocimiento y amor de los turistas."
+        "year": "Años 1920",
+        "title": "Regreso a los Bienes Públicos",
+        "plaque": "Pulmón Verde Urbano",
+        "description": "Al darse cuenta de su invaluable valor como pulmón verde urbano y núcleo paisajístico, la alcaldía de Medellín lo adquirió oficialmente y lo planificó como un parque público, comenzando su transformación moderna."
+      },
+      {
+        "year": "1978",
+        "title": "Pueblito Paisa Terminado",
+        "plaque": "Experimento Arquitectónico",
+        "description": "A medida que avanzaba la industrialización, los pueblos rurales tradicionales en Antioquia desaparecieron rápidamente. Guiado por historiadores y arquitectos, este pueblo réplica perfecto se construyó en la cima como un experimento arquitectónico de rescate."
+      },
+      {
+        "year": "1983",
+        "title": "Parque de Esculturas al Aire Libre",
+        "plaque": "Experimento de Arte Pionero",
+        "description": "Impulsado por el Museo de Arte Moderno de Medellín (MAMM), el Cerro Nutibara recibió esculturas permanentes de 11 destacados artistas internacionales y locales. Fue un intento pionero en América Latina de combinar el arte abstracto de vanguardia con espacios públicos naturales."
       }
-    ],
-    "guideTitle": "Consejo de Guía para Visitantes",
-    "guideContent": "Al visitar, puedes comenzar desde la entrada del parque y dirigirte a Pueblito Paisa; apreciar arquitectura y plaza tradicionales; explorar obras de arte de esculturas; fotografiar el panorama de la ciudad en el mirador; si tienes tiempo suficiente, también puedes continuar explorando otras atracciones en Medellín."
+    ]
   },
   "officialManagement": {
     "title": "Acerca del Cerro de Nutibara Parque de las Esculturas",
@@ -447,5 +457,33 @@
     },
     "consentManagement": "Gestión del Consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que deshabilitar ciertas cookies puede afectar la funcionalidad del sitio web.",
     "rejectAll": "Rechazar Todas"
+  },
+  "deepDive": {
+    "title": "Un Fósil Viviente de Naturaleza y Cultura: Análisis Profundo",
+    "geology": {
+      "title": "Geología y Ecología: Una \"Isla Verde\" Urbana",
+      "subtitle1": "Origen Tectónico: El Inselberg Andino",
+      "desc1": "Geológicamente, el Cerro Nutibara es un típico Inselberg (monte isla). La colina está compuesta principalmente por anfibolita y diorita del Cretácico, que son extremadamente duras. Durante millones de años, la erosión desgastó las rocas más blandas, dejando este núcleo intacto.",
+      "subtitle2": "Valor Ecológico: El Santuario del Valle de Aburrá",
+      "desc2": "Cubierto de bosques secundarios de hoja ancha, incluyendo el árbol nativo Guayacán. Es el hogar de más de 40 especies de aves registradas, ardillas tropicales y varios anfibios, formando un invaluable corredor ecológico dentro de la ciudad."
+    },
+    "architecture": {
+      "title": "Arquitectura y Antropología Cultural: Semiótica del Pueblito Paisa",
+      "subtitle1": "¿Qué es la \"Cultura Paisa\"?",
+      "desc1": "La cultura paisa combina rasgos de colonizadores españoles, inmigrantes vascos y pueblos indígenas locales, formando un dialecto único, valores familiares cohesivos y un estilo arquitectónico icónico.",
+      "subtitle2": "Una Cápsula del Tiempo 1:1",
+      "desc2": "La plaza central presenta un diseño de cuadrícula español típico; la iglesia tradicional reproduce paredes blancas y tejas rojas coloniales; la barbería, la farmacia y la escuela exhiben artefactos reales de finales del siglo XIX, educando al público sobre la vida cotidiana preindustrial."
+    },
+    "art": {
+      "title": "Historia del Arte Contemporáneo: Rompiendo los Muros del Museo",
+      "subtitle1": "Guía Académica de las Obras Centrales",
+      "desc1": "\"Signos en el espacio\" de Carlos Rojas utiliza acero corten para explorar el conflicto y la simbiosis entre la geometría y la naturaleza. \"La de la tercera edad\" utiliza granito y metal para representar metafóricamente la resiliencia de la vida.",
+      "subtitle2": "Movimientos Artísticos",
+      "desc2": "Las obras abarcan el constructivismo y el minimalismo. Evitan las formas figurativas, utilizando materiales y geometría espacial para guiar a los espectadores a contemplar la relación entre la humanidad, el arte y la colina misma."
+    }
+  },
+  "didYouKnow": {
+    "title": "💡 Huevo de Pascua Oculto: ¿Sabías que...?",
+    "description": "¡Parte de la madera, las tejas rojas, las puertas y las ventanas utilizadas en la construcción del Pueblito Paisa son en realidad artefactos históricos auténticos rescatados y transportados desde el antiguo pueblo de El Peñol antes de que fuera inundado para construir el embalse Peñol-Guatapé!"
   }
 }
