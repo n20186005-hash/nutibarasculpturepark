@@ -1,0 +1,387 @@
+{
+  "meta": {
+    "title": "Cerro de Nutibara 雕塑公园 | 哥伦比亚麦德林旅游胜地",
+    "description": "探索 Cerro de Nutibara Sculpture Park（努蒂巴拉山雕塑公园），位于哥伦比亚麦德林贝尔伦区的旅游胜地，感受美丽的城市景观和雕塑艺术。"
+  },
+  "header": {
+    "siteName": "Cerro de Nutibara",
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Cerro de Nutibara Sculpture Park",
+    "subtitle": "城市全景、传统建筑与精美雕塑艺术",
+    "rating": "4.6",
+    "reviewCount": "5,649",
+    "hours": "旅游胜地",
+    "openMaps": "查看地图导航"
+  },
+  "intro": {
+    "title": "探索 Cerro de Nutibara",
+    "description": "探索哥伦比亚麦德林的文化地标 —— 完美融合传统建筑、当代雕塑与壮丽城市全景的顶级旅游目的地。\n\nCerro de Nutibara Sculpture Park 位于麦德林贝尔伦区，是一处独特的文化旅游景点，将「传统哥伦比亚小镇风情」与「现代雕塑艺术」完美结合。\n\n这里不仅有标志性的 Pueblito Paisa（小集镇）传统建筑群，还遍布着令人惊叹的雕塑作品。从山顶可以俯瞰麦德林整个城市的壮丽景色。无论是寻求文化体验的旅行者，还是渴望拍摄城市全景的摄影爱好者，都能在这里找到专属的完美体验。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "🌞 上午游览：从入口出发 ➔ 参观 Pueblito Paisa ➔ 欣赏传统建筑",
+        "🌙 下午雕塑之旅：探索公园内的雕塑作品 ➔ 品尝当地美食 ➔ 感受文化氛围",
+        "🎉 傍晚时光：在观景台欣赏日落 ➔ 拍摄城市全景 ➔ 体验麦德林夜景"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "核心亮点",
+      "items": [
+        "🏛️ 地标级 Pueblito Paisa：山顶建有传统哥伦比亚小镇风格的完整建筑群，包括教堂、广场、典型住宅等。这是了解哥伦比亚传统建筑文化的绝佳地点，也是拍摄麦德林城市全景的最佳机位。",
+        "🎨 雕塑艺术公园：公园内遍布着众多精美的雕塑作品，展现了哥伦比亚当代艺术的风采。这些雕塑与自然环境完美融合，为游客提供了独特的艺术体验。",
+        "🌆 麦德林城市全景：位于山顶的优越位置，可以360度俯瞰麦德林城市的壮丽景色。白天可以欣赏城市布局，傍晚可以拍摄令人惊叹的日落和城市灯光明亮夜景。"
+      ]
+    }
+  },
+  "route": {
+    "title": "💡 游览建议与旅行贴士",
+    "overview": "完美的一天行程安排：",
+    "steps": [
+      "上午 (文化探索)：从公园入口出发前往 Pueblito Paisa，参观传统教堂和广场，了解哥伦比亚建筑文化。",
+      "下午 (艺术欣赏)：漫步雕塑公园，欣赏各类当代雕塑作品，在艺术与自然的交融中感受文化魅力。",
+      "傍晚 (全景拍摄)：前往山顶观景台，拍摄麦德林城市全景，欣赏壮丽的日落景色和城市夜景。"
+    ],
+    "supplementsTitle": "实用贴士",
+    "supplements": [
+      "最佳时间：建议在傍晚时分前往，可以同时欣赏白天的城市景色和夜晚的灯光秀。",
+      "防晒与补水：麦德林气候温暖，请随身携带防晒霜、太阳镜以及充足的饮用水。",
+      "摄影准备：山顶是拍摄麦德林全景的绝佳位置，建议携带相机或手机充满电，并准备稳定的拍摄姿势。"
+    ]
+  },
+  "knowledge": {
+    "title": "发现 Cerro de Nutibara 的魅力",
+    "sections": [
+      {
+        "id": "park",
+        "title": "公园与文化",
+        "content": "Cerro de Nutibara Sculpture Park 是麦德林重要的旅游景点，承载着当地文化和旅游发展的功能。这里拥有美丽的城市景观和传统建筑，是体验哥伦比亚文化的理想场所。"
+      },
+      {
+        "id": "sculpture",
+        "title": "雕塑艺术功能",
+        "content": "作为旅游胜地和雕塑艺术公园，这里不仅是游客的休闲地点，更是当地居民和游客感受艺术氛围的重要场所。公园体现了麦德林文化艺术的活力与魅力。"
+      },
+      {
+        "id": "location",
+        "title": "地理位置与交通",
+        "content": "Cerro de Nutibara Sculpture Park 位于哥伦比亚安蒂奥基亚省麦德林贝尔伦区，交通便利，是前往麦德林文化旅游的理想选择。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "核心标签 (Quick Facts)",
+    "officialName": "景点名称",
+    "officialNameValue": "Cerro de Nutibara Sculpture Park（努蒂巴拉山雕塑公园）",
+    "type": "景点类型",
+    "typeValue": "旅游胜地 / 雕塑公园 / 文化景点",
+    "country": "国家",
+    "countryValue": "哥伦比亚",
+    "city": "城市",
+    "cityValue": "麦德林 (Medellín), 安蒂奥基亚省",
+    "googleRating": "谷歌评分",
+    "address": "位置",
+    "addressValue": "Cerro De Nutibara, Pueblito Paisa, Medellín, Belén, Medellín, Antioquia, 哥伦比亚",
+    "plusCode": "Plus 代码",
+    "plusCodeValue": "6CPC+H9",
+    "phone": "联系电话",
+    "phoneValue": "无",
+    "petFriendly": "宠物准入",
+    "petFriendlyValue": "请咨询现场工作人员",
+    "tickets": "门票信息",
+    "ticketsValue": "公园免费进入；部分特殊活动或展览可能收费，需现场咨询。",
+    "facilities": "实用设施",
+    "facilitiesValue": "附近有公共卫生间、餐厅和停车场"
+  },
+  "hours": {
+    "title": "开放时间与游览建议",
+    "outdoor": "营业时间",
+    "outdoorTime": "08:00–22:00",
+    "lighthouse": "最佳游览时间",
+    "summer": "傍晚时分",
+    "summerTime": "（具体视天气和季节而定，建议参考 Google Maps 数据）",
+    "winter": "注意事项",
+    "winterTime": "携带防晒用品、相机和充足的水",
+    "warning": "💡 动态天气提示",
+    "warningTime": "麦德林气候宜人，非常适合户外游览，建议携带防晒用品和充足的饮用水。",
+    "tip": "公园附近有许多当地小吃摊和餐厅，可以品尝 authentic 的哥伦比亚美食。"
+  },
+  "tickets": {
+    "title": "注意事项",
+    "outdoor": "入场费用",
+    "outdoorPrice": "免费进入",
+    "lighthouse": "交通信息",
+    "adults": "从麦德林市中心出发",
+    "adultsPrice": "乘坐出租车或公共交通约20-30分钟",
+    "students": "建议游玩时间",
+    "studentsPrice": "2-3小时",
+    "card": "周边景点",
+    "cardPrice": "Pueblito Paisa、麦德林市中心。👉 [前往麦德林]",
+    "officialNotice": "获取最新信息，请查阅",
+    "officialNoticeLinkLabel": "麦德林市政府官方网站",
+    "officialNoticeLink": "https://www.medellin.gov.co/"
+  },
+  "transport": {
+    "title": "交通指南",
+    "airport": "✈️ 机场到景点路线 (核心推荐)",
+    "airportDesc": "距离 Cerro de Nutibara Sculpture Park 最近的机场是何塞·玛丽亚·科尔多瓦国际机场 (MDE)。抵达后，可乘坐出租车或网约车前往麦德林市区，再转乘前往贝尔伦区的交通工具。全程约 45 分钟至 1 小时即可直达 Cerro de Nutibara，这是最高效的抵达方式。",
+    "selfDrive": "自驾前往",
+    "selfDriveDesc": "从麦德林市中心出发，沿着道路行驶约20-30分钟即可到达 Cerro de Nutibara Sculpture Park。",
+    "bus": "🚌 公共交通 (从麦德林市中心出发)",
+    "busDesc": "从麦德林市中心可乘坐公交车或地铁前往贝尔伦区，再步行或打车前往公园入口。建议向当地人咨询具体的公交线路和时刻表。",
+    "intercity": "区内交通",
+    "intercityDesc": "Cerro de Nutibara Sculpture Park 位于贝尔伦区，从麦德林市中心可轻松到达。",
+    "cycling": "其他方式",
+    "cyclingDesc": "可以在麦德林市内租用交通工具或打车游览，更好地欣赏城市风光。",
+    "tips": "出行建议",
+    "tipsDesc": "从麦德林市中心出发路程较短，建议提前规划好行程和交通方式。"
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "感受哥伦比亚麦德林的文化魅力",
+    "captions": [
+      "Cerro de Nutibara 全景",
+      "Pueblito Paisa 传统建筑",
+      "雕塑艺术作品",
+      "城市全景景色",
+      "麦德林城市风光",
+      "公园漫步时光",
+      "山顶观景台",
+      "哥伦比亚文化风貌",
+      "游客活动场景",
+      "雕塑公园氛围",
+      "传统广场街景",
+      "文化艺术气息",
+      "城市景观元素",
+      "自然与文化融合",
+      "旅游活动场景",
+      "文化体验场景",
+      "阳光与城市"
+    ],
+    "viewAll": "在 Google Maps 查看更多照片",
+    "showAllPhotos": "显示全部照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "2个月前",
+        "rating": 5,
+        "text": "美丽的公园，可以感受到麦德林的文化魅力。"
+      },
+      {
+        "name": "李小明",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "Pueblito Paisa 非常有趣，是了解哥伦比亚文化的好地方！"
+      },
+      {
+        "name": "María González",
+        "date": "3周前",
+        "rating": 5,
+        "text": "Un lugar encantador para disfrutar de la vista de Medellín."
+      },
+      {
+        "name": "John Smith",
+        "date": "半年多前",
+        "rating": 5,
+        "text": "A charming cultural destination in Medellín. Great for family trips."
+      },
+      {
+        "name": "Ana Silva",
+        "date": "2个月前",
+        "rating": 4,
+        "text": "Hermoso lugar para disfrutar de la cultura colombiana. Muy recomendado."
+      },
+      {
+        "name": "张伟",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "来到麦德林一定要来这个公园，感受哥伦比亚的文化艺术！"
+      },
+      {
+        "name": "Roberto Pérez",
+        "date": "3个月前",
+        "rating": 5,
+        "text": "Excelente lugar para disfrutar de la vista y la cultura colombiana."
+      },
+      {
+        "name": "Emma Wilson",
+        "date": "2个月前",
+        "rating": 5,
+        "text": "A must-visit place in Medellín! The view is beautiful and cultural."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "Cerro De Nutibara, Pueblito Paisa, Medellín, Belén, Medellín, Antioquia, 哥伦比亚",
+    "openMaps": "在 Google Maps 查看位置",
+    "nearbyTitle": "周边推荐",
+    "nearby1Name": "Pueblito Paisa",
+    "nearby1Desc": "🚶 步行可达",
+    "nearby2Name": "麦德林市中心",
+    "nearby2Desc": "🚗 车程可达"
+  },
+  "footer": {
+    "rights": "© 2026 Cerro de Nutibara Sculpture Park. 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "colombiaTravel": {
+        "name": "哥伦比亚国家旅游局官方门户 (Colombia Travel)",
+        "url": "https://colombia.travel/es"
+      },
+      "medellinTravel": {
+        "name": "麦德林与安蒂奥基亚省官方旅游指南 (Medellín Travel)",
+        "url": "https://www.medellin.travel/"
+      },
+      "mincit": {
+        "name": "哥伦比亚贸易、工业和旅游部 (MinCIT)",
+        "url": "https://www.mincit.gov.co/"
+      },
+      "procolombia": {
+        "name": "哥伦比亚旅游、外资和非传统出口促进局 (ProColombia)",
+        "url": "https://procolombia.co/"
+      },
+      "antioquia": {
+        "name": "安蒂奥基亚省政府官网 (Gobernación de Antioquia)",
+        "url": "https://antioquia.gov.co/"
+      },
+      "migracion": {
+        "name": "哥伦比亚国家移民局 (Migración Colombia)",
+        "url": "https://www.migracioncolombia.gov.co/"
+      }
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 我们收集的信息",
+        "content": "我们仅收集提供服务所必需的最低限度数据。这些数据可能包括：浏览数据（IP 地址、浏览器类型、访问页面）、Cookie 和类似技术，以及您通过联系表格或电子邮件自愿提供的任何信息。"
+      },
+      {
+        "heading": "2. 我们如何使用您的信息",
+        "content": "我们使用收集到的信息用于：改善网站内容和用户体验、分析流量和使用模式、回应请求，以及遵守我们的法律义务。"
+      },
+      {
+        "heading": "3. 第三方服务",
+        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图和位置数据）、谷歌分析（用于流量分析）和 Unsplash（用于图片）。这些服务均有各自的隐私政策。"
+      },
+      {
+        "heading": "4. 您的权利",
+        "content": "根据《通用数据保护条例》(GDPR)及相关法规，您享有以下权利：访问您的个人数据、要求更正或删除、反对处理，以及向监管机构提出投诉。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "访问和使用本网站，即表示您同意受这些服务条款的约束。"
+      },
+      {
+        "heading": "2. 内容使用",
+        "content": "本网站所有内容仅供参考。我们是一家独立的第三方旅游信息网站，与任何旅游景点、政府机构或商业运营商均无关联。"
+      },
+      {
+        "heading": "3. 信息的准确性",
+        "content": "我们力求提供准确及时的信息，但无法保证信息的完整性或准确性。行程安排、条件和服务如有变更，恕不另行通知。请务必在出行前通过官方渠道核实重要信息。"
+      },
+      {
+        "heading": "4. 责任限制",
+        "content": "对于因使用本网站或依赖其中提供的信息而产生的任何直接或间接损失，我们不承担任何责任。"
+      }
+    ]
+  },
+  "historyTimeline": {
+    "title": "历史与发展",
+    "items": [
+      {
+        "year": "早期",
+        "title": "起源：自然山丘",
+        "plaque": "自然景观",
+        "description": "Cerro de Nutibara 最初是麦德林贝尔伦区的一处自然山丘，因其优越的地理位置和美丽的城市全景而逐渐受到当地居民和游客的喜爱。"
+      },
+      {
+        "year": "发展期",
+        "title": "发展：Pueblito Paisa 建设",
+        "plaque": "文化发展",
+        "description": "随着时间推移，麦德林的旅游业不断发展，Cerro de Nutibara 逐渐增加了 Pueblito Paisa 传统建筑群和各种文化设施，成为当地重要的旅游景点。"
+      },
+      {
+        "year": "现代",
+        "title": "现代：综合性文化公园",
+        "plaque": "旅游发展 (文化公园)",
+        "description": "如今，Cerro de Nutibara Sculpture Park 已经成为集文化体验、艺术欣赏和城市观景于一体的综合性旅游目的地，得到了更多游客的认可和喜爱。"
+      }
+    ],
+    "guideTitle": "游客导览建议",
+    "guideContent": "游客在参观时，可以从公园入口出发，前往 Pueblito Paisa；欣赏传统建筑和广场；探索雕塑艺术作品；在观景台拍摄城市全景；如果您有充足的时间，还可以继续探索麦德林的其他景点。"
+  },
+  "officialManagement": {
+    "title": "关于 Cerro de Nutibara Sculpture Park",
+    "text": "Cerro de Nutibara Sculpture Park 是哥伦比亚安蒂奥基亚省麦德林的一处旅游胜地，作为文化景点，是体验哥伦比亚传统建筑和当代艺术的重要场所。"
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "最后更新时间：2026年6月\n\n我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "essential": {
+      "title": "必要 Cookie",
+      "description": "这些 Cookie 对于网站正常运行至关重要，无法禁用。",
+      "badge": "始终保持活跃"
+    },
+    "analytics": {
+      "title": "分析型 Cookie",
+      "description": "它们通过收集匿名使用数据，帮助我们了解访客如何与我们的网站互动。",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "激活",
+          "description": "它会收集访客如何使用我们网站的匿名信息。"
+        }
+      ]
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "它们用于展示相关广告并衡量广告活动的有效性。",
+      "items": [
+        {
+          "name": "个性化广告",
+          "status": "停用",
+          "description": "它可以根据你的兴趣为你展示相关的广告。"
+        }
+      ]
+    },
+    "save": "保存偏好设置",
+    "saved": "设置已保存！",
+    "preferences": {
+      "items": [
+        {
+          "name": "用户偏好",
+          "status": "激活",
+          "description": "保存您的语言偏好和网站设置。"
+        }
+      ],
+      "title": "偏好 Cookie",
+      "description": "它们会记住您的设置，例如语言和主题偏好。"
+    },
+    "consentManagement": "同意管理：您可以随时更改您的 Cookie 设置。请注意，禁用某些 Cookie 可能会影响网站的功能。",
+    "rejectAll": "拒绝一切"
+  }
+}

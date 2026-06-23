@@ -1,0 +1,387 @@
+{
+  "meta": {
+    "title": "Cerro de Nutibara Sculpture Park | Tourist Attraction in Medellín, Colombia",
+    "description": "Explore Cerro de Nutibara Sculpture Park, a tourist attraction in the Belén district of Medellín, Antioquia, Colombia, and experience the beautiful city views and sculpture art."
+  },
+  "header": {
+    "siteName": "Cerro de Nutibara",
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Cerro de Nutibara Sculpture Park",
+    "subtitle": "City Panorama, Traditional Architecture & Exquisite Sculpture Art",
+    "rating": "4.6",
+    "reviewCount": "5,649",
+    "hours": "Tourist Attraction",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Cerro de Nutibara",
+    "description": "Discover the cultural landmark of Medellín, Colombia — a top-tier tourist destination that perfectly blends traditional architecture, contemporary sculpture, and magnificent city panoramas.\n\nLocated in the Belén district of Medellín, Cerro de Nutibara Sculpture Park is a unique cultural tourism attraction that perfectly combines 'traditional Colombian village charm' with 'modern sculpture art.'\n\nNot only does it feature the iconic Pueblito Paisa traditional architectural complex, but it is also dotted with stunning sculpture works. From the mountaintop, you can overlook the magnificent scenery of the entire city of Medellín. Whether you're a traveler seeking cultural experiences or a photography enthusiast eager to capture city panoramas, you'll find your perfect experience here.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "🌞 Morning Tour: Start from the entrance ➔ Visit Pueblito Paisa ➔ Appreciate traditional architecture",
+        "🌙 Afternoon Sculpture Tour: Explore sculpture works in the park ➔ Taste local cuisine ➔ Experience cultural atmosphere",
+        "🎉 Evening Time: Enjoy sunset at the viewpoint ➔ Photograph city panorama ➔ Experience Medellín's night view"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Core Highlights",
+      "items": [
+        "🏛️ Landmark Pueblito Paisa: A complete architectural complex in traditional Colombian village style built on the mountaintop, including church, plaza, typical residences, etc. This is an excellent place to understand Colombian traditional architectural culture and the best spot to photograph Medellín's city panorama.",
+        "🎨 Sculpture Art Park: The park is adorned with numerous exquisite sculpture works, showcasing the elegance of Colombian contemporary art. These sculptures perfectly blend with the natural environment, providing visitors with a unique artistic experience.",
+        "🌆 Medellín City Panorama: The superior location on the mountaintop allows for a 360-degree overlook of Medellín's magnificent city scenery. During the day, you can appreciate the city layout; in the evening, you can photograph breathtaking sunsets and the bright city lights at night."
+      ]
+    }
+  },
+  "route": {
+    "title": "💡 Pro Tips & Itinerary",
+    "overview": "Perfect One-Day Itinerary:",
+    "steps": [
+      "Morning (Cultural Exploration): Depart from the park entrance to Pueblito Paisa, visit the traditional church and plaza, and learn about Colombian architectural culture.",
+      "Afternoon (Art Appreciation): Stroll through the sculpture park, appreciate various contemporary sculpture works, and feel the cultural charm in the blend of art and nature.",
+      "Evening (Panorama Photography): Head to the mountaintop viewpoint, photograph Medellín's city panorama, and enjoy the magnificent sunset scenery and city night view."
+    ],
+    "supplementsTitle": "Practical Tips",
+    "supplements": [
+      "Best Time: It is recommended to go in the evening, as you can enjoy both the daytime city scenery and the nighttime light show.",
+      "Sun Protection & Hydration: Medellín has a warm climate. Please carry sunscreen, sunglasses, and plenty of drinking water.",
+      "Photography Preparation: The mountaintop is an excellent location for photographing Medellín's panorama. It is recommended to bring a camera or ensure your phone is fully charged, and prepare for stable shooting positions."
+    ]
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Cerro de Nutibara",
+    "sections": [
+      {
+        "id": "park",
+        "title": "Park & Culture",
+        "content": "Cerro de Nutibara Sculpture Park is an important tourist attraction in Medellín, carrying the development function of local culture and tourism. It has beautiful city views and traditional architecture, making it an ideal place to experience Colombian culture."
+      },
+      {
+        "id": "sculpture",
+        "title": "Sculpture Art Function",
+        "content": "As a tourist attraction and sculpture art park, this is not only a leisure place for tourists, but also an important venue for local residents and tourists to experience artistic atmosphere. The park embodies the vitality and charm of Medellín's cultural arts."
+      },
+      {
+        "id": "location",
+        "title": "Location & Transportation",
+        "content": "Cerro de Nutibara Sculpture Park is located in Belén, Medellín, Antioquia, Colombia, with convenient transportation, making it an ideal choice for cultural tourism in Medellín."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Quick Facts",
+    "officialName": "Official Name",
+    "officialNameValue": "Cerro de Nutibara Sculpture Park",
+    "type": "Attraction Type",
+    "typeValue": "Tourist Attraction / Sculpture Park / Cultural Site",
+    "country": "Country",
+    "countryValue": "Colombia",
+    "city": "City",
+    "cityValue": "Medellín, Antioquia",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "Cerro De Nutibara, Pueblito Paisa, Medellín, Belén, Medellín, Antioquia, Colombia",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "6CPC+H9",
+    "phone": "Phone",
+    "phoneValue": "N/A",
+    "petFriendly": "Pet Friendly",
+    "petFriendlyValue": "Please consult on-site staff",
+    "tickets": "Tickets",
+    "ticketsValue": "Park entrance is free; some special events or exhibitions may charge fees, please inquire on-site.",
+    "facilities": "Facilities",
+    "facilitiesValue": "Nearby public restrooms, restaurants and parking"
+  },
+  "hours": {
+    "title": "Opening Hours & Visitor Info",
+    "outdoor": "Business Hours",
+    "outdoorTime": "08:00–22:00",
+    "lighthouse": "Best Visiting Time",
+    "summer": "Evening hours",
+    "summerTime": "(Depends on weather and season, please refer to Google Maps)",
+    "winter": "Notes",
+    "winterTime": "Bring sunscreen, camera and plenty of water",
+    "warning": "💡 Dynamic Weather Tip",
+    "warningTime": "Medellín has a pleasant climate, perfect for outdoor visits. We recommend bringing sunscreen and plenty of water.",
+    "tip": "There are many local snack stalls and restaurants near the park, where you can taste authentic Colombian cuisine."
+  },
+  "tickets": {
+    "title": "Important Information",
+    "outdoor": "Admission Fee",
+    "outdoorPrice": "Free entrance",
+    "lighthouse": "Transportation Info",
+    "adults": "From Medellín city center",
+    "adultsPrice": "Take a taxi or public transport approx. 20-30 minutes",
+    "students": "Recommended Visit Duration",
+    "studentsPrice": "2-3 hours",
+    "card": "Nearby Attractions",
+    "cardPrice": "Pueblito Paisa, Medellín city center. 👉 [Go to Medellín]",
+    "officialNotice": "For the latest updates, please refer to the",
+    "officialNoticeLinkLabel": "Official Website of Medellín Municipality",
+    "officialNoticeLink": "https://www.medellin.gov.co/"
+  },
+  "transport": {
+    "title": "How to Get There",
+    "airport": "✈️ Airport to Landmark (Core Recommendation)",
+    "airportDesc": "The closest airport to Cerro de Nutibara Sculpture Park is José María Córdova International Airport (MDE). Upon arrival, you can take a taxi or ride-hailing service to Medellín city center, then transfer to transportation heading to Belén district. The journey is about 45 minutes to 1 hour directly to Cerro de Nutibara, which is the most efficient way to arrive.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "From Medellín city center, follow the road for about 20-30 minutes to reach Cerro de Nutibara Sculpture Park.",
+    "bus": "🚌 Public Transportation (From Medellín city center)",
+    "busDesc": "From Medellín city center, you can take buses or the metro to Belén district, then walk or take a taxi to the park entrance. It is recommended to consult local people for specific bus routes and schedules.",
+    "intercity": "Within the District",
+    "intercityDesc": "Cerro de Nutibara Sculpture Park is located in Belén district, easily accessible from Medellín city center.",
+    "cycling": "Other Options",
+    "cyclingDesc": "You can rent transportation in Medellín city or take a taxi to explore and better appreciate the city scenery.",
+    "tips": "Travel Tips",
+    "tipsDesc": "The journey from Medellín city center is short. It is recommended to plan your itinerary and transportation in advance."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "Feel the Cultural Charm of Medellín, Colombia",
+    "captions": [
+      "Cerro de Nutibara Panoramic View",
+      "Pueblito Paisa Traditional Architecture",
+      "Sculpture Art Works",
+      "City Panorama Scenery",
+      "Medellín City Scenery",
+      "Park Strolling Time",
+      "Mountaintop Viewpoint",
+      "Colombian Cultural Style",
+      "Tourist Activity Scenes",
+      "Sculpture Park Atmosphere",
+      "Traditional Plaza Street View",
+      "Cultural Art Atmosphere",
+      "City Landscape Elements",
+      "Nature and Culture Integration",
+      "Tourist Activity Scenes",
+      "Cultural Experience Scenes",
+      "Sunshine and City"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "Beautiful park, you can feel the cultural charm of Medellín."
+      },
+      {
+        "name": "Li Xiaoming",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "Pueblito Paisa is very interesting, a great place to learn about Colombian culture!"
+      },
+      {
+        "name": "María González",
+        "date": "3 weeks ago",
+        "rating": 5,
+        "text": "Un lugar encantador para disfrutar de la vista de Medellín."
+      },
+      {
+        "name": "John Smith",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "A charming cultural destination in Medellín. Great for family trips."
+      },
+      {
+        "name": "Ana Silva",
+        "date": "2 months ago",
+        "rating": 4,
+        "text": "Hermoso lugar para disfrutar de la cultura colombiana. Muy recomendado."
+      },
+      {
+        "name": "Zhang Wei",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "Must-visit place when coming to Medellín, feel the Colombian culture and art!"
+      },
+      {
+        "name": "Roberto Pérez",
+        "date": "3 months ago",
+        "rating": 5,
+        "text": "Excelente lugar para disfrutar de la vista y la cultura colombiana."
+      },
+      {
+        "name": "Emma Wilson",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "A must-visit place in Medellín! The view is beautiful and cultural."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "Cerro De Nutibara, Pueblito Paisa, Medellín, Belén, Medellín, Antioquia, Colombia",
+    "openMaps": "View on Google Maps",
+    "nearbyTitle": "Nearby Recommendations",
+    "nearby1Name": "Pueblito Paisa",
+    "nearby1Desc": "🚶 Walkable",
+    "nearby2Name": "Medellín City Center",
+    "nearby2Desc": "🚗 By car"
+  },
+  "footer": {
+    "rights": "© 2026 Cerro de Nutibara Sculpture Park. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Links",
+    "officialLinks": {
+      "colombiaTravel": {
+        "name": "Colombia National Tourism Official Portal (Colombia Travel)",
+        "url": "https://colombia.travel/es"
+      },
+      "medellinTravel": {
+        "name": "Medellín and Antioquia Official Tourism Guide (Medellín Travel)",
+        "url": "https://www.medellin.travel/"
+      },
+      "mincit": {
+        "name": "Colombia Ministry of Commerce, Industry and Tourism (MinCIT)",
+        "url": "https://www.mincit.gov.co/"
+      },
+      "procolombia": {
+        "name": "Colombia Tourism, Foreign Investment and Non-Traditional Exports Promotion Agency (ProColombia)",
+        "url": "https://procolombia.co/"
+      },
+      "antioquia": {
+        "name": "Antioquia Governorate Official Website (Gobernación de Antioquia)",
+        "url": "https://antioquia.gov.co/"
+      },
+      "migracion": {
+        "name": "Colombia National Migration Agency (Migración Colombia)",
+        "url": "https://www.migracioncolombia.gov.co/"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be liable for any direct or indirect damages arising from the use of this website or reliance on the information provided herein."
+      }
+    ]
+  },
+  "historyTimeline": {
+    "title": "Historical Timeline",
+    "items": [
+      {
+        "year": "Early Days",
+        "title": "Origins: Natural Hill",
+        "plaque": "Natural Landscape",
+        "description": "Cerro de Nutibara was originally a natural hill in the Belén district of Medellín, gradually becoming popular among local residents and tourists for its superior geographical location and beautiful city panorama."
+      },
+      {
+        "year": "Development Period",
+        "title": "Development: Pueblito Paisa Construction",
+        "plaque": "Cultural Development",
+        "description": "Over time, tourism in Medellín continued to develop. Cerro de Nutibara gradually added the Pueblito Paisa traditional architectural complex and various cultural facilities, becoming an important tourist attraction in the area."
+      },
+      {
+        "year": "Modern Era",
+        "title": "Modern: Comprehensive Cultural Park",
+        "plaque": "Tourism Development (Cultural Park)",
+        "description": "Today, Cerro de Nutibara Sculpture Park has become a comprehensive tourism destination combining cultural experience, art appreciation, and city viewing, receiving more recognition and love from tourists."
+      }
+    ],
+    "guideTitle": "Visitor Guide Tip",
+    "guideContent": "When visiting, you can start from the park entrance and head to Pueblito Paisa; appreciate traditional architecture and plaza; explore sculpture art works; photograph city panorama at the viewpoint; if you have enough time, you can also continue exploring other attractions in Medellín."
+  },
+  "officialManagement": {
+    "title": "About Cerro de Nutibara Sculpture Park",
+    "text": "Cerro de Nutibara Sculpture Park is a tourist attraction in Medellín, Antioquia, Colombia. As a cultural attraction, it is an important venue for experiencing Colombian traditional architecture and contemporary art."
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  }
+}

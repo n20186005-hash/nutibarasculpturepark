@@ -1,0 +1,387 @@
+{
+  "meta": {
+    "title": "Cerro de Nutibara Parque de las Esculturas | Atracción Turística en Medellín, Colombia",
+    "description": "Explora el Cerro de Nutibara Parque de las Esculturas, una atracción turística en el distrito de Belén, Medellín, Antioquia, Colombia, y experimenta las hermosas vistas de la ciudad y el arte de las esculturas."
+  },
+  "header": {
+    "siteName": "Cerro de Nutibara",
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Cerro de Nutibara Parque de las Esculturas",
+    "subtitle": "Panorama de la Ciudad, Arquitectura Tradicional y Exquisito Arte de Esculturas",
+    "rating": "4.6",
+    "reviewCount": "5,649",
+    "hours": "Atracción Turística",
+    "openMaps": "Ver Ubicación"
+  },
+  "intro": {
+    "title": "Explora Cerro de Nutibara",
+    "description": "Descubre el hito cultural de Medellín, Colombia — un destino turístico de primer nivel que combina a la perfección arquitectura tradicional, escultura contemporánea y magníficos panoramas de la ciudad.\n\nUbicado en el distrito de Belén de Medellín, el Cerro de Nutibara Parque de las Esculturas es una atracción turística cultural única que combina perfectamente el 'encanto del pueblo tradicional colombiano' con el 'arte de esculturas modernas'.\n\nNo solo cuenta con el icónico complejo arquitectónico tradicional de Pueblito Paisa, sino que también está adornado con impresionantes obras de esculturas. Desde la cima de la montaña, puedes overlook la magnífica scenery de toda la ciudad de Medellín. Ya sea que busques experiencias culturales o seas un entusiasta de la fotografía ansioso por capturar panoramas de la ciudad, encontrarás tu experiencia perfecta aquí.",
+    "visitGuide": {
+      "title": "Consejos de Visita",
+      "items": [
+        "🌞 Tour Matutino: Comenzar desde la entrada ➔ Visitar Pueblito Paisa ➔ Apreciar arquitectura tradicional",
+        "🌙 Tour de Esculturas por la Tarde: Explorar obras de esculturas en el parque ➔ Probar cocina local ➔ Experimentar atmósfera cultural",
+        "🎉 Tiempo de Atardecer: Disfrutar del atardecer en el mirador ➔ Fotografiar panorama de la ciudad ➔ Experimentar vista nocturna de Medellín"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Aspectos Destacados",
+      "items": [
+        "🏛️ Hitos Pueblito Paisa: Un complejo arquitectónico completo en estilo de pueblo tradicional colombiano construido en la cima de la montaña, incluyendo iglesia, plaza, residencias típicas, etc. Este es un excelente lugar para entender la cultura arquitectónica tradicional colombiana y el mejor lugar para fotografiar el panorama de la ciudad de Medellín.",
+        "🎨 Parque de Arte de Esculturas: El parque está adornado con numerosas obras de esculturas exquisitas, mostrando la elegancia del arte contemporáneo colombiano. Estas esculturas se funden perfectamente con el entorno natural, proporcionando a los visitantes una experiencia artística única.",
+        "🌆 Panorama de la Ciudad de Medellín: La ubicación superior en la cima de la montaña permite un overlook de 360 grados de la magnífica scenery de la ciudad de Medellín. Durante el día, puedes apreciar el diseño de la ciudad; en el atardecer, puedes fotografiar breathtaking atardeceres y las brillantes luces de la ciudad en la noche."
+      ]
+    }
+  },
+  "route": {
+    "title": "💡 Consejos y Itinerario",
+    "overview": "Itinerario Perfecto de Un Día:",
+    "steps": [
+      "Mañana (Exploración Cultural): Salir de la entrada del parque hacia Pueblito Paisa, visitar la iglesia y plaza tradicionales, y aprender sobre la cultura arquitectónica colombiana.",
+      "Tarde (Apreciación Artística): Pasear por el parque de esculturas, apreciar varias obras de esculturas contemporáneas, y sentir el encanto cultural en la fusión de arte y naturaleza.",
+      "Noche (Fotografía Panorámica): Dirigirse al mirador en la cima de la montaña, fotografiar el panorama de la ciudad de Medellín, y disfrutar del magnífico scenery del atardecer y la vista nocturna de la ciudad."
+    ],
+    "supplementsTitle": "Consejos Prácticos",
+    "supplements": [
+      "Mejor Momento: Se recomienda ir en el atardecer, ya que puedes disfrutar tanto del scenery de la ciudad durante el día como del espectáculo de luces nocturnas.",
+      "Protección Solar e Hidratación: Medellín tiene un clima cálido. Por favor, lleva protector solar, gafas de sol y mucha agua potable.",
+      "Preparación Fotográfica: La cima de la montaña es una ubicación excelente para fotografiar el panorama de Medellín. Se recomienda traer una cámara o asegurar que tu teléfono esté completamente cargado, y prepararse para posiciones de disparo estables."
+    ]
+  },
+  "knowledge": {
+    "title": "Descubre el Encanto de Cerro de Nutibara",
+    "sections": [
+      {
+        "id": "park",
+        "title": "Parque y Cultura",
+        "content": "El Cerro de Nutibara Parque de las Esculturas es una atracción turística importante en Medellín, llevando la función del desarrollo cultural y turístico local. Tiene hermosas vistas de la ciudad y arquitectura tradicional, lo que lo convierte en un lugar ideal para experimentar la cultura colombiana."
+      },
+      {
+        "id": "sculpture",
+        "title": "Función del Arte de Esculturas",
+        "content": "Como una atracción turística y parque de arte de esculturas, este no es solo un lugar de ocio para turistas, sino también un lugar importante para que los residentes locales y turistas experimenten la atmósfera artística. El parque encarna la vitalidad y el encanto de las artes culturales de Medellín."
+      },
+      {
+        "id": "location",
+        "title": "Ubicación y Transporte",
+        "content": "El Cerro de Nutibara Parque de las Esculturas está ubicado en Belén, Medellín, Antioquia, Colombia, con transporte conveniente, lo que lo convierte en una opción ideal para el turismo cultural en Medellín."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Datos Rápidos",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Cerro de Nutibara Parque de las Esculturas",
+    "type": "Tipo de Atracción",
+    "typeValue": "Atracción Turística / Parque de Esculturas / Sitio Cultural",
+    "country": "País",
+    "countryValue": "Colombia",
+    "city": "Ciudad",
+    "cityValue": "Medellín, Antioquia",
+    "googleRating": "Calificación de Google",
+    "address": "Dirección",
+    "addressValue": "Cerro De Nutibara, Pueblito Paisa, Medellín, Belén, Medellín, Antioquia, Colombia",
+    "plusCode": "Código Plus",
+    "plusCodeValue": "6CPC+H9",
+    "phone": "Teléfono",
+    "phoneValue": "N/A",
+    "petFriendly": "Mascotas permitidas",
+    "petFriendlyValue": "Por favor consulte al personal en el sitio",
+    "tickets": "Entradas",
+    "ticketsValue": "La entrada al parque es gratuita; algunos eventos especiales o exposiciones pueden cobrar tarifas, por favor consulte en el lugar.",
+    "facilities": "Instalaciones",
+    "facilitiesValue": "Baños públicos cercanos, restaurantes y estacionamiento"
+  },
+  "hours": {
+    "title": "Horarios y Consejos para Visitantes",
+    "outdoor": "Horario Comercial",
+    "outdoorTime": "08:00–22:00",
+    "lighthouse": "Mejor Momento de Visita",
+    "summer": "Horas del atardecer",
+    "summerTime": "(Depende del clima y la temporada, consulte Google Maps)",
+    "winter": "Notas",
+    "winterTime": "Traiga protector solar, cámara y abundante agua",
+    "warning": "💡 Clima Dinámico",
+    "warningTime": "Medellín tiene un clima agradable, ideal para visitas al aire libre. Recomendamos traer protector solar y abundante agua.",
+    "tip": "Hay muchos puestos de comida local y restaurantes cerca del parque, donde puede probar auténtica cocina colombiana."
+  },
+  "tickets": {
+    "title": "Información Importante",
+    "outdoor": "Tarifa de Entrada",
+    "outdoorPrice": "Entrada gratuita",
+    "lighthouse": "Información de Transporte",
+    "adults": "Desde el centro de Medellín",
+    "adultsPrice": "Tomar un taxi o transporte público aprox. 20-30 minutos",
+    "students": "Duración Recomendada de Visita",
+    "studentsPrice": "2-3 horas",
+    "card": "Atracciones Cercanas",
+    "cardPrice": "Pueblito Paisa, centro de Medellín. 👉 [Ir a Medellín]",
+    "officialNotice": "Para obtener las últimas actualizaciones, consulte el",
+    "officialNoticeLinkLabel": "Sitio Web Oficial de la Alcaldía de Medellín",
+    "officialNoticeLink": "https://www.medellin.gov.co/"
+  },
+  "transport": {
+    "title": "Cómo Llegar",
+    "airport": "✈️ Aeropuerto al Destino (Recomendación Principal)",
+    "airportDesc": "El aeropuerto más cercano al Cerro de Nutibara Parque de las Esculturas es el Aeropuerto Internacional José María Córdova (MDE). Al llegar, puedes tomar un taxi o servicio de transporte para ir al centro de Medellín, luego transferirte al transporte que se dirige al distrito de Belén. El viaje es de aproximadamente 45 minutos a 1 hora directamente a Cerro de Nutibara, que es la forma más eficiente de llegar.",
+    "selfDrive": "En Coche",
+    "selfDriveDesc": "Desde el centro de Medellín, siga el camino por aproximadamente 20-30 minutos para llegar al Cerro de Nutibara Parque de las Esculturas.",
+    "bus": "🚌 Transporte Público (Desde el centro de Medellín)",
+    "busDesc": "Desde el centro de Medellín, puedes tomar autobuses o el metro al distrito de Belén, luego caminar o tomar un taxi a la entrada del parque. Se recomienda consultar a la gente local para obtener rutas de autobús específicas y horarios.",
+    "intercity": "Dentro del Distrito",
+    "intercityDesc": "El Cerro de Nutibara Parque de las Esculturas está ubicado en el distrito de Belén, fácilmente accesible desde el centro de Medellín.",
+    "cycling": "Otras Opciones",
+    "cyclingDesc": "Puede alquilar transporte en la ciudad de Medellín o tomar un taxi para explorar y apreciar mejor el paisaje de la ciudad.",
+    "tips": "Consejos de Viaje",
+    "tipsDesc": "El viaje desde el centro de Medellín es corto. Se recomienda planificar con anticipación su itinerario y transporte."
+  },
+  "gallery": {
+    "title": "Fotos Impresionantes",
+    "subtitle": "Sienta el Encanto Cultural de Medellín, Colombia",
+    "captions": [
+      "Vista Panorámica de Cerro de Nutibara",
+      "Arquitectura Tradicional de Pueblito Paisa",
+      "Obras de Arte de Esculturas",
+      "Scenery de Panorama de la Ciudad",
+      "Scenery de la Ciudad de Medellín",
+      "Tiempo de Paseo por el Parque",
+      "Mirador en la Cima de la Montaña",
+      "Estilo Cultural Colombiano",
+      "Escenas de Actividades de Turistas",
+      "Atmósfera del Parque de Esculturas",
+      "Vista de Calle de la Plaza Tradicional",
+      "Atmósfera de Arte Cultural",
+      "Elementos de Paisaje de la Ciudad",
+      "Integración de Naturaleza y Cultura",
+      "Escenas de Actividades de Turistas",
+      "Escenas de Experiencia Cultural",
+      "Sol y Ciudad"
+    ],
+    "viewAll": "Ver más fotos en Google Maps",
+    "showAllPhotos": "Mostrar Todas las Fotos"
+  },
+  "reviews": {
+    "title": "Reseñas de Visitantes",
+    "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
+    "moreReviews": "Ver Más Reseñas en Google Maps",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "hace 2 meses",
+        "rating": 5,
+        "text": "Hermoso parque, se puede sentir el encanto cultural de Medellín."
+      },
+      {
+        "name": "Li Xiaoming",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "Pueblito Paisa es muy interesante, un gran lugar para aprender sobre la cultura colombiana!"
+      },
+      {
+        "name": "María González",
+        "date": "hace 3 semanas",
+        "rating": 5,
+        "text": "Un lugar encantador para disfrutar de la vista de Medellín."
+      },
+      {
+        "name": "John Smith",
+        "date": "hace más de 6 meses",
+        "rating": 5,
+        "text": "A charming cultural destination in Medellín. Great for family trips."
+      },
+      {
+        "name": "Ana Silva",
+        "date": "hace 2 meses",
+        "rating": 4,
+        "text": "Hermoso lugar para disfrutar de la cultura colombiana. Muy recomendado."
+      },
+      {
+        "name": "Zhang Wei",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "¡Visita obligada cuando vengas a Medellín, siente la cultura y el arte colombianos!"
+      },
+      {
+        "name": "Roberto Pérez",
+        "date": "hace 3 meses",
+        "rating": 5,
+        "text": "Excelente lugar para disfrutar de la vista y la cultura colombiana."
+      },
+      {
+        "name": "Emma Wilson",
+        "date": "hace 2 meses",
+        "rating": 5,
+        "text": "A must-visit place in Medellín! The view is beautiful and cultural."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación en el Mapa",
+    "subtitle": "Cerro De Nutibara, Pueblito Paisa, Medellín, Belén, Medellín, Antioquia, Colombia",
+    "openMaps": "Ver en Google Maps",
+    "nearbyTitle": "Recomendaciones Cercanas",
+    "nearby1Name": "Pueblito Paisa",
+    "nearby1Desc": "🚶 Caminable",
+    "nearby2Name": "Centro de Medellín",
+    "nearby2Desc": "🚗 En coche"
+  },
+  "footer": {
+    "rights": "© 2026 Cerro de Nutibara Parque de las Esculturas. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos Oficiales y Enlaces",
+    "officialLinks": {
+      "colombiaTravel": {
+        "name": "Portal Oficial de Turismo Nacional de Colombia (Colombia Travel)",
+        "url": "https://colombia.travel/es"
+      },
+      "medellinTravel": {
+        "name": "Guía Oficial de Turismo de Medellín y Antioquia (Medellín Travel)",
+        "url": "https://www.medellin.travel/"
+      },
+      "mincit": {
+        "name": "Ministerio de Comercio, Industria y Turismo de Colombia (MinCIT)",
+        "url": "https://www.mincit.gov.co/"
+      },
+      "procolombia": {
+        "name": "Agencia de Promoción de Turismo, Inversión Extranjera y Exportaciones No Tradicionales de Colombia (ProColombia)",
+        "url": "https://procolombia.co/"
+      },
+      "antioquia": {
+        "name": "Sitio Web Oficial de la Gobernación de Antioquia",
+        "url": "https://antioquia.gov.co/"
+      },
+      "migracion": {
+        "name": "Agencia Nacional de Migración de Colombia (Migración Colombia)",
+        "url": "https://www.migracioncolombia.gov.co/"
+      }
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Información que Recopilamos",
+        "content": "Solo recopilamos los datos mínimos necesarios para proporcionar nuestros servicios. Estos datos pueden incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, y cualquier información que proporcione voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "heading": "2. Cómo Utilizamos su Información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido del sitio web y la experiencia del usuario, analizar el tráfico y los patrones de uso, responder a solicitudes y cumplir con nuestras obligaciones legales."
+      },
+      {
+        "heading": "3. Servicios de Terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para imágenes). Estos servicios tienen sus propias políticas de privacidad."
+      },
+      {
+        "heading": "4. Sus Derechos",
+        "content": "Bajo el Reglamento General de Protección de Datos (RGPD) y regulaciones relacionadas, usted tiene derecho a: acceder a sus datos personales, solicitar corrección o eliminación, oponerse al tratamiento y presentar una queja ante una autoridad de control."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de los Términos",
+        "content": "Al acceder y utilizar este sitio web, usted acepta estar sujeto a estos términos de servicio."
+      },
+      {
+        "heading": "2. Uso del Contenido",
+        "content": "Todo el contenido de este sitio web es solo para fines informativos. Somos un sitio web independiente de información turística de terceros, no afiliado con ninguna atracción turística, agencia gubernamental u operador comercial."
+      },
+      {
+        "heading": "3. Exactitud de la Información",
+        "content": "Nos esforzamos por proporcionar información precisa y oportuna, pero no podemos garantizar su integridad o exactitud. Los itinerarios, condiciones y servicios están sujetos a cambios sin previo aviso. Verifique siempre la información importante a través de canales oficiales antes de viajar."
+      },
+      {
+        "heading": "4. Limitación de Responsabilidad",
+        "content": "No seremos responsables por ningún daño directo o indirecto derivado del uso de este sitio web o la dependencia de la información aquí proporcionada."
+      }
+    ]
+  },
+  "historyTimeline": {
+    "title": "Cronología Histórica",
+    "items": [
+      {
+        "year": "Días Iniciales",
+        "title": "Orígenes: Cerro Natural",
+        "plaque": "Paisaje Natural",
+        "description": "El Cerro de Nutibara fue originalmente una colina natural en el distrito de Belén de Medellín, volviéndose gradualmente popular entre los residentes locales y turistas por su superior ubicación geográfica y hermoso panorama de la ciudad."
+      },
+      {
+        "year": "Período de Desarrollo",
+        "title": "Desarrollo: Construcción de Pueblito Paisa",
+        "plaque": "Desarrollo Cultural",
+        "description": "Con el tiempo, el turismo en Medellín continuó desarrollándose. El Cerro de Nutibara agregó gradualmente el complejo arquitectónico tradicional de Pueblito Paisa y diversas instalaciones culturales, convirtiéndose en una atracción turística importante en el área."
+      },
+      {
+        "year": "Era Moderna",
+        "title": "Moderno: Parque Cultural Integral",
+        "plaque": "Desarrollo Turístico (Parque Cultural)",
+        "description": "Hoy en día, el Cerro de Nutibara Parque de las Esculturas se ha convertido en un destino turístico integral que combina experiencia cultural, apreciación artística y vista de la ciudad, recibiendo más reconocimiento y amor de los turistas."
+      }
+    ],
+    "guideTitle": "Consejo de Guía para Visitantes",
+    "guideContent": "Al visitar, puedes comenzar desde la entrada del parque y dirigirte a Pueblito Paisa; apreciar arquitectura y plaza tradicionales; explorar obras de arte de esculturas; fotografiar el panorama de la ciudad en el mirador; si tienes tiempo suficiente, también puedes continuar explorando otras atracciones en Medellín."
+  },
+  "officialManagement": {
+    "title": "Acerca del Cerro de Nutibara Parque de las Esculturas",
+    "text": "El Cerro de Nutibara Parque de las Esculturas es una atracción turística en Medellín, Antioquia, Colombia. Como una atracción cultural, es un lugar importante para experimentar la arquitectura tradicional colombiana y el arte contemporáneo."
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Última actualización: junio de 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Estas cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden deshabilitar.",
+      "badge": "Siempre Activo"
+    },
+    "analytics": {
+      "title": "Cookies de Análisis",
+      "description": "Nos ayudan a comprender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Activo",
+          "description": "Recopila información anónima sobre cómo los visitantes utilizan nuestro sitio web."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Se utilizan para mostrar anuncios relevantes y medir la efectividad de las campañas publicitarias.",
+      "items": [
+        {
+          "name": "Anuncios Personalizados",
+          "status": "Inactivo",
+          "description": "Puede mostrarle anuncios relevantes basados en sus intereses."
+        }
+      ]
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Configuración guardada!",
+    "preferences": {
+      "items": [
+        {
+          "name": "Preferencias del Usuario",
+          "status": "Activo",
+          "description": "Guarda sus preferencias de idioma y configuraciones del sitio web."
+        }
+      ],
+      "title": "Cookies de Preferencias",
+      "description": "Recuerdan sus configuraciones, como las preferencias de idioma y tema."
+    },
+    "consentManagement": "Gestión del Consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que deshabilitar ciertas cookies puede afectar la funcionalidad del sitio web.",
+    "rejectAll": "Rechazar Todas"
+  }
+}
