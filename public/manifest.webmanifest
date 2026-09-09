@@ -2,14 +2,14 @@
   "name": "Cerro de Nutibara Sculpture Park",
   "short_name": "Cerro Nutibara",
   "description": "Visitor guide to Cerro de Nutibara Sculpture Park in Medellín, Antioquia, Colombia - location, photos, and travel tips.",
-  "id": "/en/",
-  "start_url": "/en/",
+  "id": "/es/",
+  "start_url": "/es/",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#0f2015",
   "theme_color": "#142d1c",
-  "lang": "en",
+  "lang": "es",
   "categories": ["travel", "tourism"],
   "icons": [
     {

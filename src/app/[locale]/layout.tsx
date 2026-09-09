@@ -5,7 +5,7 @@ import { routing } from '@/i18n/routing';
 import type { Metadata, Viewport } from 'next';
 import { getBaseUrl, getAdsenseClientId, getGa4Id } from '@/lib/env';
 import { siteConfig } from '@/lib/site-config';
-import { buildTouristAttractionJsonLd, buildFaqJsonLd } from '@/lib/seo';
+import { buildTouristAttractionJsonLd, buildFaqJsonLd, buildPueblitoJsonLd } from '@/lib/seo';
 import PwaRegister from '@/components/PwaRegister';
 
 export function generateStaticParams() {
@@ -196,6 +196,14 @@ export default async function LocaleLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify(buildTouristAttractionJsonLd(baseUrl)),
+          }}
+        />
+
+        {/* Schema.org — Pueblito Paisa (contained landmark entity) */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(buildPueblitoJsonLd(baseUrl)),
           }}
         />
 

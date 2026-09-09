@@ -1,7 +1,7 @@
 /* Cerro de Nutibara Sculpture Park - PWA service worker */
-const CACHE_NAME = 'nutibara-pwa-v1';
+const CACHE_NAME = 'nutibara-pwa-v2';
 const OFFLINE_PRECACHE = [
-  '/en/',
+  '/es/',
   '/manifest.webmanifest',
   '/icons/icon-192.png',
   '/icons/icon-512.png',
@@ -46,7 +46,7 @@ self.addEventListener('fetch', (event) => {
           }
           return response;
         })
-        .catch(() => cached || caches.match('/en/'));
+        .catch(() => cached || caches.match('/es/'));
 
       return cached || networkFetch;
     })

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Parque de Las Esculturas - Cerro Nutibara (Medellín) - Guía del visitante y ubicación",
-    "description": "Descubre el Parque de Las Esculturas - Cerro Nutibara, el emblemático destino en Medellín, Antioquia, Colombia. Consulta el mapa de ubicación, los horarios, el cercano Pueblito Paisa y consejos de viaje."
+    "title": "Parque de las Esculturas Cerro Nutibara Medellín | Guía Oficial y Mapa",
+    "description": "Descubre el Parque de las Esculturas en el Cerro Nutibara, Medellín: 10 obras al aire libre, entrada gratuita, horarios y mapa, junto a Pueblito Paisa."
   },
   "header": {
     "siteName": "Cerro de Nutibara",
@@ -32,7 +32,7 @@
       ]
     },
     "alsoKnownAs": {
-      "title": "Aspectos Destacados",
+      "title": "Razones para visitar el Cerro Nutibara en Medellín",
       "items": [
         "🏛️ Hitos Pueblito Paisa: Un complejo arquitectónico completo en estilo de pueblo tradicional colombiano construido en la cima de la montaña, incluyendo iglesia, plaza, residencias típicas, etc. Este es un excelente lugar para entender la cultura arquitectónica tradicional colombiana y el mejor lugar para fotografiar el panorama de la ciudad de Medellín.",
         "🎨 Parque de Arte de Esculturas: El parque está adornado con numerosas obras de esculturas exquisitas, mostrando la elegancia del arte contemporáneo colombiano. Estas esculturas se funden perfectamente con el entorno natural, proporcionando a los visitantes una experiencia artística única.",
@@ -174,7 +174,7 @@
     "officialNoticeLink": "https://www.medellin.gov.co/"
   },
   "transport": {
-    "title": "Cómo Llegar",
+    "title": "Cómo llegar al Cerro Nutibara en Medellín",
     "airport": "✈️ Aeropuerto al Destino (Recomendación Principal)",
     "airportDesc": "El aeropuerto más cercano al Cerro de Nutibara Parque de las Esculturas es el Aeropuerto Internacional José María Córdova (MDE). Al llegar, puedes tomar un taxi o servicio de transporte para ir al centro de Medellín, luego transferirte al transporte que se dirige al distrito de Belén. El viaje es de aproximadamente 45 minutos a 1 hora directamente a Cerro de Nutibara, que es la forma más eficiente de llegar.",
     "selfDrive": "En Coche",
@@ -320,11 +320,19 @@
       },
       {
         "question": "¿Qué esculturas se pueden ver en el parque?",
-        "answer": "El parque de esculturas al aire libre alberga obras de 11 reconocidos artistas internacionales y locales, instaladas en 1983, entre ellas piezas abstractas de artistas colombianos como Carlos Rojas."
+        "answer": "El Parque de las Esculturas del Cerro Nutibara es un museo a cielo abierto con 10 obras permanentes, encargadas en 1983 por la Alcaldía de Medellín con la asesoría del MAMM. Participaron artistas como Édgar Negret (Torre), Carlos Rojas, Manuel Felguérez, Sergio de Camargo, Carlos Cruz-Diez y Julio Le Parc, a los que un año después se sumó Otto Hajek. Puedes recorrerlas por los senderos del parque entre la entrada y la cima."
       },
       {
         "question": "¿Es adecuado el Cerro Nutibara para ir en familia?",
         "answer": "Sí, el parque cuenta con rampas accesibles, baños públicos y estacionamiento cercano, lo que lo hace adecuado para visitantes de todas las edades."
+      },
+      {
+        "question": "¿Cuál es la mejor época del año para visitar el Cerro de Nutibara?",
+        "answer": "Cualquier mes es válido gracias al clima primaveral de Medellín. De diciembre a febrero y de junio a agosto suele ser más seco, mientras que abril, mayo y de septiembre a noviembre traen más lluvias por la tarde. Las mañanas suelen ofrecer las mejores vistas durante todo el año."
+      },
+      {
+        "question": "¿Dónde queda el Pueblito Paisa y cómo se relaciona con el Parque de las Esculturas?",
+        "answer": "El Pueblito Paisa está en la cima del Cerro Nutibara, dentro del mismo parque donde se encuentra el Parque de las Esculturas. Desde las esculturas de la ladera se sube en pocos minutos hasta la plaza del Pueblito Paisa, por lo que la mayoría de los visitantes combina ambas paradas en un solo recorrido."
       }
     ]
   },
@@ -364,6 +372,299 @@
         "name": "Google Maps - Cerro de Nutibara Sculpture Park",
         "url": "https://maps.app.goo.gl/T35wBB8jhEUL2pxL6",
         "description": "Ficha oficial, reseñas de visitantes e información de apertura en tiempo real."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Tiempo en vivo y pronóstico de 7 días",
+    "subtitle": "El Cerro Nutibara está a unos 1.500 m sobre el nivel del mar en el valle de Aburrá de Medellín, con el clima primaveral que hace famosa a la ciudad. Una mirada rápida te dice si debes llevar paraguas.",
+    "currentLabel": "Ahora",
+    "dailyTitle": "Próximos 7 días",
+    "maxMin": "{max}° / {min}°",
+    "precipProb": "{prob}% de lluvia",
+    "updatedAt": "Actualizado {time}",
+    "loading": "Cargando el tiempo…",
+    "unavailable": "El tiempo en vivo no está disponible por el momento. Inténtalo de nuevo más tarde.",
+    "stats": {
+      "rain": "Probabilidad de lluvia",
+      "wind": "Viento",
+      "uv": "Rayos UV"
+    },
+    "uvWords": {
+      "low": "Débil",
+      "moderate": "Moderada",
+      "high": "Fuerte",
+      "veryHigh": "Muy fuerte"
+    },
+    "codes": {
+      "clear": "Despejado",
+      "partly": "Parcialmente nublado",
+      "overcast": "Nublado",
+      "fog": "Niebla",
+      "drizzle": "Lluvia ligera",
+      "rain": "Lluvia",
+      "shower": "Chubascos",
+      "thunder": "Tormentas",
+      "snow": "Nieve",
+      "snowShower": "Nieve débil"
+    },
+    "advice": {
+      "blockOutfit": "Cómo vestirse",
+      "blockPlay": "Cómo aprovechar el día",
+      "blockGear": "Qué llevar",
+      "blockRisk": "Aviso importante",
+      "disclaimer": "Consejos generados según el clima de hoy; úsalos como orientación general.",
+      "noAdvice": "El tiempo está tranquilo hoy: prepara lo de siempre y sal con confianza.",
+      "rainOutfit": "Hoy llueve: usa calzado con buen agarre, los senderos quedan resbaladizos y mejor una chaqueta ligera impermeable.",
+      "rainPlay": "Con lluvia las vistas pierden fuerza y los caminos de esculturas y bosque quedan resbaladizos: camina más lento y refúgiate en los pabellones si arrecía.",
+      "rainGear": "Paraguas plegable o impermeable ligero",
+      "rainHighPlay": "Probabilidad de lluvia alta ({p}%): deja los recorridos largos al aire libre para los ratos sin lluvia y empieza por los espacios cubiertos.",
+      "heavyRainRisk": "Lluvia fuerte: evita quebradas, pendientes y senderos en zonas bajas; los bordes de la cima están resbaladizos, mucho ojo.",
+      "heavyRainPlay": "Con lluvia intensa no conviene caminar ni subir a la cima; espera a que amaine bajo techo.",
+      "heavyRainGear": "Impermeable (evita los paraguas largos, en la cima corre viento)",
+      "thunderRisk": "Hay tormentas eléctricas: no te quedes en zonas abiertas de la cima, junto a árboles aislados o barandas metálicas; en cuanto oigas truenos, entra a un lugar seguro.",
+      "thunderPlay": "Con tormenta eléctrica conviene acortar o posponer la subida; quédate en espacios cerrados y sigue las indicaciones del lugar.",
+      "hotOutfit": "El día será caluroso: ropa ligera, transpirable y de secado rápido.",
+      "hotPlay": "Evita las horas de más sol (11:00–15:00); camina temprano o al final de la tarde.",
+      "hotGear": "Protector solar, gorra y abundante agua",
+      "uvOutfit": "Radiación UV fuerte: usa manga ligera o sombrero y reduce la exposición directa.",
+      "uvGear": "Protector solar, gafas de sol y gorra",
+      "tempGapOutfit": "La noche es más fresca y en la cima corre viento: lleva una chaqueta fácil de poner y quitar.",
+      "windyPlay": "Viento notable en la cima: sujeta gorras, bufandas y objetos sueltos.",
+      "windyGear": "Gorra que se ajuste; evita paraguas y ropa muy holgada",
+      "strongWindRisk": "Viento fuerte: mantente lejos de los bordes de la cima y asegura bien tus pertenencias.",
+      "fogRisk": "Niebla con poca visibilidad: camina solo por senderos marcados y aléjate del borde de la cima.",
+      "fogPlay": "Con niebla las vistas lejanas desaparecen; si buscas panorama, espera a que se disipe o vuelve otro día.",
+      "cloudyPlay": "Día nublado sin sol fuerte: la luz es suave, ideal para pasear por los senderos de esculturas y el bosque.",
+      "clearPlay": "Buen día para estar al aire libre: buena luz y visibilidad para el panorama desde la cima o la puesta de sol.",
+      "alertRisk": "Se ha emitido el aviso «{title}»: sigue las indicaciones oficiales y del lugar; si puedes, aplaza la subida o acorta la estancia en la cima.",
+      "alertGeneric": "Aviso meteorológico"
+    }
+  },
+  "seasonal": {
+    "title": "Estrategia de visita por temporada",
+    "subtitle": "Medellín no tiene un invierno real: dos épocas más secas y dos más lluviosas marcan el año. Estas filas reflejan los patrones climáticos promedio de largo plazo; compáralas siempre con el pronóstico en vivo de arriba antes de planear el día.",
+    "note": "Las filas son promedios de largo plazo solo como referencia; cada año varía.",
+    "cols": {
+      "period": "Periodo",
+      "climate": "Clima y temperaturas",
+      "rain": "Patrón de lluvia",
+      "nature": "Observación de naturaleza",
+      "advice": "Qué significa para tu visita"
+    },
+    "rows": [
+      {
+        "period": "Dic – Feb",
+        "climate": "El tramo más seco del año: días cálidos y mayormente soleados entre 24 y 28 °C, con tardes más frescas cerca de los 17 °C.",
+        "rain": "Mañanas despejadas con solo lluvias ocasionales por la tarde; el cielo permanece abierto durante mucho tiempo.",
+        "nature": "El bosque siempreverde sigue frondoso; los árboles en flor, las aves y las mariposas hacen de esta una gran temporada para la observación.",
+        "advice": "La mejor ventana para las vistas panorámicas y la fotografía. En fin de semana llega a la hora de apertura para disfrutar de la cima más tranquila."
+      },
+      {
+        "period": "Mar – May",
+        "climate": "Primera temporada de lluvias: cálida y húmeda, con máximas diurnas alrededor de los 27 °C.",
+        "rain": "Los chubascos suelen llegar desde media tarde; las mañanas suelen estar secas y luminosas.",
+        "nature": "La vegetación se vuelve exuberante; musgos, orquídeas y cantos de aves se intensifican tras la lluvia.",
+        "advice": "Reserva la fotografía para la mañana, aprovecha la lluvia del mediodía para los espacios cubiertos y lleva un paraguas plegable."
+      },
+      {
+        "period": "Jun – Ago",
+        "climate": "Una segunda época más seca, con calor diurno más suave (unos 24–27 °C) y tardes agradables.",
+        "rain": "Llueve menos que en marzo–mayo, aunque pueden aparecer chubascos breves.",
+        "nature": "El bosque se siente fresco tras las lluvias; colibríes y aves urbanas están activos temprano.",
+        "advice": "Una temporada cómoda para familias y estancias largas. La luz dorada de última hora recompensa a los fotógrafos."
+      },
+      {
+        "period": "Sep – Nov",
+        "climate": "Segunda temporada de lluvias: cálida y húmeda, con aguaceros cortos y frecuentes.",
+        "rain": "Las tardes lluviosas son la norma; las mañanas son la ventana más confiable.",
+        "nature": "Las quebradas y arroyos llevan más agua y la fauna es más fácil de escuchar al anochecer.",
+        "advice": "Camina temprano, ten cuidado con los tramos resbaladizos tras la lluvia y confirma la apertura si hay tormentas prolongadas."
+      }
+    ]
+  },
+  "plans": {
+    "title": "Planes por tipo de visitante y rutas sugeridas",
+    "subtitle": "Elige el plan que se ajuste a tu grupo y ritmo. Como guía no comercial solo proponemos ideas, horarios y notas de seguridad: nunca marcas concretas.",
+    "plansTitle": "Según el grupo",
+    "plans": [
+      {
+        "id": "family",
+        "icon": "🧒",
+        "title": "Familias con niños",
+        "desc": "Relajado, sombreado y plano en la cima: cómodo para coches de bebé en las zonas pavimentadas.",
+        "route": "Empieza en Pueblito Paisa, explora la plaza y la iglesia, haz un pícnic en el césped, recorre la primera parte del circuito de esculturas y baja antes de los aguaceros de la tarde.",
+        "tip": "Hay baños públicos cerca de la cima; lleva ropa de cambio para los más pequeños."
+      },
+      {
+        "id": "photography",
+        "icon": "📷",
+        "title": "Fotografía y naturaleza",
+        "desc": "Busca la luz más limpia, las nubes bajas y la geometría de la ciudad.",
+        "route": "Fotografía de la salida del sol a las 10:00 desde los miradores del oeste, captura los detalles de Pueblito Paisa y entra al sendero del bosque antes del brillo del mediodía.",
+        "tip": "Las mañanas suelen ser más despejadas que las tardes durante todo el año."
+      },
+      {
+        "id": "accessibility",
+        "icon": "♿",
+        "title": "Bajo esfuerzo y sin barreras",
+        "desc": "Todo lo esencial se alcanza con caminatas mínimas y pendientes suaves.",
+        "route": "Sube en taxi o vehículo de aplicación hasta el parqueadero de la cima, descansa y explora Pueblito Paisa y los miradores en terreno pavimentado, con pausas en bancas a la sombra.",
+        "tip": "Pregunta al personal del parque por el baño accesible más cercano y el sendero de bajada más suave."
+      }
+    ],
+    "itineraryTitle": "Rutas clásicas",
+    "halfTitle": "Ruta de medio día · unas 4–5 horas",
+    "halfDesc": "Ideal como visita matinal; cubre lo esencial sin prisas.",
+    "halfSteps": [
+      {
+        "time": "08:00–09:00",
+        "label": "Llega temprano y disfruta el mirador abierto antes de la multitud."
+      },
+      {
+        "time": "09:00–10:30",
+        "label": "Recorre Pueblito Paisa: plaza, iglesia, casas patrimoniales y artesanías."
+      },
+      {
+        "time": "10:30–12:00",
+        "label": "Camina el circuito de esculturas más cercano y descansa en las bancas."
+      },
+      {
+        "time": "12:00–13:00",
+        "label": "Almuerza cerca de la cima donde prefieras y baja."
+      }
+    ],
+    "fullTitle": "Ruta de día completo · unas 7–9 horas",
+    "fullDesc": "Una visita más profunda que deja tiempo para los museos cercanos de Medellín.",
+    "fullSteps": [
+      {
+        "time": "08:00–09:30",
+        "label": "Vistas del amanecer desde los miradores del oeste."
+      },
+      {
+        "time": "09:30–11:30",
+        "label": "Pueblito Paisa en detalle: plaza, iglesia, salas patrimoniales y artesanías."
+      },
+      {
+        "time": "11:30–13:00",
+        "label": "Circuito de esculturas norte y este, con tiempo para fotos."
+      },
+      {
+        "time": "13:00–14:30",
+        "label": "Pausa para almorzar en un lugar de la cima que elijas."
+      },
+      {
+        "time": "14:30–16:00",
+        "label": "Sendero sur de esculturas y rutas del bosque a ritmo relajado."
+      },
+      {
+        "time": "16:00–18:30",
+        "label": "Miradores en hora dorada; disfruta la luz cambiante y baja antes del anochecer."
+      }
+    ]
+  },
+  "facilities": {
+    "title": "Servicios al visitante y alrededores (resumen neutral por tipo)",
+    "subtitle": "Un panorama neutral que solo menciona tipos de servicios para que planees agua, provisiones, estacionamiento y accesibilidad antes de subir.",
+    "note": "Este es un proyecto educativo no comercial: describimos tipos de instalaciones, nunca negocios o marcas concretas. La disponibilidad cambia a menudo: confirma en el sitio o en el mapa.",
+    "items": [
+      {
+        "icon": "🚻",
+        "title": "Baños públicos",
+        "desc": "Hay baños públicos en el área de la cima de Pueblito Paisa; los parques urbanos y estaciones de la ciudad ofrecen más opciones.",
+        "tip": "Localiza el más cercano al mirador antes de iniciar un circuito largo."
+      },
+      {
+        "icon": "🅿️",
+        "title": "Estacionamiento",
+        "desc": "Hay estacionamiento de pago cerca de la entrada de la cima y espacios en la calle en la base del cerro.",
+        "tip": "En fines de semana y festivos llega antes de las 10:00 o combina metro con taxi."
+      },
+      {
+        "icon": "🍽️",
+        "title": "Restaurantes",
+        "desc": "Las plazas de la cima reúnen puestos de comida, cafés y restaurantes típicos; los barrios de abajo cubren todos los rangos de precio.",
+        "tip": "Compra agua embotellada y snacks ligeros para llevar a los senderos."
+      },
+      {
+        "icon": "🛏️",
+        "title": "Alojamiento",
+        "desc": "Hoteles, hostales y apartamentos están disponibles en Belén, el centro y El Poblado, todos a poca distancia del cerro.",
+        "tip": "Filtra por cercanía al metro para moverte con facilidad."
+      },
+      {
+        "icon": "🛒",
+        "title": "Tiendas de conveniencia y supermercados",
+        "desc": "Pequeñas tiendas y supermercados en Belén y en las avenidas cercanas cubren agua, snacks y suministros básicos.",
+        "tip": "Comprar el agua antes de subir suele ser más económico que en la cima."
+      },
+      {
+        "icon": "⛽",
+        "title": "Combustible y carga eléctrica",
+        "desc": "Las estaciones de servicio y los puntos de carga para vehículos eléctricos están repartidos por las avenidas principales de Medellín.",
+        "tip": "Si conduces un vehículo eléctrico, verifica la disponibilidad de carga antes de subir."
+      }
+    ]
+  },
+  "stewardship": {
+    "title": "Rincón de ciencia y responsabilidad del visitante",
+    "subtitle": "Un cerro es un museo sin paredes: funciona como aula científica viva y solo sigue siendo hermoso si todos colaboramos.",
+    "scienceTitle": "Por qué importa este cerro verde",
+    "science": [
+      {
+        "title": "El pulmón de la ciudad",
+        "text": "Los árboles de la ladera atrapan polvo y calor, enfrían el barrio y frenan la escorrentía hacia el valle de Aburrá."
+      },
+      {
+        "title": "Un pequeño refugio de biodiversidad",
+        "text": "El bosque secundario acoge decenas de especies de aves, ardillas tropicales, mariposas y anfibios que difícilmente encuentran hogar en otras zonas de la ciudad."
+      },
+      {
+        "title": "Un archivo cultural al aire libre",
+        "text": "Las esculturas, las casas patrimoniales y la aldea réplica hacen que el arte y la historia estén al alcance de todos, de forma gratuita."
+      }
+    ],
+    "dosTitle": "Por favor, haz",
+    "dos": [
+      "Camina por los senderos marcados y respeta las vallas.",
+      "Lleva tu basura contigo o usa los contenedores disponibles.",
+      "Mantén silencio al amanecer y al anochecer para no molestar a la fauna.",
+      "Disfruta las esculturas a distancia segura, sin trepar sobre ellas.",
+      "Fotografía flores y animales sin tocarlos ni alimentarlos."
+    ],
+    "dontsTitle": "Por favor, evita",
+    "donts": [
+      "Alimentar a los animales silvestres: la comida humana les hace daño.",
+      "Arrancar plantas o extraer madera, semillas o piedras.",
+      "Fumar o encender fuego dentro del bosque.",
+      "Volar drones cerca de personas, miradores o fauna.",
+      "Reproducir música amplificada en las áreas naturales."
+    ]
+  },
+  "legends": {
+    "title": "Historias y leyendas del Cerro Nutibara",
+    "subtitle": "Más allá de los miradores, el cerro guarda siglos de memoria: nombres indígenas, fincas coloniales y un renacimiento moderno.",
+    "intro": "Parte de lo que sigue son tradiciones orales contadas por los locales más que historia escrita; las marcamos claramente como leyendas y separamos los hitos documentados.",
+    "items": [
+      {
+        "title": "El cacique detrás del nombre",
+        "text": "La tradición oral dice que el cerro lleva el nombre del cacique Nutibara, líder del pueblo nutabe que habitó las montañas al occidente del valle de Aburrá antes de la llegada de los españoles. Algunas historias describen la cima como un mirador desde el que los caciques vigilaban sus valles."
+      },
+      {
+        "title": "Una frontera entre dos mundos",
+        "text": "Historiadores de la región señalan que el cerro estuvo mucho tiempo en el límite entre distintos territorios indígenas, y todavía hoy separa barrios de Medellín. Quizá ese viejo papel de frontera explique por qué conservó su identidad mientras la ciudad crecía a su alrededor."
+      },
+      {
+        "title": "De finca a escenario urbano",
+        "text": "Durante las épocas colonial y republicana, las laderas fueron fincas privadas y tierras de pastoreo. En el siglo XX el cerro pasó a ser público y en 1978 se levantó en la cima una réplica de un pueblo antioqueño de principios del 1900 —el actual Pueblito Paisa— para conservar el patrimonio rural."
+      },
+      {
+        "title": "Cuando el cerro se volvió galería",
+        "text": "En 1983, once artistas locales e internacionales crearon obras de gran tamaño directamente en la ladera, impulsados por la escena del arte moderno de Medellín. Caminar hoy entre las esculturas es recorrer ese mismo museo al aire libre que aquellos artistas imaginaron."
+      },
+      {
+        "title": "Guardián de memorias de barrio",
+        "text": "Durante décadas el cerro ha sido escenario de primeras citas, excursiones escolares y fuegos artificiales de Año Nuevo. Pregunta a cualquier local y seguramente escucharás una historia personal en este cerro: la leyenda más poderosa es la que la ciudad sigue escribiendo."
       }
     ]
   },
@@ -477,7 +778,7 @@
         "year": "1983",
         "title": "Parque de Esculturas al Aire Libre",
         "plaque": "Experimento de Arte Pionero",
-        "description": "Impulsado por el Museo de Arte Moderno de Medellín (MAMM), el Cerro Nutibara recibió esculturas permanentes de 11 destacados artistas internacionales y locales. Fue un intento pionero en América Latina de combinar el arte abstracto de vanguardia con espacios públicos naturales."
+        "description": "Impulsado por el Museo de Arte Moderno de Medellín (MAMM), el Cerro Nutibara recibió esculturas permanentes de 10 destacados artistas internacionales y locales. Fue un intento pionero en América Latina de combinar el arte abstracto de vanguardia con espacios públicos naturales."
       }
     ]
   },
@@ -562,5 +863,106 @@
   "about": {
     "title": "Acerca del Parque de Las Esculturas - Cerro Nutibara",
     "description": "Bienvenido al **Parque de Las Esculturas - Cerro Nutibara**, ampliamente reconocido como el **Cerro Nutibara**. Situado en el corazón de **Medellín**, **Antioquia**, **Colombia**, este destino sirve como un punto de referencia central para los viajeros de la región. Como una de las \"islas verdes\" más grandes de la ciudad, no solo conserva ricos recursos ecológicos, sino que también es mundialmente famoso por el Pueblito Paisa y el parque de esculturas al aire libre en su cima. Como bien público, la atracción es administrada y mantenida actualmente por la **Alcaldía de Medellín**, dedicada a proporcionar un espacio gratuito y abierto para la recreación natural y la educación cultural tanto para los ciudadanos como para los visitantes internacionales."
+  },
+  "sculptures": {
+    "title": "Las esculturas del Parque de las Esculturas en el Cerro Nutibara",
+    "subtitle": "El Parque de las Esculturas del Cerro Nutibara está considerado uno de los primeros museos de escultura moderna a cielo abierto de Colombia: 10 obras permanentes creadas en 1983 con la asesoría del Museo de Arte Moderno de Medellín (MAMM).",
+    "intro": "Encargadas por la Alcaldía de Medellín y coordinadas por el artista Édgar Negret, las obras reúnen a creadores colombianos e internacionales. Cada artista trabajó directamente en el cerro durante unos veinte días, integrando su pieza al paisaje.",
+    "works": [
+      {
+        "num": 1,
+        "name": "Torre",
+        "artist": "Édgar Negret",
+        "country": "Colombia",
+        "year": "1983",
+        "material": "Aluminio ensamblado y pintado · 4 m de alto",
+        "note": "Una torre de aluminio ensamblado, fiel al lenguaje geométrico-abstracto de uno de los grandes escultores colombianos."
+      },
+      {
+        "num": 2,
+        "name": "Sin título",
+        "artist": "Carlos Rojas",
+        "country": "Colombia",
+        "year": "1983",
+        "material": "Hormigón y acero pintado · 6 × 10 × 10 m",
+        "note": "Un volumen monumental de hormigón y acero: vale la pena rodearlo y ver cómo cambia con la luz del día."
+      },
+      {
+        "num": 3,
+        "name": "Signo aleteando al espacio",
+        "artist": "Otto Hajek",
+        "country": "Alemania",
+        "year": "1984",
+        "material": "Hormigón pintado · 6 m de alto",
+        "note": "Llegó un año después que el resto de las obras; su forma abierta y colorida parece desplegarse hacia el espacio."
+      },
+      {
+        "num": 4,
+        "name": "Construcción",
+        "artist": "Manuel Felguérez",
+        "country": "México",
+        "year": "1983",
+        "material": "Hierro y hormigón · 4 × 6,7 × 12 m",
+        "note": "El artista mexicano combina hierro y hormigón en una composición geométrica de gran escala."
+      },
+      {
+        "num": 5,
+        "name": "Sin título",
+        "artist": "Alberto Uribe",
+        "country": "Colombia",
+        "year": "1983",
+        "material": "Hormigón y acero pintado · 4,5 × 7 × 7 m",
+        "note": "Una obra abstracta que dialoga con los espacios abiertos y las pendientes verdes del cerro."
+      },
+      {
+        "num": 6,
+        "name": "Sin título",
+        "artist": "Sergio de Camargo",
+        "country": "Brasil",
+        "year": "1983",
+        "material": "Mármol pulido · 0,7 × 0,5 m",
+        "note": "Pieza de pequeño formato en mármol pulido: acércate para ver cómo juega la luz sobre la piedra."
+      },
+      {
+        "num": 7,
+        "name": "Estructura Cromovegetal",
+        "artist": "Carlos Cruz-Diez",
+        "country": "Venezuela",
+        "year": "1983",
+        "material": "Hormigón y vegetación · 3 × 20 × 10 m",
+        "note": "Una obra del maestro del color que integra vegetación viva: arte y naturaleza crecen juntos."
+      },
+      {
+        "num": 8,
+        "name": "Construcción",
+        "artist": "John Castles",
+        "country": "Colombia",
+        "year": "1983",
+        "material": "Tubos de acero soldados · 3,8 m de alto",
+        "note": "Una torre ligera de tubos de acero cuyas líneas parecen un dibujo suspendido en el aire."
+      },
+      {
+        "num": 9,
+        "name": "Sin título",
+        "artist": "Ronny Vayda",
+        "country": "Colombia",
+        "year": "1983",
+        "material": "Hierro y vidrio · 2,4 × 3,6 × 1,5 m",
+        "note": "La combinación de hierro y vidrio hace que la pieza se perciba distinta según la hora del día."
+      },
+      {
+        "num": 10,
+        "name": "Sin título",
+        "artist": "Julio Le Parc",
+        "country": "Argentina / Francia",
+        "year": "1983",
+        "material": "Fibra de vidrio y aluminio · 6,5 × 2,7 m",
+        "note": "Una estructura de gran escala en fibra de vidrio y aluminio que llama la atención desde los senderos."
+      }
+    ],
+    "tipTitle": "Cómo combinar la visita con Pueblito Paisa",
+    "tip": "Las esculturas se distribuyen entre la entrada del cerro y la zona de la cima. Después de recorrerlas, sube en pocos minutos a la plaza del Pueblito Paisa para completar la experiencia.",
+    "ctaTitle": "Planes que unen esculturas y Pueblito Paisa en un mismo recorrido",
+    "ctaLabel": "Ver los planes de visita sugeridos"
   }
 }

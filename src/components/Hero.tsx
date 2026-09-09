@@ -10,7 +10,7 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/cerro-de-nutibara-sculpture-park (1).jpg"
+          src="/gallery/cerro-de-nutibara-sculpture-park-1.jpg"
           alt={`${siteConfig.attractionFullName} - Main view in ${siteConfig.city}, ${siteConfig.country}`}
           className="w-full h-full object-cover"
           loading="eager"

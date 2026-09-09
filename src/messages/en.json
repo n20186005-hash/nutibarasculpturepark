@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Cerro de Nutibara Sculpture Park (Medellín) - Visitor Guide & Location",
-    "description": "Discover Cerro de Nutibara Sculpture Park, the iconic landmark in Medellín, Antioquia, Colombia. View location map, opening details, nearby Pueblito Paisa, and travel tips."
+    "title": "Cerro de Nutibara Sculpture Park Medellín | Visitor Guide & Artworks",
+    "description": "See 10 open-air sculptures by leading international artists at Cerro Nutibara, Medellín. Free entry, hours, map and tips — right beside Pueblito Paisa."
   },
   "header": {
     "siteName": "Cerro de Nutibara",
@@ -320,11 +320,19 @@
       },
       {
         "question": "What sculptures can I see at the park?",
-        "answer": "The open-air sculpture park features works by 11 renowned international and local artists, installed in 1983, including abstract pieces by Colombian artists such as Carlos Rojas."
+        "answer": "The sculpture park on Cerro Nutibara is an open-air museum with 10 permanent works, commissioned in 1983 by the Medellín mayor’s office with guidance from MAMM. Artists included Édgar Negret (Torre), Carlos Rojas, Manuel Felguérez, Sergio de Camargo, Carlos Cruz-Diez and Julio Le Parc, joined a year later by Otto Hajek. You can see them along the park trails between the entrance and the summit."
       },
       {
         "question": "Is Cerro de Nutibara suitable for families?",
         "answer": "Yes, the park offers accessible ramps, public restrooms, and nearby parking, making it suitable for visitors of all ages."
+      },
+      {
+        "question": "What is the best time of year to visit Cerro de Nutibara?",
+        "answer": "Any month works thanks to Medellín's spring-like climate. December to February and June to August tend to be drier, while April, May, September, October and November bring more afternoon showers. Mornings usually give the clearest views all year."
+      },
+      {
+        "question": "Where is Pueblito Paisa and how does it relate to the Sculpture Park?",
+        "answer": "Pueblito Paisa sits on the summit of Cerro Nutibara, inside the same hill park that hosts the Parque de las Esculturas. The sculpture gardens on the slopes connect to Pueblito Paisa’s square by a short climb, so most visitors combine both in one trip."
       }
     ]
   },
@@ -364,6 +372,299 @@
         "name": "Google Maps - Cerro de Nutibara Sculpture Park",
         "url": "https://maps.app.goo.gl/T35wBB8jhEUL2pxL6",
         "description": "Official listing, visitor reviews, and live opening information."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Live Weather & 7-Day Forecast",
+    "subtitle": "Cerro Nutibara sits about 1,500 m above sea level in Medellín’s Aburrá Valley, home to the city’s famous spring-like climate. A quick glance here tells you whether to pack an umbrella.",
+    "currentLabel": "Now",
+    "dailyTitle": "Next 7 Days",
+    "maxMin": "{max}° / {min}°",
+    "precipProb": "{prob}% rain",
+    "updatedAt": "Updated {time}",
+    "loading": "Loading weather…",
+    "unavailable": "Live weather is temporarily unavailable. Please check again later.",
+    "stats": {
+      "rain": "Rain chance",
+      "wind": "Wind",
+      "uv": "UV"
+    },
+    "uvWords": {
+      "low": "Low",
+      "moderate": "Moderate",
+      "high": "High",
+      "veryHigh": "Very high"
+    },
+    "codes": {
+      "clear": "Clear sky",
+      "partly": "Partly cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Light rain",
+      "rain": "Rain",
+      "shower": "Showers",
+      "thunder": "Thunderstorms",
+      "snow": "Snow",
+      "snowShower": "Snow showers"
+    },
+    "advice": {
+      "blockOutfit": "Getting ready",
+      "blockPlay": "Plan your visit",
+      "blockGear": "What to pack",
+      "blockRisk": "Important notice",
+      "disclaimer": "Tips are generated from today’s weather — use them as a general guide.",
+      "noAdvice": "The weather is calm today: prepare as usual and enjoy the walk.",
+      "rainOutfit": "Rain is expected: wear shoes with good grip, trails turn slippery, and a light waterproof layer helps.",
+      "rainPlay": "Views lose strength in the rain and the sculpture and forest paths get slippery — walk slowly and shelter in the pavilions if it pours.",
+      "rainGear": "Foldable umbrella or light raincoat",
+      "rainHighPlay": "High chance of rain ({p}%): leave long outdoor routes for rain-free hours and start with the covered spaces.",
+      "heavyRainRisk": "Heavy rain: avoid gullies, steep paths and low-lying trails; summit edges are slippery, so watch your step.",
+      "heavyRainPlay": "With intense rain it is not a good idea to walk or climb to the summit — wait under cover for it to ease.",
+      "heavyRainGear": "Raincoat (skip long umbrellas — the summit is windy)",
+      "thunderRisk": "Thunderstorms: do not linger in open summit areas, near lone trees or metal railings; head indoors as soon as you hear thunder.",
+      "thunderPlay": "During thunderstorms it is best to shorten or postpone the climb; stay inside and follow on-site instructions.",
+      "hotOutfit": "The day will be hot: wear light, breathable, quick-drying clothing.",
+      "hotPlay": "Avoid the hottest hours (11:00–15:00); walk early in the morning or late afternoon.",
+      "hotGear": "Sunscreen, hat and plenty of water",
+      "uvOutfit": "UV is strong: wear light long sleeves or a hat and reduce direct exposure.",
+      "uvGear": "Sunscreen, sunglasses and a brimmed hat",
+      "tempGapOutfit": "Nights are cooler and the summit can be breezy: bring a layer that is easy to put on and take off.",
+      "windyPlay": "Noticeably windy on the summit: hold on to hats, scarves and loose items.",
+      "windyGear": "A hat that fits snugly; avoid umbrellas and very loose clothing",
+      "strongWindRisk": "Strong wind: stay away from summit edges and keep a firm hold on your belongings.",
+      "fogRisk": "Foggy with low visibility: walk only on marked paths and stay back from summit edges.",
+      "fogPlay": "In fog, distant views disappear; if you came for the panorama, wait for it to clear or come back another day.",
+      "cloudyPlay": "An overcast day with no harsh sun and soft light — great for strolling the sculpture paths and forest trails.",
+      "clearPlay": "A nice day to be outdoors: good light and visibility for the summit panorama or the sunset.",
+      "alertRisk": "A “{title}” notice has been issued: follow official and on-site guidance, and consider postponing the climb or cutting your summit time short.",
+      "alertGeneric": "weather notice"
+    }
+  },
+  "seasonal": {
+    "title": "Seasonal Visiting Strategy",
+    "subtitle": "Medellín has no true winter: two drier spells and two rainier spells shape the year. The rows below reflect long-term average climate patterns, so pair them with the live forecast above before planning your day.",
+    "note": "Rows reflect long-term averages for orientation only; each year varies.",
+    "cols": {
+      "period": "Period",
+      "climate": "Weather & temperatures",
+      "rain": "Rain pattern",
+      "nature": "Nature & wildlife notes",
+      "advice": "What it means for your visit"
+    },
+    "rows": [
+      {
+        "period": "Dec – Feb",
+        "climate": "The driest stretch of the year: warm, mostly sunny days around 24–28 °C and cooler evenings near 17 °C.",
+        "rain": "Clear mornings with only occasional afternoon showers; skies stay open for long.",
+        "nature": "Evergreen forest remains lush; flowering trees, active birds and butterflies make it a fine season for nature spotting.",
+        "advice": "Best window for panoramic views and photography. On weekends, arrive at opening time to enjoy the quietest summit."
+      },
+      {
+        "period": "Mar – May",
+        "climate": "First wet season: warm and humid, with daytime highs around 27 °C.",
+        "rain": "Showers commonly arrive from mid-afternoon; mornings are often dry and bright.",
+        "nature": "Vegetation turns exuberant; mosses, orchids and bird calls intensify after the rain.",
+        "advice": "Plan photos for the morning, use midday showers for the covered galleries, and keep a foldable umbrella at hand."
+      },
+      {
+        "period": "Jun – Aug",
+        "climate": "A second drier spell with softer daytime heat (about 24–27 °C) and pleasant evenings.",
+        "rain": "Less rain than in March–May; brief showers can still surprise you.",
+        "nature": "The forest feels fresh after rains; hummingbirds and city birds are active early in the day.",
+        "advice": "A comfortable season for families and long stays. Late-afternoon golden light on the summit rewards photographers."
+      },
+      {
+        "period": "Sep – Nov",
+        "climate": "The second wet season: warm and humid, with frequent short downpours.",
+        "rain": "Rainy afternoons are the norm; mornings are the most reliable window.",
+        "nature": "Gullies and streams run fuller, and wildlife is easier to hear at dusk.",
+        "advice": "Walk early, watch for slippery sections after rain, and check opening status if a storm lingers."
+      }
+    ]
+  },
+  "plans": {
+    "title": "Visit Plans by Group & Suggested Routes",
+    "subtitle": "Pick the plan that fits your group and pace. As a non-commercial guide we only suggest ideas, timings and safety notes — never specific brands.",
+    "plansTitle": "Plans by group",
+    "plans": [
+      {
+        "id": "family",
+        "icon": "🧒",
+        "title": "Families with children",
+        "desc": "Relaxed, shaded and flat at the summit — easy going for strollers on paved areas.",
+        "route": "Start at Pueblito Paisa, explore the plaza and church, picnic on the lawns, walk the first part of the sculpture loop, then head down before the heavy afternoon showers.",
+        "tip": "Public restrooms exist near the summit; bring a change of clothes for the little ones."
+      },
+      {
+        "id": "photography",
+        "icon": "📷",
+        "title": "Photography & nature lovers",
+        "desc": "Hunt for the clearest light, drifting clouds and sharp city geometry.",
+        "route": "Shoot sunrise-to-10:00 from the western viewpoints, capture Pueblito Paisa's details, then take the forest trail for flowers and birds before the midday glare.",
+        "tip": "Mornings are usually clearer than afternoons all year round."
+      },
+      {
+        "id": "accessibility",
+        "icon": "♿",
+        "title": "Low-effort & barrier-free",
+        "desc": "Everything essential is reachable with minimal walking and gentle slopes.",
+        "route": "Ride a taxi or rideshare to the summit parking, rest and explore Pueblito Paisa and the main viewpoints on flat paved ground, pausing often on shaded benches.",
+        "tip": "Ask park staff about the nearest accessible restroom and the gentlest path downhill."
+      }
+    ],
+    "itineraryTitle": "Classic routes",
+    "halfTitle": "Half-day route · about 4–5 hours",
+    "halfDesc": "Best as a morning visit; it covers the essentials without rushing.",
+    "halfSteps": [
+      {
+        "time": "08:00–09:00",
+        "label": "Arrive early and enjoy the open viewpoint before the crowds."
+      },
+      {
+        "time": "09:00–10:30",
+        "label": "Stroll Pueblito Paisa: plaza, church, heritage houses and craft stalls."
+      },
+      {
+        "time": "10:30–12:00",
+        "label": "Walk the nearest sculpture loop and rest at the shaded benches."
+      },
+      {
+        "time": "12:00–13:00",
+        "label": "Lunch near the summit at a spot of your choice, then descend."
+      }
+    ],
+    "fullTitle": "Full-day route · about 7–9 hours",
+    "fullDesc": "A deeper visit that also leaves room for Medellín's nearby museums.",
+    "fullSteps": [
+      {
+        "time": "08:00–09:30",
+        "label": "Sunrise views from the western viewpoints."
+      },
+      {
+        "time": "09:30–11:30",
+        "label": "Pueblito Paisa in detail: plaza, church, heritage rooms and craft stalls."
+      },
+      {
+        "time": "11:30–13:00",
+        "label": "North & east sculpture loop, with time for photos."
+      },
+      {
+        "time": "13:00–14:30",
+        "label": "Lunch break at a summit eatery of your choice."
+      },
+      {
+        "time": "14:30–16:00",
+        "label": "Southern sculpture path and forest trails at a relaxed pace."
+      },
+      {
+        "time": "16:00–18:30",
+        "label": "Golden-hour viewpoints; enjoy the changing light and descend before dusk."
+      }
+    ]
+  },
+  "facilities": {
+    "title": "Visitor Services & Facilities Around Cerro Nutibara",
+    "subtitle": "A neutral, type-only overview to help you plan water, snacks, parking and accessibility before you climb.",
+    "note": "This is a non-commercial educational project: we describe types of facilities, never specific shops or brands. Availability changes often — please confirm on-site or on the map.",
+    "items": [
+      {
+        "icon": "🚻",
+        "title": "Public restrooms",
+        "desc": "Public toilets are available in the Pueblito Paisa summit area; city parks and stations below the hill add more options.",
+        "tip": "Check the one nearest to the viewpoint before starting a long loop."
+      },
+      {
+        "icon": "🅿️",
+        "title": "Parking",
+        "desc": "Paid parking exists near the summit entrance, with street parking at the base of the hill.",
+        "tip": "On weekends and holidays arrive before 10:00 or combine the metro with a taxi."
+      },
+      {
+        "icon": "🍽️",
+        "title": "Dining",
+        "desc": "Summit plazas host snack stalls, cafés and typical local restaurants; the districts below the hill cover every price range.",
+        "tip": "Buy bottled water and light snacks to carry on the trails."
+      },
+      {
+        "icon": "🛏️",
+        "title": "Lodging",
+        "desc": "Hotels, hostels and apartments are available in Belén, the city centre and El Poblado, all within a short ride of the hill.",
+        "tip": "Filter by proximity to the metro for an easy commute to the site."
+      },
+      {
+        "icon": "🛒",
+        "title": "Convenience stores & supermarkets",
+        "desc": "Small shops and supermarkets in Belén and along nearby avenues cover water, snacks and basic supplies.",
+        "tip": "Buying water before the climb is usually cheaper than at the summit."
+      },
+      {
+        "icon": "⛽",
+        "title": "Fuel & EV charging",
+        "desc": "Service stations and electric-vehicle charging points are distributed along Medellín's main avenues.",
+        "tip": "If you drive an electric vehicle, check charging availability before heading up."
+      }
+    ]
+  },
+  "stewardship": {
+    "title": "Science Corner & Visitor Responsibility",
+    "subtitle": "A hill is a museum without walls: it works as a living classroom and it only stays beautiful if everyone helps.",
+    "scienceTitle": "Why this green hill matters",
+    "science": [
+      {
+        "title": "A city lung",
+        "text": "The slope's trees capture dust and heat, cool the neighbourhood and slow rainwater runoff into the Aburrá Valley."
+      },
+      {
+        "title": "A small refuge of biodiversity",
+        "text": "The secondary forest shelters dozens of bird species, tropical squirrels, butterflies and amphibians that find fewer homes elsewhere in the city."
+      },
+      {
+        "title": "An open-air cultural archive",
+        "text": "Sculptures, heritage houses and the replica town make art and history visible to everyone, free of charge."
+      }
+    ],
+    "dosTitle": "Please do",
+    "dos": [
+      "Stay on marked paths and respect the fences.",
+      "Carry your rubbish out or use the bins provided.",
+      "Keep quiet at dawn and dusk to avoid disturbing wildlife.",
+      "Enjoy the sculptures from a safe distance without climbing on them.",
+      "Photograph flowers and animals without touching or feeding them."
+    ],
+    "dontsTitle": "Please avoid",
+    "donts": [
+      "Feeding wild animals — human food harms them.",
+      "Picking plants or removing wood, seeds or rocks.",
+      "Smoking or lighting fires inside the forest.",
+      "Flying drones near people, viewpoints or wildlife.",
+      "Playing amplified music in natural areas."
+    ]
+  },
+  "legends": {
+    "title": "Stories & Legends of Cerro Nutibara",
+    "subtitle": "Beyond the viewpoints, the hill carries centuries of memory: indigenous names, colonial farms and a modern rebirth.",
+    "intro": "Some stories below are oral traditions retold by locals rather than written history. We mark them clearly and keep documented milestones separate.",
+    "items": [
+      {
+        "title": "The cacique behind the name",
+        "text": "Oral tradition says the hill is named after Cacique Nutibara, a leader of the Nutabes people who lived in the mountains west of the Aburrá Valley before the Spanish arrived. Some stories describe the summit as a lookout from which chiefs watched over their valleys."
+      },
+      {
+        "title": "A border between worlds",
+        "text": "Regional historians note that the hill long sat on the edge between different indigenous territories, and it still separates Medellín neighbourhoods today. That old role as a boundary may be why the hill kept its identity while the city grew around it."
+      },
+      {
+        "title": "From farmland to a city stage",
+        "text": "During colonial and republican times the slopes were private farms and grazing land. In the 20th century the hill became public, and in 1978 a replica of an early-1900s Antioquian town — today's Pueblito Paisa — was raised on the summit to keep rural heritage alive."
+      },
+      {
+        "title": "When the hill turned into a gallery",
+        "text": "In 1983 eleven local and international artists created large works directly on the hillside, encouraged by Medellín's modern-art scene. Walking between the sculptures today means walking through the same open-air museum those artists imagined."
+      },
+      {
+        "title": "A keeper of neighbourhood memories",
+        "text": "For decades the hill has hosted first dates, school trips and New Year fireworks views. Ask any local and you will probably hear a personal story set on Cerro Nutibara — the strongest legend is the one the city keeps rewriting."
       }
     ]
   },
@@ -477,7 +778,7 @@
         "year": "1983",
         "title": "Open-Air Sculpture Park",
         "plaque": "Pioneering Art Experiment",
-        "description": "Pushed by the Medellín Museum of Modern Art (MAMM), Cerro Nutibara welcomed permanent sculptures by 11 top international and local artists. It was an early Latin American attempt to combine avant-garde abstract art with natural public spaces."
+        "description": "Pushed by the Medellín Museum of Modern Art (MAMM), Cerro Nutibara welcomed permanent sculptures by 10 top international and local artists. It was an early Latin American attempt to combine avant-garde abstract art with natural public spaces."
       }
     ]
   },
@@ -562,5 +863,106 @@
   "about": {
     "title": "About Cerro de Nutibara Sculpture Park",
     "description": "Welcome to **Cerro de Nutibara Sculpture Park**, widely recognized as the central **Cerro Nutibara**. Located in the heart of **Medellín**, **Antioquia**, **Colombia**, this destination serves as a primary hub for travelers visiting the region. As one of the city's largest \"green islands,\" it not only preserves rich ecological resources but is also globally renowned for the Pueblito Paisa replica town and the open-air sculpture park at its summit. As a public asset, the attraction is currently managed and maintained by the **Medellín City Government (Alcaldía de Medellín)**, dedicated to providing a free and open space for natural recreation and cultural education for both locals and international visitors."
+  },
+  "sculptures": {
+    "title": "The Sculpture Park's 10 Artworks on Cerro Nutibara",
+    "subtitle": "The sculpture park on Cerro Nutibara is considered one of Colombia's first open-air modern sculpture museums: 10 permanent works created in 1983 with guidance from the Museum of Modern Art of Medellín (MAMM).",
+    "intro": "Commissioned by Medellín’s city government and coordinated by artist Édgar Negret, the collection brings together Colombian and international creators. Each artist worked directly on the hill for around twenty days, fitting the work into the landscape.",
+    "works": [
+      {
+        "num": 1,
+        "name": "Torre",
+        "artist": "Édgar Negret",
+        "country": "Colombia",
+        "year": "1983",
+        "material": "Assembled and painted aluminium · 4 m high",
+        "note": "An assembled aluminium tower true to the geometric-abstraction language of one of Colombia's great sculptors."
+      },
+      {
+        "num": 2,
+        "name": "Untitled",
+        "artist": "Carlos Rojas",
+        "country": "Colombia",
+        "year": "1983",
+        "material": "Concrete and painted steel · 6 × 10 × 10 m",
+        "note": "A monumental concrete-and-steel volume: walk around it and watch the geometry shift with the daylight."
+      },
+      {
+        "num": 3,
+        "name": "Signo aleteando al espacio",
+        "artist": "Otto Hajek",
+        "country": "Germany",
+        "year": "1984",
+        "material": "Painted concrete · 6 m high",
+        "note": "Added a year after the others, its open, colourful form seems to unfurl into space."
+      },
+      {
+        "num": 4,
+        "name": "Construcción",
+        "artist": "Manuel Felguérez",
+        "country": "Mexico",
+        "year": "1983",
+        "material": "Iron and concrete · 4 × 6.7 × 12 m",
+        "note": "The Mexican artist fuses iron and concrete in a large, ordered geometric composition."
+      },
+      {
+        "num": 5,
+        "name": "Untitled",
+        "artist": "Alberto Uribe",
+        "country": "Colombia",
+        "year": "1983",
+        "material": "Concrete and painted steel · 4.5 × 7 × 7 m",
+        "note": "An abstract work that holds its own among the open green spaces and slopes of the hill."
+      },
+      {
+        "num": 6,
+        "name": "Untitled",
+        "artist": "Sergio de Camargo",
+        "country": "Brazil",
+        "year": "1983",
+        "material": "Polished marble · 0.7 × 0.5 m",
+        "note": "A small polished-marble piece: step close to watch the light play across the stone."
+      },
+      {
+        "num": 7,
+        "name": "Estructura Cromovegetal",
+        "artist": "Carlos Cruz-Diez",
+        "country": "Venezuela",
+        "year": "1983",
+        "material": "Concrete and living vegetation · 3 × 20 × 10 m",
+        "note": "By the colour master Cruz-Diez, the work grows with living plants — art and nature together."
+      },
+      {
+        "num": 8,
+        "name": "Construcción",
+        "artist": "John Castles",
+        "country": "Colombia",
+        "year": "1983",
+        "material": "Welded steel tubes · 3.8 m high",
+        "note": "A light tower of welded steel tubes whose lines read like a drawing suspended in the air."
+      },
+      {
+        "num": 9,
+        "name": "Untitled",
+        "artist": "Ronny Vayda",
+        "country": "Colombia",
+        "year": "1983",
+        "material": "Iron and glass · 2.4 × 3.6 × 1.5 m",
+        "note": "Iron and glass together make a piece that feels different at different times of day."
+      },
+      {
+        "num": 10,
+        "name": "Untitled",
+        "artist": "Julio Le Parc",
+        "country": "Argentina / France",
+        "year": "1983",
+        "material": "Fibreglass and aluminium · 6.5 × 2.7 m",
+        "note": "A large-scale structure in fibreglass and aluminium that draws the eye from the trails."
+      }
+    ],
+    "tipTitle": "Pair it with Pueblito Paisa",
+    "tip": "The sculptures are spread between the hill entrance and the summit area. After exploring them, walk a few minutes up to Pueblito Paisa square to round out your visit.",
+    "ctaTitle": "Suggested plans: sculptures and Pueblito Paisa in one route",
+    "ctaLabel": "Browse the suggested visit plans"
   }
 }
