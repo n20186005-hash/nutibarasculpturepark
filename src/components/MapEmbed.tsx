@@ -1,8 +1,9 @@
 import { useTranslations } from 'next-intl';
+import { siteConfig } from '@/lib/site-config';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
-  const mapsUrl = "https://maps.app.goo.gl/T35wBB8jhEUL2pxL6";
+  const mapsUrl = siteConfig.mapsShareUrl;
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -22,18 +23,18 @@ export default function MapEmbed() {
           style={{ border: '1px solid var(--map-border)' }}
         >
           {/*
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
+            Google Maps embed for Cerro de Nutibara Sculpture Park
+            (official share embed src for the exact map pin).
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Cerro+De+Nutibara,+Pueblito+Paisa,+Medell%C3%ADn,+Bel%C3%A9n,+Medell%C3%ADn,+Antioquia,+Colombia&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src={siteConfig.mapsEmbedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Cerro de Nutibara Sculpture Park"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title={`Google Maps - ${siteConfig.attractionFullName}, ${siteConfig.city}`}
           />
         </div>
 

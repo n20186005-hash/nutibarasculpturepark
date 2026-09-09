@@ -2,6 +2,7 @@
 
 import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
+import { siteConfig } from '@/lib/site-config';
 
 const photoFiles = [
   'cerro-de-nutibara-sculpture-park (1).jpg',
@@ -33,7 +34,9 @@ export default function Gallery() {
 
   const photos = photoFiles.map((file, i) => ({
     src: `/gallery/${file}`,
-    alt: captions?.[i] || `Nutibara Sculpture Park ${i + 1}`,
+    alt: captions?.[i]
+      ? `${captions[i]} - ${siteConfig.attractionFullName}, ${siteConfig.city}`
+      : `${siteConfig.attractionFullName} ${i + 1}`,
   }));
 
   const visiblePhotos = photos;
@@ -91,7 +94,7 @@ export default function Gallery() {
 
             <div className="flex justify-center mt-8">
               <a
-                href="https://maps.app.goo.gl/T35wBB8jhEUL2pxL6"
+                href={siteConfig.mapsShareUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

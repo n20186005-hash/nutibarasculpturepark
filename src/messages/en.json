@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Cerro de Nutibara Sculpture Park | Tourist Attraction in Medellín, Colombia",
-    "description": "Explore Cerro de Nutibara Sculpture Park, a tourist attraction in the Belén district of Medellín, Antioquia, Colombia, and experience the beautiful city views and sculpture art."
+    "title": "Cerro de Nutibara Sculpture Park (Medellín) - Visitor Guide & Location",
+    "description": "Discover Cerro de Nutibara Sculpture Park, the iconic landmark in Medellín, Antioquia, Colombia. View location map, opening details, nearby Pueblito Paisa, and travel tips."
   },
   "header": {
     "siteName": "Cerro de Nutibara",
@@ -12,10 +12,10 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Cerro Nutibara & Pueblito Paisa",
+    "title": "Cerro de Nutibara Sculpture Park (Medellín)",
     "subtitle": "Medellín's green lung, navigating between traditional replicas and modern art. Enjoy a stunning 360-degree panoramic view of the city, stroll through the timeless corridors of a traditional Antioquian town, and experience the charm of modern sculpture art.",
     "rating": "4.6",
-    "reviewCount": "5,649",
+    "reviewCount": "5,868",
     "hours": "Tourist Attraction",
     "openMaps": "Get Directions",
     "viewGuide": "View Visit Guide"
@@ -141,7 +141,7 @@
     "hours": "Opening Hours",
     "hoursValue": "Daily 08:00–22:00",
     "rating": "Rating",
-    "ratingValue": "4.6 / 5.0 (based on 5,600+ reviews)",
+    "ratingValue": "4.6 / 5.0 (based on 5,868 reviews)",
     "location": "Location",
     "locationValue": "Medellín, Antioquia (border of Belén)"
   },
@@ -286,14 +286,86 @@
     ]
   },
   "mapSection": {
-    "title": "Map Location",
+    "title": "Location & How to Visit Cerro Nutibara in Medellín",
     "subtitle": "Cerro De Nutibara, Pueblito Paisa, Medellín, Belén, Medellín, Antioquia, Colombia",
     "openMaps": "View on Google Maps",
-    "nearbyTitle": "Nearby Recommendations",
+    "nearbyTitle": "Landmarks & Attractions Around Cerro Nutibara",
     "nearby1Name": "Pueblito Paisa",
     "nearby1Desc": "🚶 Walkable",
-    "nearby2Name": "Medellín City Center",
-    "nearby2Desc": "🚗 By car"
+    "nearby2Name": "Museo de Arte Moderno de Medellín (MAMM)",
+    "nearby2Desc": "🚗 Short drive (~10 min)"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Where is Cerro de Nutibara Sculpture Park located?",
+        "answer": "Cerro de Nutibara Sculpture Park is located on Cerro de Nutibara hill at Pueblito Paisa, in the Belén area of Medellín, Antioquia, Colombia. The Plus Code is 6CPC+H9."
+      },
+      {
+        "question": "Is Cerro Nutibara free to visit?",
+        "answer": "Yes, Cerro de Nutibara Sculpture Park is a public space and is free to visit year-round. Some commercial and dining facilities inside may charge separately."
+      },
+      {
+        "question": "What is Pueblito Paisa on Cerro Nutibara?",
+        "answer": "Pueblito Paisa is a faithful replica of a traditional early 20th-century Antioquian town, built on the summit of Cerro Nutibara in 1978. Visitors can stroll its cobblestone plaza, church, and heritage buildings."
+      },
+      {
+        "question": "What are the opening hours of Cerro de Nutibara Sculpture Park?",
+        "answer": "The park is generally open daily from approximately 08:00 to 22:00. Hours may vary by season and weather, so please check Google Maps before your visit."
+      },
+      {
+        "question": "How do I get to Cerro de Nutibara Sculpture Park?",
+        "answer": "From Medellín city center, the easiest way is to take a taxi or rideshare directly to the Pueblito Paisa parking lot at the top of the hill, or take the metro to Exposiciones or Industriales station and transfer to a taxi."
+      },
+      {
+        "question": "What sculptures can I see at the park?",
+        "answer": "The open-air sculpture park features works by 11 renowned international and local artists, installed in 1983, including abstract pieces by Colombian artists such as Carlos Rojas."
+      },
+      {
+        "question": "Is Cerro de Nutibara suitable for families?",
+        "answer": "Yes, the park offers accessible ramps, public restrooms, and nearby parking, making it suitable for visitors of all ages."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & References",
+    "intro": "For official updates and regional tourism information, visit",
+    "portalLabel": "the Medellín & Antioquia Official Tourism Portal",
+    "portalUrl": "https://www.medellin.travel/",
+    "introTail": ".",
+    "items": [
+      {
+        "name": "Alcaldía de Medellín - Cerro Nutibara",
+        "url": "https://www.medellin.gov.co/es/secretaria-medio-ambiente/medellin-biodiversa/cerro-nutibara/",
+        "description": "Municipal page for Cerro Nutibara with official park and ecology information."
+      },
+      {
+        "name": "Medellín Travel - Official Tourism Portal",
+        "url": "https://www.medellin.travel/",
+        "description": "Official tourism guide for Medellín and Antioquia."
+      },
+      {
+        "name": "Colombia Travel (ProColombia)",
+        "url": "https://colombia.travel/en",
+        "description": "Colombia's national tourism promotion portal."
+      },
+      {
+        "name": "Museo de Arte Moderno de Medellín (MAMM)",
+        "url": "https://elmamm.org/",
+        "description": "The museum that promoted the open-air sculpture park in 1983."
+      },
+      {
+        "name": "Gobernación de Antioquia",
+        "url": "https://antioquia.gov.co/",
+        "description": "Official website of the Government of Antioquia."
+      },
+      {
+        "name": "Google Maps - Cerro de Nutibara Sculpture Park",
+        "url": "https://maps.app.goo.gl/T35wBB8jhEUL2pxL6",
+        "description": "Official listing, visitor reviews, and live opening information."
+      }
+    ]
   },
   "footer": {
     "rights": "© 2026 Cerro de Nutibara Sculpture Park. All rights reserved.",
@@ -327,7 +399,8 @@
         "url": "https://www.migracioncolombia.gov.co/"
       }
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "imageCredit": "Image credits: All photographs displayed on this website are the property of their respective original photographers. All copyrights belong to the original owners."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -487,7 +560,7 @@
     "description": "Some of the wood, red tiles, doors, and windows used in the construction of Pueblito Paisa are actually authentic historical artifacts rescued and transported from the old town of El Peñol before it was flooded to build the Peñol-Guatapé reservoir!"
   },
   "about": {
-    "title": "About Cerro Nutibara",
-    "description": "Cerro Nutibara is an iconic natural and cultural landmark in the heart of Medellín, Colombia. As one of the city's largest \"green islands,\" it not only preserves rich ecological resources but is also globally renowned for the Pueblito Paisa and the open-air sculpture park at its summit. As a public asset, the attraction is currently managed and maintained by the **Medellín City Government (Alcaldía de Medellín)**, dedicated to providing a free and open space for natural recreation and cultural education for both locals and international visitors."
+    "title": "About Cerro de Nutibara Sculpture Park",
+    "description": "Welcome to **Cerro de Nutibara Sculpture Park**, widely recognized as the central **Cerro Nutibara**. Located in the heart of **Medellín**, **Antioquia**, **Colombia**, this destination serves as a primary hub for travelers visiting the region. As one of the city's largest \"green islands,\" it not only preserves rich ecological resources but is also globally renowned for the Pueblito Paisa replica town and the open-air sculpture park at its summit. As a public asset, the attraction is currently managed and maintained by the **Medellín City Government (Alcaldía de Medellín)**, dedicated to providing a free and open space for natural recreation and cultural education for both locals and international visitors."
   }
 }

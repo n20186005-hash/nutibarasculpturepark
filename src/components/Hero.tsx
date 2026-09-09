@@ -1,8 +1,9 @@
 import { useTranslations } from 'next-intl';
+import { siteConfig } from '@/lib/site-config';
 
 export default function Hero() {
   const t = useTranslations('hero');
-  const mapsUrl = "https://maps.app.goo.gl/T35wBB8jhEUL2pxL6";
+  const mapsUrl = siteConfig.mapsShareUrl;
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
@@ -10,8 +11,9 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/cerro-de-nutibara-sculpture-park (1).jpg"
-          alt="Cerro de Nutibara Sculpture Park"
+          alt={`${siteConfig.attractionFullName} - Main view in ${siteConfig.city}, ${siteConfig.country}`}
           className="w-full h-full object-cover"
+          loading="eager"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>

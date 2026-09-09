@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Cerro de Nutibara Parque de las Esculturas | Atracción Turística en Medellín, Colombia",
-    "description": "Explora el Cerro de Nutibara Parque de las Esculturas, una atracción turística en el distrito de Belén, Medellín, Antioquia, Colombia, y experimenta las hermosas vistas de la ciudad y el arte de las esculturas."
+    "title": "Parque de Las Esculturas - Cerro Nutibara (Medellín) - Guía del visitante y ubicación",
+    "description": "Descubre el Parque de Las Esculturas - Cerro Nutibara, el emblemático destino en Medellín, Antioquia, Colombia. Consulta el mapa de ubicación, los horarios, el cercano Pueblito Paisa y consejos de viaje."
   },
   "header": {
     "siteName": "Cerro de Nutibara",
@@ -12,10 +12,10 @@
     "backToHome": "Volver al Inicio"
   },
   "hero": {
-    "title": "Cerro Nutibara & Pueblito Paisa",
+    "title": "Parque de Las Esculturas - Cerro Nutibara (Medellín)",
     "subtitle": "El pulmón verde de Medellín, navegando entre réplicas tradicionales y arte moderno. Disfruta de una impresionante vista panorámica de 360 grados de la ciudad, pasea por los corredores del tiempo de un pueblo tradicional antioqueño y experimenta el encanto del arte escultórico moderno.",
     "rating": "4.6",
-    "reviewCount": "5,649",
+    "reviewCount": "5,868",
     "hours": "Atracción Turística",
     "openMaps": "Obtener Ruta",
     "viewGuide": "Ver Guía de Visita"
@@ -141,7 +141,7 @@
     "hours": "Horario de Atención",
     "hoursValue": "Todos los días 08:00–22:00",
     "rating": "Calificación",
-    "ratingValue": "4.6 / 5.0 (basado en más de 5,600 opiniones)",
+    "ratingValue": "4.6 / 5.0 (basado en 5,868 opiniones)",
     "location": "Ubicación",
     "locationValue": "Medellín, Antioquia (límite con Belén)"
   },
@@ -286,14 +286,86 @@
     ]
   },
   "mapSection": {
-    "title": "Ubicación en el Mapa",
+    "title": "Ubicación y cómo visitar el Cerro Nutibara en Medellín",
     "subtitle": "Cerro De Nutibara, Pueblito Paisa, Medellín, Belén, Medellín, Antioquia, Colombia",
     "openMaps": "Ver en Google Maps",
-    "nearbyTitle": "Recomendaciones Cercanas",
+    "nearbyTitle": "Hitos y atracciones alrededor del Cerro Nutibara",
     "nearby1Name": "Pueblito Paisa",
     "nearby1Desc": "🚶 Caminable",
-    "nearby2Name": "Centro de Medellín",
-    "nearby2Desc": "🚗 En coche"
+    "nearby2Name": "Museo de Arte Moderno de Medellín (MAMM)",
+    "nearby2Desc": "🚗 A ~10 min en coche"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "items": [
+      {
+        "question": "¿Dónde se encuentra el Parque de Las Esculturas - Cerro Nutibara?",
+        "answer": "El Parque de Las Esculturas - Cerro Nutibara se encuentra en el cerro de Nutibara, en Pueblito Paisa, en el sector de Belén de Medellín, Antioquia, Colombia. El código Plus es 6CPC+H9."
+      },
+      {
+        "question": "¿Es gratuito visitar el Cerro Nutibara?",
+        "answer": "Sí, el Parque de Las Esculturas - Cerro Nutibara es un espacio público de entrada gratuita durante todo el año. Algunos establecimientos comerciales y de restauración del interior pueden cobrar por separado."
+      },
+      {
+        "question": "¿Qué es el Pueblito Paisa del Cerro Nutibara?",
+        "answer": "El Pueblito Paisa es una réplica fiel de un pueblo tradicional antioqueño de principios del siglo XX, construida en la cima del Cerro Nutibara en 1978. Los visitantes pueden recorrer su plaza empedrada, la iglesia y los edificios patrimoniales."
+      },
+      {
+        "question": "¿Cuál es el horario del Parque de Las Esculturas - Cerro Nutibara?",
+        "answer": "El parque suele abrir todos los días aproximadamente de 08:00 a 22:00. El horario puede variar según la temporada y el clima, por lo que se recomienda consultar Google Maps antes de la visita."
+      },
+      {
+        "question": "¿Cómo se llega al Parque de Las Esculturas - Cerro Nutibara?",
+        "answer": "Desde el centro de Medellín, la forma más fácil es tomar un taxi o un vehículo de transporte privado hasta el parqueadero de Pueblito Paisa en la cima, o tomar el metro hasta las estaciones Exposiciones o Industriales y continuar en taxi."
+      },
+      {
+        "question": "¿Qué esculturas se pueden ver en el parque?",
+        "answer": "El parque de esculturas al aire libre alberga obras de 11 reconocidos artistas internacionales y locales, instaladas en 1983, entre ellas piezas abstractas de artistas colombianos como Carlos Rojas."
+      },
+      {
+        "question": "¿Es adecuado el Cerro Nutibara para ir en familia?",
+        "answer": "Sí, el parque cuenta con rampas accesibles, baños públicos y estacionamiento cercano, lo que lo hace adecuado para visitantes de todas las edades."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Fuentes y Referencias",
+    "intro": "Para actualizaciones oficiales e información turística de la región, visita",
+    "portalLabel": "el Portal Oficial de Turismo de Medellín y Antioquia",
+    "portalUrl": "https://www.medellin.travel/",
+    "introTail": ".",
+    "items": [
+      {
+        "name": "Alcaldía de Medellín - Cerro Nutibara",
+        "url": "https://www.medellin.gov.co/es/secretaria-medio-ambiente/medellin-biodiversa/cerro-nutibara/",
+        "description": "Página municipal del Cerro Nutibara con información oficial del parque y su ecología."
+      },
+      {
+        "name": "Medellín Travel - Portal Oficial de Turismo",
+        "url": "https://www.medellin.travel/",
+        "description": "Guía oficial de turismo de Medellín y Antioquia."
+      },
+      {
+        "name": "Colombia Travel (ProColombia)",
+        "url": "https://colombia.travel/es",
+        "description": "Portal nacional de promoción turística de Colombia."
+      },
+      {
+        "name": "Museo de Arte Moderno de Medellín (MAMM)",
+        "url": "https://elmamm.org/",
+        "description": "El museo que impulsó el parque de esculturas al aire libre en 1983."
+      },
+      {
+        "name": "Gobernación de Antioquia",
+        "url": "https://antioquia.gov.co/",
+        "description": "Sitio web oficial de la Gobernación de Antioquia."
+      },
+      {
+        "name": "Google Maps - Cerro de Nutibara Sculpture Park",
+        "url": "https://maps.app.goo.gl/T35wBB8jhEUL2pxL6",
+        "description": "Ficha oficial, reseñas de visitantes e información de apertura en tiempo real."
+      }
+    ]
   },
   "footer": {
     "rights": "© 2026 Cerro de Nutibara Parque de las Esculturas. Todos los derechos reservados.",
@@ -327,7 +399,8 @@
         "url": "https://www.migracioncolombia.gov.co/"
       }
     },
-    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales.",
+    "imageCredit": "Créditos de imagen: todas las fotografías mostradas en este sitio web son propiedad de sus respectivos fotógrafos originales. Todos los derechos pertenecen a sus autores."
   },
   "privacy": {
     "title": "Política de Privacidad",
@@ -487,7 +560,7 @@
     "description": "¡Parte de la madera, las tejas rojas, las puertas y las ventanas utilizadas en la construcción del Pueblito Paisa son en realidad artefactos históricos auténticos rescatados y transportados desde el antiguo pueblo de El Peñol antes de que fuera inundado para construir el embalse Peñol-Guatapé!"
   },
   "about": {
-    "title": "Acerca del Cerro Nutibara",
-    "description": "El Cerro Nutibara es un hito natural y cultural icónico en el corazón de Medellín, Colombia. Como una de las \"islas verdes\" más grandes de la ciudad, no solo conserva ricos recursos ecológicos, sino que también es mundialmente famoso por el Pueblito Paisa y el parque de esculturas al aire libre en su cima. Como bien público, la atracción es administrada y mantenida actualmente por la **Alcaldía de Medellín**, dedicada a proporcionar un espacio gratuito y abierto para la recreación natural y la educación cultural tanto para los ciudadanos como para los visitantes internacionales."
+    "title": "Acerca del Parque de Las Esculturas - Cerro Nutibara",
+    "description": "Bienvenido al **Parque de Las Esculturas - Cerro Nutibara**, ampliamente reconocido como el **Cerro Nutibara**. Situado en el corazón de **Medellín**, **Antioquia**, **Colombia**, este destino sirve como un punto de referencia central para los viajeros de la región. Como una de las \"islas verdes\" más grandes de la ciudad, no solo conserva ricos recursos ecológicos, sino que también es mundialmente famoso por el Pueblito Paisa y el parque de esculturas al aire libre en su cima. Como bien público, la atracción es administrada y mantenida actualmente por la **Alcaldía de Medellín**, dedicada a proporcionar un espacio gratuito y abierto para la recreación natural y la educación cultural tanto para los ciudadanos como para los visitantes internacionales."
   }
 }

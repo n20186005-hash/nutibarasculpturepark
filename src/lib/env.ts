@@ -19,3 +19,7 @@ export const getBaseUrl = () => {
 export const getAdsenseClientId = () => {
   return process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID || 'ca-pub-XXXXXXXXXX';
 };
+
+export const getGa4Id = () => {
+  return process.env.NEXT_PUBLIC_GA4_ID || 'G-HXM22WWPKP';
+};
