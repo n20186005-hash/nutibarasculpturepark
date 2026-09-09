@@ -150,14 +150,9 @@ export default async function LocaleLayout({
           }}
         />
 
-        {/* PWA meta */}
-        <link rel="manifest" href="/manifest.webmanifest" />
+        {/* PWA meta (manifest + apple tags are injected by metadata above) */}
         <meta name="mobile-web-app-capable" content="yes" />
-        <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="apple-mobile-web-app-title" content={messages.header.siteName} />
-        <meta name="apple-mobile-web-app-status-bar-style" content="default" />
         <meta name="format-detection" content="telephone=no" />
-        <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
 
         {/* Geo hint for search engines */}
         <meta name="geo.region" content={`${siteConfig.countryCode}-${siteConfig.city}`} />
