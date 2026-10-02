@@ -1,10 +1,10 @@
 import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
+import BasicInfo from '@/components/BasicInfo';
 import About from '@/components/About';
 import Intro from '@/components/Intro';
 import SculptureSection from '@/components/SculptureSection';
-import BasicInfo from '@/components/BasicInfo';
 import WeatherSection from '@/components/WeatherSection';
 import SeasonGuide from '@/components/SeasonGuide';
 import DeepDive from '@/components/DeepDive';
@@ -19,7 +19,6 @@ import TransportSection from '@/components/TransportSection';
 import FacilitySection from '@/components/FacilitySection';
 import Stewardship from '@/components/Stewardship';
 import Gallery from '@/components/Gallery';
-import Reviews from '@/components/Reviews';
 import FaqSection from '@/components/FaqSection';
 import SourcesSection from '@/components/SourcesSection';
 import MapEmbed from '@/components/MapEmbed';
@@ -38,10 +37,10 @@ export default async function HomePage({
       <Header />
       <main>
         <Hero />
+        <BasicInfo />
         <About />
         <Intro />
         <SculptureSection />
-        <BasicInfo />
         <WeatherSection />
         <SeasonGuide />
         <DeepDive />
@@ -56,7 +55,6 @@ export default async function HomePage({
         <FacilitySection />
         <Stewardship />
         <Gallery />
-        <Reviews />
         <FaqSection />
         <SourcesSection />
         <MapEmbed />

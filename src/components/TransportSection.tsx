@@ -10,6 +10,10 @@ export default function TransportSection() {
     name: string;
     desc: string;
   }>;
+  const quickRows = (messages?.transport?.quickRows || []) as Array<{
+    mode: string;
+    advice: string;
+  }>;
 
   return (
     <section className="section-padding">
@@ -53,6 +57,24 @@ export default function TransportSection() {
             }
           />
         </div>
+
+        {quickRows.length > 0 && (
+          <div className="mt-10">
+            <h3 className="font-medium text-lg mb-4" style={{ color: 'var(--text-primary)' }}>{t('tableTitle')}</h3>
+            <div className="overflow-x-auto rounded-xl" style={{ border: '1px solid var(--border-color)' }}>
+              <table className="w-full text-sm">
+                <tbody>
+                  {quickRows.map((row, i) => (
+                    <tr key={i} style={{ borderBottom: i < quickRows.length - 1 ? '1px solid var(--border-color)' : 'none' }}>
+                      <td className="py-3 pl-4 pr-4 font-medium align-top" style={{ color: 'var(--text-primary)', width: '40%' }}>{row.mode}</td>
+                      <td className="py-3 pr-4 align-top" style={{ color: 'var(--text-secondary)' }}>{row.advice}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        )}
       </div>
     </section>
   );

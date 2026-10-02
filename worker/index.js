@@ -167,19 +167,30 @@ async function serveAsset(env, request) {
   return first; // 404.html will be handled by the assets binding
 }
 
+const CANONICAL_HOST = 'www.nutibarasculpturepark.com';
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     const { pathname } = url;
     const method = request.method;
 
+    // Canonical hostname: redirect the bare apex to www with a 301 so Google
+    // indexes a single URL set (no apex/www split). localhost/dev hosts are
+    // left untouched so local previews keep working.
+    if (url.hostname === 'nutibarasculpturepark.com') {
+      const canonical = new URL(request.url);
+      canonical.hostname = CANONICAL_HOST;
+      return Response.redirect(canonical, 301);
+    }
+
     if (method === 'GET' && pathname === '/api/weather') {
       return handleWeather(request);
     }
 
-    // Root always resolves to the English homepage (site default language).
+    // Root resolves to the Spanish homepage (largest market).
     if (method === 'GET' && pathname === '/') {
-      return Response.redirect(new URL('/en/', url.origin), 301);
+      return Response.redirect(new URL('/es/', url.origin), 301);
     }
 
     return serveAsset(env, request);

@@ -9,11 +9,22 @@ export const getBaseUrl = () => {
   if (!url || url.trim() === '') {
     if (process.env.NODE_ENV === 'development') return 'http://localhost:3000';
     // Fallback for Vercel or other build environments if not explicitly set
-    if (process.env.VERCEL_URL) return `https://${process.env.VERCEL_URL}`;
+    if (process.env.VERCEL_URL) return `https://www.${process.env.VERCEL_URL}`;
     console.warn('NEXT_PUBLIC_SITE_URL is not set, falling back to default domain');
-    return 'https://nutibarasculpturepark.com';
+    return 'https://www.nutibarasculpturepark.com';
   }
-  return url.replace(/\/+$/, '');
+  // Normalize to the www canonical hostname so canonical/sitemap/hreflang
+  // never leak the apex variant (Google must index a single URL set).
+  const normalized = url.replace(/\/+$/, '');
+  try {
+    const parsed = new URL(normalized);
+    if (parsed.hostname === 'nutibarasculpturepark.com') {
+      parsed.hostname = 'www.nutibarasculpturepark.com';
+    }
+    return parsed.toString().replace(/\/+$/, '');
+  } catch {
+    return normalized;
+  }
 };
 
 export const getAdsenseClientId = () => {

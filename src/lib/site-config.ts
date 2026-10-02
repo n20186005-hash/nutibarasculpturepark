@@ -52,7 +52,7 @@ export const siteConfig = {
 
   // Google review snapshot shown on the page
   rating: '4.6',
-  reviewCount: '5,868',
+  reviewCount: '5,917',
 
   // GA4 Measurement ID
   ga4Id: 'G-HXM22WWPKP',

@@ -15,7 +15,7 @@
     "title": "Cerro de Nutibara 雕塑公园（麦德林）",
     "subtitle": "麦德林的城市绿肺，穿梭于传统复刻与现代艺术之巅 在这里，俯瞰360度绝美城市全景，漫步于传统安蒂奥基亚小镇的时光回廊，感受现代雕塑艺术的魅力。",
     "rating": "4.6",
-    "reviewCount": "5,868",
+    "reviewCount": "5,917",
     "hours": "旅游胜地",
     "openMaps": "获取地图导航",
     "viewGuide": "查看游览指南"
@@ -141,12 +141,14 @@
     "hours": "营业时间",
     "hoursValue": "每日 08:00–22:00",
     "rating": "游客评分",
-    "ratingValue": "4.6 / 5.0 (基于 5,868 条评价)",
+    "ratingValue": "4.6 / 5.0 (基于 5,917 条评价)",
     "location": "地理位置",
     "locationValue": "哥伦比亚安蒂奥基亚省麦德林市（Belén 区交界）"
   },
   "hours": {
-    "title": "开放时间与游览建议",
+    "title": "Cerro Nutibara 与雕塑公园开放时间",
+    "intro": "常规开放时间：每日 08:00–22:00。门票：免费。",
+    "lastUpdated": "最后更新：2026 年 10 月",
     "outdoor": "营业时间",
     "outdoorTime": "08:00–22:00",
     "lighthouse": "最佳游览时间",
@@ -174,7 +176,15 @@
     "officialNoticeLink": "https://www.medellin.gov.co/"
   },
   "transport": {
-    "title": "如何到达 (Getting There)",
+    "title": "如何前往 Cerro Nutibara 与 Pueblito Paisa",
+    "tableTitle": "快速到达方式",
+    "quickRows": [
+      { "mode": "地铁", "advice": "Exposiciones / Industriales 站" },
+      { "mode": "出租车 / 网约车", "advice": "直达山顶（Pueblito Paisa 停车场）" },
+      { "mode": "麦德林市中心", "advice": "约 20–30 分钟" },
+      { "mode": "MDE 机场", "advice": "约 1 小时" },
+      { "mode": "EOH 机场", "advice": "约 10–15 分钟" }
+    ],
     "airport": "✈️ 机场到景点路线 (核心推荐)",
     "airportDesc": "距离 Cerro de Nutibara Sculpture Park 最近的机场是何塞·玛丽亚·科尔多瓦国际机场 (MDE)。抵达后，可乘坐出租车或网约车前往麦德林市区，再转乘前往贝尔伦区的交通工具。全程约 45 分钟至 1 小时即可直达 Cerro de Nutibara，这是最高效的抵达方式。",
     "selfDrive": "自驾前往",

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Cerro de Nutibara Sculpture Park Medellín | Visitor Guide & Artworks",
-    "description": "See 10 open-air sculptures by leading international artists at Cerro Nutibara, Medellín. Free entry, hours, map and tips — right beside Pueblito Paisa."
+    "title": "Cerro Nutibara Medellín | Sculpture Park, Hours & Directions",
+    "description": "Plan your visit to Cerro Nutibara Sculpture Park in Medellín: opening hours, free entry, directions, Pueblito Paisa, viewpoints and the 10 outdoor artworks."
   },
   "header": {
     "siteName": "Cerro de Nutibara",
@@ -12,10 +12,10 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Cerro de Nutibara Sculpture Park (Medellín)",
+    "title": "Cerro Nutibara Medellín – Sculpture Park",
     "subtitle": "Medellín's green lung, navigating between traditional replicas and modern art. Enjoy a stunning 360-degree panoramic view of the city, stroll through the timeless corridors of a traditional Antioquian town, and experience the charm of modern sculpture art.",
     "rating": "4.6",
-    "reviewCount": "5,868",
+    "reviewCount": "5,917",
     "hours": "Tourist Attraction",
     "openMaps": "Get Directions",
     "viewGuide": "View Visit Guide"
@@ -141,12 +141,14 @@
     "hours": "Opening Hours",
     "hoursValue": "Daily 08:00–22:00",
     "rating": "Rating",
-    "ratingValue": "4.6 / 5.0 (based on 5,868 reviews)",
+    "ratingValue": "4.6 / 5.0 (based on 5,917 reviews)",
     "location": "Location",
     "locationValue": "Medellín, Antioquia (border of Belén)"
   },
   "hours": {
-    "title": "Opening Hours & Visitor Info",
+    "title": "Cerro Nutibara & Sculpture Park Opening Hours",
+    "intro": "Regular hours: daily, 08:00–22:00. Entry: free.",
+    "lastUpdated": "Last updated: October 2026",
     "outdoor": "Business Hours",
     "outdoorTime": "08:00–22:00",
     "lighthouse": "Best Visiting Time",
@@ -174,7 +176,15 @@
     "officialNoticeLink": "https://www.medellin.gov.co/"
   },
   "transport": {
-    "title": "Getting There",
+    "title": "Getting to Cerro Nutibara & Pueblito Paisa",
+    "tableTitle": "Quick way to get there",
+    "quickRows": [
+      { "mode": "Metro", "advice": "Exposiciones / Industriales stations" },
+      { "mode": "Taxi / Rideshare", "advice": "Straight to the summit (Pueblito Paisa parking)" },
+      { "mode": "Medellín city center", "advice": "About 20–30 min" },
+      { "mode": "MDE Airport", "advice": "About 1 hour" },
+      { "mode": "EOH Airport", "advice": "About 10–15 min" }
+    ],
     "airport": "✈️ Airport to Landmark (Core Recommendation)",
     "airportDesc": "The closest airport to Cerro de Nutibara Sculpture Park is José María Córdova International Airport (MDE). Upon arrival, you can take a taxi or ride-hailing service to Medellín city center, then transfer to transportation heading to Belén district. The journey is about 45 minutes to 1 hour directly to Cerro de Nutibara, which is the most efficient way to arrive.",
     "selfDrive": "Driving",

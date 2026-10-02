@@ -53,7 +53,7 @@ export async function generateMetadata({
         'zh': zhUrl,
         'en': enUrl,
         'es': esUrl,
-        'x-default': enUrl,
+        'x-default': esUrl,
       } as Record<string, string>,
     },
     manifest: '/manifest.webmanifest',

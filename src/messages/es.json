@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Parque de las Esculturas Cerro Nutibara Medellín | Guía Oficial y Mapa",
-    "description": "Descubre el Parque de las Esculturas en el Cerro Nutibara, Medellín: 10 obras al aire libre, entrada gratuita, horarios y mapa, junto a Pueblito Paisa."
+    "title": "Cerro Nutibara Medellín | Horario, Cómo Llegar y Esculturas",
+    "description": "Guía para visitar el Cerro Nutibara y el Parque de las Esculturas en Medellín: horario, entrada gratuita, cómo llegar, Pueblito Paisa, miradores, esculturas y mapa."
   },
   "header": {
     "siteName": "Cerro de Nutibara",
@@ -12,10 +12,10 @@
     "backToHome": "Volver al Inicio"
   },
   "hero": {
-    "title": "Parque de Las Esculturas - Cerro Nutibara (Medellín)",
+    "title": "Cerro Nutibara Medellín – Parque de las Esculturas",
     "subtitle": "El pulmón verde de Medellín, navegando entre réplicas tradicionales y arte moderno. Disfruta de una impresionante vista panorámica de 360 grados de la ciudad, pasea por los corredores del tiempo de un pueblo tradicional antioqueño y experimenta el encanto del arte escultórico moderno.",
     "rating": "4.6",
-    "reviewCount": "5,868",
+    "reviewCount": "5,917",
     "hours": "Atracción Turística",
     "openMaps": "Obtener Ruta",
     "viewGuide": "Ver Guía de Visita"
@@ -141,12 +141,14 @@
     "hours": "Horario de Atención",
     "hoursValue": "Todos los días 08:00–22:00",
     "rating": "Calificación",
-    "ratingValue": "4.6 / 5.0 (basado en 5,868 opiniones)",
+    "ratingValue": "4.6 / 5.0 (basado en 5,917 opiniones)",
     "location": "Ubicación",
     "locationValue": "Medellín, Antioquia (límite con Belén)"
   },
   "hours": {
-    "title": "Horarios y Consejos para Visitantes",
+    "title": "Horario del Cerro Nutibara y Parque de las Esculturas",
+    "intro": "Horario habitual: todos los días, 08:00–22:00. Entrada: gratuita.",
+    "lastUpdated": "Última actualización: octubre de 2026",
     "outdoor": "Horario Comercial",
     "outdoorTime": "08:00–22:00",
     "lighthouse": "Mejor Momento de Visita",
@@ -174,7 +176,15 @@
     "officialNoticeLink": "https://www.medellin.gov.co/"
   },
   "transport": {
-    "title": "Cómo llegar al Cerro Nutibara en Medellín",
+    "title": "Cómo llegar al Cerro Nutibara y Pueblito Paisa",
+    "tableTitle": "Resumen rápido para llegar",
+    "quickRows": [
+      { "mode": "Metro", "advice": "Estaciones Exposiciones / Industriales" },
+      { "mode": "Taxi / Uber", "advice": "Directo hasta la cima (parqueadero de Pueblito Paisa)" },
+      { "mode": "Centro de Medellín", "advice": "Unas 20–30 min" },
+      { "mode": "Aeropuerto MDE", "advice": "Unas 1 hora" },
+      { "mode": "Aeropuerto EOH", "advice": "Unas 10–15 min" }
+    ],
     "airport": "✈️ Aeropuerto al Destino (Recomendación Principal)",
     "airportDesc": "El aeropuerto más cercano al Cerro de Nutibara Parque de las Esculturas es el Aeropuerto Internacional José María Córdova (MDE). Al llegar, puedes tomar un taxi o servicio de transporte para ir al centro de Medellín, luego transferirte al transporte que se dirige al distrito de Belén. El viaje es de aproximadamente 45 minutos a 1 hora directamente a Cerro de Nutibara, que es la forma más eficiente de llegar.",
     "selfDrive": "En Coche",

@@ -5,21 +5,25 @@ export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = getBaseUrl();
-  const locales = ['zh', 'en', 'es'];
-  const routes = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
 
-  const sitemap: MetadataRoute.Sitemap = [];
+  // Only the three canonical visitor-guide homepages are submitted. Legal and
+  // cookie pages are intentionally excluded (they carry noindex,follow).
+  const locales = ['es', 'en', 'zh'];
 
-  for (const locale of locales) {
-    for (const route of routes) {
-      sitemap.push({
-        url: `${baseUrl}/${locale}${route}`,
-        lastModified: new Date(),
-        changeFrequency: route === '' ? 'weekly' : 'monthly',
-        priority: route === '' ? 1 : 0.5,
-      });
-    }
-  }
+  const sitemap: MetadataRoute.Sitemap = locales.map((locale) => ({
+    url: `${baseUrl}/${locale}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: locale === 'es' ? 1 : 0.8,
+    alternates: {
+      languages: {
+        es: `${baseUrl}/es`,
+        en: `${baseUrl}/en`,
+        zh: `${baseUrl}/zh`,
+        'x-default': `${baseUrl}/es`,
+      },
+    },
+  }));
 
   return sitemap;
 }

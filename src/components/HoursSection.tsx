@@ -15,7 +15,10 @@ export default function HoursSection() {
         >
           {t('title')}
         </h2>
-        <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
+        <div className="w-12 h-0.5 mb-6" style={{ background: 'var(--accent)' }} />
+
+        <p className="text-sm leading-relaxed mb-3 max-w-2xl" style={{ color: 'var(--text-secondary)' }}>{t('intro')}</p>
+        <p className="text-xs mb-8" style={{ color: 'var(--text-muted)' }}>{t('lastUpdated')}</p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
           <TimeCard title={t('outdoor')} time={t('outdoorTime')} iconKey="outdoor" />
