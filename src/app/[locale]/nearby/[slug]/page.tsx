@@ -43,7 +43,7 @@ export default async function CityGuide({params}: Props) {
       </nav>
       <h1 className="font-display text-3xl sm:text-5xl font-semibold mb-6">{text.title}</h1>
       <figure className="mb-8"><img src={place.photo} alt={text.title} className="w-full max-h-[480px] object-contain rounded-xl"/><figcaption className="mt-2 text-sm"><a href={place.source}>{t.source}</a></figcaption></figure>
-      {[[t.history,text.history],[t.route,text.walk],[t.manager,text.manager]].map(([heading,body])=><section key={heading} className="mb-6"><h2 className="font-display text-2xl font-semibold mb-2">{heading}</h2><p className="leading-relaxed">{body}</p></section>)}
+      {[[t.history,text.history,text.context],[t.route,text.walk,text.fieldNotes],[t.manager,text.manager]].map(([heading,body,extra])=><section key={heading} className="mb-6"><h2 className="font-display text-2xl font-semibold mb-2">{heading}</h2><p className="leading-relaxed">{body}</p>{extra && <p className="leading-relaxed mt-3">{extra}</p>}</section>)}
       <p className="mb-8"><a className="underline" href={map}>{t.map} ↗</a></p>
       <section><h2 className="font-display text-2xl font-semibold mb-3">{t.faq}</h2><dl className="space-y-4">{faqs.map(([q,a])=><div key={q}><dt className="font-semibold">{q}</dt><dd>{a}</dd></div>)}</dl></section>
       <p className="mt-8">{t.next} · <a className="underline" href={'/'+locale+'/nearby/'+next.slug}>{next.locales[locale].title}</a></p>

@@ -12,7 +12,9 @@
         "walk": "Desde Parque Berrío sigue La Playa hasta Junín. Cruza por el paso señalizado, retrocede unos pasos por el paseo y mira por encima de las fachadas bajas.",
         "manager": "La administración del edificio regula el acceso a oficinas. La parada panorámica se hace en espacio público.",
         "question": "¿Dónde se distingue la aguja?",
-        "answer": "En Junín, a cierta distancia de la base."
+        "answer": "En Junín, a cierta distancia de la base.",
+        "context": "La torre fue concebida para la dirección de la Compañía Colombiana de Tejidos. Esa relación con las fábricas del valle explica que se interprete el coronamiento como una referencia textil; es una lectura popular de la silueta, no una máquina de hilar representada al detalle.",
+        "fieldNotes": "Dedica la primera parada a las líneas verticales del cuerpo. En la segunda, desde Junín, encuentra el punto donde esas líneas dejan paso al remate inclinado. Al regresar hacia Parque Berrío vuelve a mirar: la torre sirve de referencia incluso detrás de edificios bajos."
       },
       "en": {
         "title": "Coltejer Tower",
@@ -20,7 +22,9 @@
         "walk": "From Parque Berrío follow La Playa to Junín. Cross at the marked crossing and step back along the promenade to frame the peak above the shopfronts.",
         "manager": "The building administration controls access to the offices. The skyline viewpoint is on the public street.",
         "question": "Where is the needle shape clearest?",
-        "answer": "On Junín, a short way back from the base."
+        "answer": "On Junín, a short way back from the base.",
+        "context": "The tower housed the executives of Compañía Colombiana de Tejidos. Its link to the valley’s textile mills helps explain why people read a needle into the skyline. That resemblance is a popular interpretation, not a literal working needle rendered in concrete.",
+        "fieldNotes": "Start with the vertical lines on the shaft. From Junín pick out the point where they give way to the sloping crown. Look back again on the walk to Parque Berrío: the tower remains a landmark even when lower buildings obscure its base."
       },
       "zh": {
         "title": "科尔特赫尔大厦",
@@ -28,7 +32,9 @@
         "walk": "从贝里奥公园沿拉普拉亚大道走到胡宁街，在划线处过街，再沿步行街后退一段，从低矮店铺屋顶上方观察尖顶。",
         "manager": "楼宇管理方控制办公室出入，观看城市轮廓可直接使用公共人行道。",
         "question": "在哪里最容易看见针尖形状？",
-        "answer": "从胡宁街稍远处朝楼顶看。"
+        "answer": "从胡宁街稍远处朝楼顶看。",
+        "context": "这座楼原供哥伦比亚纺织公司的管理层办公。企业与河谷纺织工厂的关系，让人们自然地把尖顶理解为针尖；这是由轮廓引起的民间联想，楼顶并不是某种纺织机器的模型。",
+        "fieldNotes": "近处先看楼身的竖向线条，再到胡宁街找出线条转向倾斜冠部的位置。返回贝里奥公园途中再回望一次，即使底部被商铺遮住，仍能凭尖顶辨认方向。"
       }
     }
   },
@@ -45,7 +51,9 @@
         "walk": "Desde el final del ascenso sigue las señales al Pueblito. Rodea la fuente, mira la iglesia desde el lado opuesto y sal hacia el mirador antes de volver a la plaza.",
         "manager": "El Distrito gestiona el espacio público del cerro. Restaurantes y tiendas dentro del pueblo fijan sus propios servicios.",
         "question": "¿Es un pueblo antiguo trasladado completo?",
-        "answer": "Es una recreación de la plaza y edificios tradicionales de Antioquia."
+        "answer": "Es una recreación de la plaza y edificios tradicionales de Antioquia.",
+        "context": "El conjunto se inauguró en 1978. En vez de reproducir un plano urbano entero, concentra en pocos pasos los lugares que organizaban el encuentro en una cabecera antioqueña. La casa cural permite leer el papel de la parroquia junto a la actividad cotidiana de la plaza.",
+        "fieldNotes": "Sitúate entre la fuente y el jardín: desde ahí la iglesia ocupa un extremo y las tiendas enmarcan los lados. Haz primero la vuelta por la plaza; deja el mirador para el final para que el cambio hacia la escala del valle sea perceptible."
       },
       "en": {
         "title": "Pueblito Paisa square",
@@ -53,7 +61,9 @@
         "walk": "At the top of the ascent follow signs for Pueblito. Circle the fountain, face the church from across the square, then walk out to the lookout before returning.",
         "manager": "The District manages the hill’s public space. Shops and restaurants inside the village operate separately.",
         "question": "Was an entire old town moved here?",
-        "answer": "The square and buildings recreate a typical Antioquia village."
+        "answer": "The square and buildings recreate a typical Antioquia village.",
+        "context": "Opened in 1978, the settlement condenses the institutions of an Antioquia town centre into a few steps. The priest’s residence beside the church shows how parish life occupied the same central space as trade and social gatherings.",
+        "fieldNotes": "Stand between the fountain and garden. The church anchors one end while shops frame the sides. Walk the square first and save the lookout for last, so the change from the scale of a village to that of the valley is clear."
       },
       "zh": {
         "title": "派萨小镇广场",
@@ -61,7 +71,9 @@
         "walk": "在上山道路尽头循小镇标识入内，绕喷泉半圈，从广场对面看教堂，再步行去观景台，最后回到广场。",
         "manager": "市政府管理山丘公共区域，小镇内餐馆、店铺的服务由各自经营者安排。",
         "question": "是整座老村迁到这里的吗？",
-        "answer": "这里重现的是安蒂奥基亚典型乡镇的广场和建筑。"
+        "answer": "这里重现的是安蒂奥基亚典型乡镇的广场和建筑。",
+        "context": "这组建筑于1978年开放，用几步路的距离浓缩了安蒂奥基亚市镇中心的日常生活。教堂旁的神父住宅提示着堂区的角色，而四周的店面又让人想到交易和聚会如何共用同一广场。",
+        "fieldNotes": "站在喷泉与花园之间看，教堂收住一端，商铺围合两侧。建议先绕广场一圈再看山谷，让视野从村镇尺度逐步展开。"
       }
     }
   },
@@ -78,7 +90,9 @@
         "walk": "Empieza bajo la torre Coltejer, entra en el tramo peatonal y sigue hacia Parque Bolívar. Detente frente a una cafetería sin ocupar su puerta.",
         "manager": "La vía es espacio público del Distrito; la entrada, los horarios y las compras en los comercios dependen de cada local.",
         "question": "¿Qué significa juniniar?",
-        "answer": "Salir a pasear, encontrarse con otros y mirar vitrinas en Junín."
+        "answer": "Salir a pasear, encontrarse con otros y mirar vitrinas en Junín.",
+        "context": "El antiguo teatro Junín, el club Unión y las librerías hicieron de este corredor un destino cultural además de comercial. Versalles y la Repostería Astor recuerdan otra costumbre: detenerse a tomar el algo, una merienda entre el almuerzo y la cena.",
+        "fieldNotes": "Usa el arranque junto al Coltejer para reconocer la anchura de la calle; luego busca los rótulos de los cafés. Una pausa para merendar tiene aquí más relación con la historia del paseo que limitarse a cruzarlo deprisa."
       },
       "en": {
         "title": "Junín pedestrian promenade",
@@ -86,7 +100,9 @@
         "walk": "Start below the Coltejer tower and take the pedestrian stretch toward Parque Bolívar. Pause across from a café rather than blocking its doorway.",
         "manager": "The District looks after the public street. Each business sets its own opening hours and conditions.",
         "question": "What does juniniar mean?",
-        "answer": "To stroll, meet people and window-shop on Junín."
+        "answer": "To stroll, meet people and window-shop on Junín.",
+        "context": "The former Junín theatre, Unión club and bookshops made the corridor a cultural destination as well as a shopping street. Versalles and Repostería Astor recall the custom of taking el algo, an afternoon snack between lunch and dinner.",
+        "fieldNotes": "At the Coltejer end take in the width of the promenade, then look for the café signs. Stopping for a snack is closer to the street’s social history than simply using it as a shortcut."
       },
       "zh": {
         "title": "胡宁步行街",
@@ -94,7 +110,9 @@
         "walk": "从科尔特赫尔大厦下方进入步行段，朝玻利瓦尔公园方向走，在咖啡馆对面停步观察，给店门留出通道。",
         "manager": "街道属于市政公共空间，商店自行决定营业时间和服务内容。",
         "question": "当地人说的 juniniar 是什么？",
-        "answer": "就是在胡宁街散步、会友、逛橱窗。"
+        "answer": "就是在胡宁街散步、会友、逛橱窗。",
+        "context": "老胡宁剧院、Unión 俱乐部和书店曾让这条街兼有商业与文化功能。Versalles 咖啡馆与 Astor 点心店让人想到当地的 el algo，即午餐与晚餐之间的点心时间。",
+        "fieldNotes": "从大厦一端先看整条步行街的宽度，再寻找咖啡馆招牌。若时间允许，停下来吃点心，比匆忙把街道当作捷径更接近这里原有的生活节奏。"
       }
     }
   },
@@ -111,7 +129,9 @@
         "walk": "En Ciudad del Río llega a la plaza del museo, compara las dos partes del edificio y localiza la taquilla antes de subir a las salas anunciadas.",
         "manager": "El MAMM programa las exposiciones y controla las entradas. La plaza exterior se puede recorrer sin ingresar a las salas.",
         "question": "¿Puedo reconocer los talleres sin comprar entrada?",
-        "answer": "La antigua nave y el volumen nuevo se comparan desde la plaza."
+        "answer": "La antigua nave y el volumen nuevo se comparan desde la plaza.",
+        "context": "El museo abrió en Talleres Robledo después de haber trabajado en otra sede. Reutilizar un edificio industrial dentro del antiguo sector de fábricas dejó visible una etapa de la transformación de Ciudad del Río que una construcción enteramente nueva habría borrado.",
+        "fieldNotes": "Empieza en el encuentro entre el taller bajo y el bloque alto. Fíjate en la longitud de las cubiertas y en los espacios libres entre las piezas de la ampliación. Con poco tiempo, escoge una sola exposición según el plano del día."
       },
       "en": {
         "title": "Medellín Museum of Modern Art",
@@ -119,7 +139,9 @@
         "walk": "Walk to the museum forecourt in Ciudad del Río, compare the two buildings, then find the ticket desk for the galleries open that day.",
         "manager": "MAMM sets the exhibition programme and admission conditions. You can view the architecture from the forecourt.",
         "question": "Can I see the old workshops without a ticket?",
-        "answer": "Compare the outline of the old hall and new wing from the square."
+        "answer": "Compare the outline of the old hall and new wing from the square.",
+        "context": "The museum moved to Talleres Robledo from an earlier home. Reusing a workshop in this former industrial district preserved a stage of Ciudad del Río’s transformation that an entirely new building would have erased.",
+        "fieldNotes": "Begin at the junction of the low workshop and taller block. Compare the long rooflines with the open gaps between elements of the extension. If time is short, choose a single exhibition from the day’s floor plan."
       },
       "zh": {
         "title": "麦德林现代艺术博物馆",
@@ -127,7 +149,9 @@
         "walk": "先走到河城片区博物馆前广场，从两座建筑交界处观察外观，再到售票处领取当天开放展厅的信息。",
         "manager": "展览和入场安排由现代艺术博物馆负责，在前广场看建筑无需进入展厅。",
         "question": "不买票可分辨旧厂房吗？",
-        "answer": "从广场就能比较旧厂房轮廓与新馆体块。"
+        "answer": "从广场就能比较旧厂房轮廓与新馆体块。",
+        "context": "博物馆从先前馆址迁到罗夫莱多工场，保留了河城片区从生产空间转为城市文化区的一段痕迹。若全部拆除另建，这层工业历史就很难直接从现场读出。",
+        "fieldNotes": "在低矮工场与高层新馆相接处停步，对比老屋顶的长线条和新体块之间的空隙。时间有限时先查看当天平面图，选一个展览深入参观。"
       }
     }
   },
@@ -144,7 +168,9 @@
         "walk": "Desde la parada Pabellón del Agua busca la entrada de Pequeño Teatro en Córdoba. Pasa primero por taquilla: pueden funcionar dos salas la misma noche.",
         "manager": "Pequeño Teatro organiza funciones y formación de actores. Consulta a su taquilla qué sala y qué modalidad de ingreso corresponden a tu obra.",
         "question": "¿Cómo evito entrar en la sala equivocada?",
-        "answer": "Comprueba título, hora y sala en taquilla: hay dos escenarios."
+        "answer": "Comprueba título, hora y sala en taquilla: hay dos escenarios.",
+        "context": "La organización creció alrededor del trabajo de repertorio y la enseñanza de actores. La biblioteca, la sala de exposiciones y el café ayudan a entender por qué una casa de patio puede sostener más actividad que la de las horas de función.",
+        "fieldNotes": "Si el patio está abierto, observa primero la palmera desde el umbral; después localiza los accesos a las dos salas. Así puedes distinguir la parte de la casa que articula las circulaciones del espacio que se oscurece para la obra."
       },
       "en": {
         "title": "Pequeño Teatro",
@@ -152,7 +178,9 @@
         "walk": "From the Pabellón del Agua stop, find Pequeño Teatro on Córdoba and check in at the box office before taking a seat. Two rooms can be in use on the same evening.",
         "manager": "Pequeño Teatro runs the performances and actor training. Its box office identifies the correct room and admission arrangements.",
         "question": "How do I find the right stage?",
-        "answer": "Check title, time and room at the desk because there are two stages."
+        "answer": "Check title, time and room at the desk because there are two stages.",
+        "context": "Repertory performance and the training of actors shaped the organisation. Its library, exhibition room and café help explain how a courtyard house can remain active beyond the few hours when a play is on stage.",
+        "fieldNotes": "If the courtyard is open, look at the palm from the threshold and then identify the two theatre entrances. The contrast separates the part of the house that distributes people from the room that goes dark for the performance."
       },
       "zh": {
         "title": "小剧院",
@@ -160,7 +188,9 @@
         "walk": "从 Pabellón del Agua 站走到科尔多瓦街的小剧院入口，先至售票处确认剧目和厅号，再前往座席。两厅可能同晚演出。",
         "manager": "小剧院负责排演和演员培训，具体场次、演出厅与入场方式由剧院票房公布。",
         "question": "怎样找到正确演出厅？",
-        "answer": "有两座舞台，到票房核对剧名、开演时间及厅号。"
+        "answer": "有两座舞台，到票房核对剧名、开演时间及厅号。",
+        "context": "剧团围绕剧目演出和演员培训发展，图书室、展厅和咖啡馆让庭院宅邸在演出以外也能使用。了解这些功能后，两座剧场与宅邸各房间之间的关系就更容易辨认。",
+        "fieldNotes": "庭院开放时先在门槛处看棕榈树，再寻找两个演出厅的入口。这样能区分组织人流的公共庭院与开演后变暗的观演空间。"
       }
     }
   },
@@ -177,7 +207,9 @@
         "walk": "En el Parque Bicentenario busca la entrada señalizada del museo. Empieza por la orientación de las salas y reserva la parte final para volver al parque.",
         "manager": "El Museo Casa de la Memoria administra las exposiciones y orienta sobre el tratamiento respetuoso de los testimonios.",
         "question": "¿Cómo escucho los testimonios con respeto?",
-        "answer": "Deja espacio a otros oyentes y consulta antes de grabar voces o imágenes."
+        "answer": "Deja espacio a otros oyentes y consulta antes de grabar voces o imágenes.",
+        "context": "La iniciativa se desarrolló desde la atención a víctimas hacia un espacio de conversación sobre violencia y resistencia. Importa quién narra cada hecho: distingue una fecha del relato de alguien que la vivió y observa qué nombre de barrio o lugar aparece en ambos.",
+        "fieldNotes": "Entra con tiempo para leer la introducción. Elige después un testimonio y busca en el recorrido una referencia al mismo lugar. Termina al aire libre en el Bicentenario; si vas en grupo, acuerda ahí el punto de reencuentro."
       },
       "en": {
         "title": "House of Memory Museum",
@@ -185,7 +217,9 @@
         "walk": "Enter Parque Bicentenario and look for the signed museum entrance. Start at the gallery orientation point and leave time to return to the open space outside.",
         "manager": "Museo Casa de la Memoria runs the exhibitions and advises visitors on respectful use of testimony.",
         "question": "How can I listen respectfully?",
-        "answer": "Give others space and ask staff before recording voices or images."
+        "answer": "Give others space and ask staff before recording voices or images.",
+        "context": "An initiative rooted in victim support developed into a place for discussing violence and resistance. Pay attention to who is telling each story. A date in a chronology and the same date recalled by a witness may illuminate different aspects of the same event.",
+        "fieldNotes": "Read the introduction, choose one testimony, then look for another reference to the same neighbourhood in the galleries. Finish outdoors in Parque Bicentenario and agree on a meeting point there if visiting in a group."
       },
       "zh": {
         "title": "记忆之家博物馆",
@@ -193,7 +227,9 @@
         "walk": "进入二百周年公园后按指示前往博物馆，在展厅导览处确定参观顺序，结束时回到公园稍作停留。",
         "manager": "记忆之家博物馆负责展览和参观服务，并就记录、使用受访者证言提供指引。",
         "question": "如何尊重讲述者？",
-        "answer": "给其他听众留空间，录音或拍摄前先问馆方。"
+        "answer": "给其他听众留空间，录音或拍摄前先问馆方。",
+        "context": "这里从受害者援助工作发展为讨论暴力与抵抗经验的公共场所。参观时要区分时间线上的日期与亲历者回忆中的日期，留意同一事件在不同叙述里对应了哪个街区。",
+        "fieldNotes": "先留时间读导言，再选一段证言听完，在后续展陈中寻找同一地点的另一条线索。最后回到二百周年公园，结伴参观者可以事先约定在园内集合。"
       }
     }
   },
@@ -210,7 +246,9 @@
         "walk": "En Aranjuez localiza la casa museo por su nombre, entra por recepción y sigue de los espacios domésticos a los muros pintados. Pregunta qué salas están abiertas.",
         "manager": "La Fundación Casa Museo Maestro Pedro Nel Gómez conserva la casa y organiza los recorridos.",
         "question": "¿Los murales se pueden trasladar como cuadros?",
-        "answer": "Los frescos se pintaron sobre muros; observa cómo responden a la habitación."
+        "answer": "Los frescos se pintaron sobre muros; observa cómo responden a la habitación.",
+        "context": "Al convertirse en museo la residencia no perdió de inmediato su vida doméstica. Acuarelas y óleos pueden cambiar de lugar; la pintura al fresco, en cambio, hace que la pared forme parte de la obra. Esa diferencia es útil para interpretar el legado del artista.",
+        "fieldNotes": "Empieza con una obra de pequeño formato y pasa después a un muro pintado. Mira dónde se corta la escena al llegar a una puerta. No necesitas recorrer todas las piezas para comprender la relación entre vivienda, taller y museo."
       },
       "en": {
         "title": "Pedro Nel Gómez House Museum",
@@ -218,7 +256,9 @@
         "walk": "In Aranjuez navigate to the named house museum, check in at reception and follow the domestic rooms to the painted walls. Ask which spaces are open that day.",
         "manager": "Fundación Casa Museo Maestro Pedro Nel Gómez cares for the house and organises visits.",
         "question": "Can the murals be moved like framed paintings?",
-        "answer": "The frescoes were painted onto walls; see how the room shapes each composition."
+        "answer": "The frescoes were painted onto walls; see how the room shapes each composition.",
+        "context": "The residence continued as a family home after museum status was established. A watercolour or oil can move, while fresco painting makes the wall itself part of the work. The difference helps explain why preserving this particular building matters.",
+        "fieldNotes": "Start with a small-format work and then move to a painted wall. Notice where the scene meets a doorway. That short comparison can reveal more about house and studio than attempting to see every object."
       },
       "zh": {
         "title": "佩德罗·内尔·戈麦斯故居博物馆",
@@ -226,7 +266,9 @@
         "walk": "在阿兰胡埃斯区按故居全名导航，在接待处入内，沿住宅房间走向壁画墙面，并询问当天开放范围。",
         "manager": "佩德罗·内尔·戈麦斯大师故居博物馆基金会负责保护住宅及安排参观。",
         "question": "壁画能像画框那样搬动吗？",
-        "answer": "湿壁画绘在墙上，要结合房间格局一起观察。"
+        "answer": "湿壁画绘在墙上，要结合房间格局一起观察。",
+        "context": "住宅成为博物馆后仍保留家庭生活功能。水彩和油画可以移动，而湿壁画把墙本身变成作品的一部分，这也说明为何保护藏品之外还需要保存这栋具体的住宅。",
+        "fieldNotes": "可从一件小幅作品开始，再看一整面壁画，观察画面在门框处如何结束。即使未看遍所有藏品，这个比较也有助于理解家、工作室与博物馆之间的关系。"
       }
     }
   },
@@ -243,7 +285,9 @@
         "walk": "Desde la estación Prado camina hacia las calles residenciales del barrio. Recorre un tramo por una acera y vuelve por la opuesta para comparar los retranqueos de las casas.",
         "manager": "El Distrito protege el conjunto urbano. Las casas siguen teniendo propietarios y usos independientes; una fachada catalogada no implica visita interior.",
         "question": "¿Puedo entrar en los patios de las casas?",
-        "answer": "Observa desde la acera salvo que el propietario anuncie acceso público."
+        "answer": "Observa desde la acera salvo que el propietario anuncie acceso público.",
+        "context": "Las referencias importadas de Europa no produjeron un estilo único. Una casa recuerda un chalé por el tejado; otra busca el efecto de un pequeño castillo. El arbolado y las distancias entre fachada y acera hacen de esas diferencias una experiencia de calle.",
+        "fieldNotes": "Busca dos casas de la misma cuadra con siluetas distintas. Observa primero el límite del jardín y después el remate de cada cubierta. Para una visita breve, esa comparación evita confundir una lista de casas con la lectura de un barrio."
       },
       "en": {
         "title": "Prado heritage district",
@@ -251,7 +295,9 @@
         "walk": "From Prado station walk toward the residential streets of the district. Take one side of a block on the way out and the opposite pavement on the return to compare the setbacks.",
         "manager": "The District protects the urban ensemble. Individual buildings have separate owners and uses; heritage status does not grant entry.",
         "question": "Can I enter the front gardens?",
-        "answer": "Stay on the pavement unless the owner explicitly offers public access."
+        "answer": "Stay on the pavement unless the owner explicitly offers public access.",
+        "context": "European references did not produce a single local style. One roof suggests a chalet, another house a small castle. Street trees and the space between frontage and pavement allow these differences to be seen as parts of a neighbourhood.",
+        "fieldNotes": "Choose two houses on one block with different silhouettes. Compare the garden boundaries first, then the roofs. On a short visit, that pair offers a way to understand the street rather than just collecting pictures of individual houses."
       },
       "zh": {
         "title": "普拉多历史街区",
@@ -259,7 +305,9 @@
         "walk": "从普拉多地铁站走向住宅区，去程沿街区一侧人行道，回程换到对面观察前院和屋檐，不进入私人庭院。",
         "manager": "历史街区受市级保护，住宅各有业主和用途；列入保护范围不代表内部开放。",
         "question": "能进宅邸庭院吗？",
-        "answer": "除非业主明确对外开放，应留在公共人行道观察。"
+        "answer": "除非业主明确对外开放，应留在公共人行道观察。",
+        "context": "欧洲影响没有在此形成单一式样，有的屋顶像山间木屋，有的宅邸则带小城堡般的突出部位。树木和前院使房屋与街道之间保有距离，单栋建筑因而也能放回街区背景中观看。",
+        "fieldNotes": "选同一街段两栋轮廓不同的住宅，先比较前院边界，再抬头辨别屋顶。短暂参访也能由此理解街区，而不只是拍下若干孤立的房子。"
       }
     }
   },
@@ -276,7 +324,9 @@
         "walk": "Desde la estación Hospital dirígete a la entrada principal del cementerio. Consulta el recorrido del museo antes de pasar a los patios y regresa por los pasos autorizados.",
         "manager": "La Fundación Cementerio de San Pedro gestiona el cementerio y las visitas culturales; los actos funerarios tienen prioridad.",
         "question": "¿Cómo convivo con una ceremonia funeraria?",
-        "answer": "Cede el paso a familiares y sigue el desvío que indique el personal."
+        "answer": "Cede el paso a familiares y sigue el desvío que indique el personal.",
+        "context": "El reconocimiento patrimonial nacional llegó en 1999. Esa fecha señala un cambio en la manera de leer un cementerio en uso: además de los nombres de las familias importan los escultores, los materiales y la composición de los patios.",
+        "fieldNotes": "Escoge un monumento de cuerpo entero y un relieve. Mira cómo la luz modela el primero desde los lados mientras el segundo se lee contra un plano. Si hay un cortejo, deja esa comparación para otro patio."
       },
       "en": {
         "title": "San Pedro Cemetery Museum",
@@ -284,7 +334,9 @@
         "walk": "From Hospital station walk to the main cemetery gate. Ask about the museum route before entering the courts and return along the designated paths.",
         "manager": "Fundación Cementerio de San Pedro manages both the cemetery and cultural visits. Funerals take priority.",
         "question": "What if a funeral is in progress?",
-        "answer": "Give relatives priority and follow any diversion indicated by staff."
+        "answer": "Give relatives priority and follow any diversion indicated by staff.",
+        "context": "National heritage recognition followed in 1999. It marks a change in how visitors read a working cemetery: alongside family names, the makers of monuments, the materials and the arrangement of the courts come into focus.",
+        "fieldNotes": "Choose one sculpture in the round and one relief. Light models the first from several sides while the second reads against a plane. If a procession approaches, move the comparison to another court."
       },
       "zh": {
         "title": "圣佩德罗公墓博物馆",
@@ -292,7 +344,9 @@
         "walk": "从 Hospital 地铁站走至公墓正门，先询问博物馆游线，再进入院落，按开放通道返回。",
         "manager": "圣佩德罗公墓基金会负责墓园和文化参访，葬礼优先于旅游活动。",
         "question": "遇到葬礼怎么办？",
-        "answer": "让亲友先行，依工作人员指示调整步行路线。"
+        "answer": "让亲友先行，依工作人员指示调整步行路线。",
+        "context": "公墓于1999年获国家级遗产认可。由此观看仍在使用的墓园时，除了墓主姓名，也可注意雕塑作者、石材和院落的安排方式。",
+        "fieldNotes": "选一座立体雕像和一处浅浮雕，比较侧光如何刻画前者，而后者怎样依附于平整墓面。若有送葬队伍经过，改到其他院落观察。"
       }
     }
   },
@@ -309,7 +363,9 @@
         "walk": "Llega desde Parque Berrío a Plaza Botero. Identifica la entrada del museo frente a las esculturas, consulta el plano y escoge una sala antes de recorrer otras plantas.",
         "manager": "El Museo de Antioquia gestiona sus galerías y boletería. El paseo por la plaza exterior tiene acceso independiente.",
         "question": "¿Las esculturas exteriores requieren el boleto del museo?",
-        "answer": "La plaza es pública; el boleto se consulta al entrar al museo."
+        "answer": "La plaza es pública; el boleto se consulta al entrar al museo.",
+        "context": "La sede actual abrió en 2000 tras un periodo en que las donaciones de Botero impulsaron una nueva etapa institucional. En el antiguo palacio, los corredores sirven de transición entre la historia pública del edificio y las colecciones expuestas.",
+        "fieldNotes": "Compara un bronce en la plaza con una pintura o un dibujo en sala. La primera obra cambia cuando te mueves alrededor; la segunda pide detenerse ante un plano. Ese contraste funciona incluso si solo dispones de una parte de la mañana."
       },
       "en": {
         "title": "Museum of Antioquia",
@@ -317,7 +373,9 @@
         "walk": "Walk from Parque Berrío to Plaza Botero. Find the museum entrance facing the sculptures, pick up a plan and choose a gallery before moving between floors.",
         "manager": "Museo de Antioquia runs the galleries and ticket desk. The public sculpture square has separate access.",
         "question": "Does seeing the outdoor sculptures require a museum ticket?",
-        "answer": "The square is public; ask about admission when entering the museum."
+        "answer": "The square is public; ask about admission when entering the museum.",
+        "context": "The present home opened in 2000 after Botero’s donations helped the institution enter a new phase. Corridors in the former palace act as a transition between the building’s civic history and the collections it now houses.",
+        "fieldNotes": "Compare a bronze outside with a painting or drawing inside. One changes as you walk around it; the other asks you to stop in front of a plane. This contrast makes a coherent short visit even with only part of a morning."
       },
       "zh": {
         "title": "安蒂奥基亚博物馆",
@@ -325,7 +383,9 @@
         "walk": "从贝里奥公园走至博特罗广场，在雕塑对面找到博物馆入口，领取平面图并先选定一个展厅，再考虑跨楼层参观。",
         "manager": "安蒂奥基亚博物馆负责馆内展厅和票务，公共雕塑广场另行通行。",
         "question": "看室外雕塑需要博物馆门票吗？",
-        "answer": "广场对公众开放，进入博物馆另行办理入场。"
+        "answer": "广场对公众开放，进入博物馆另行办理入场。",
+        "context": "现馆址于2000年开放，博特罗的捐赠推动博物馆进入新的发展阶段。旧市政宫的走廊形成过渡空间，让参观者从建筑的公共行政历史走向今天的收藏。",
+        "fieldNotes": "在广场先围看一件青铜作品，入馆后再找一幅画或素描。前者随步伐变化，后者要求人停在一个平面前；即使只有半个上午也能完成这组比较。"
       }
     }
   },
@@ -342,7 +402,9 @@
         "walk": "Desde la estación Parque Berrío cruza hacia el costado de la basílica. Detente ante el atrio y entra solo si el culto permite un recorrido discreto.",
         "manager": "La parroquia católica atiende el templo y sus celebraciones; el parque tiene gestión municipal.",
         "question": "¿Qué observar si hay misa?",
-        "answer": "Quédate en la plaza y mira el atrio y la fachada hasta que termine."
+        "answer": "Quédate en la plaza y mira el atrio y la fachada hasta que termine.",
+        "context": "La parroquia sobrevivió a reconstrucciones del edificio. Por eso el interés no reside en suponer que cada muro sea del siglo XVII, sino en seguir la continuidad del culto en el mismo lugar. El lienzo mariano y el atrio cuentan partes muy distintas de esa historia.",
+        "fieldNotes": "Recorre primero el lado del parque y observa cómo convergen peatones y asistentes al templo. Si puedes entrar, pregunta por la imagen de la Virgen antes de recorrer otras capillas; durante una ceremonia conserva el itinerario exterior."
       },
       "en": {
         "title": "Basilica of Our Lady of Candelaria",
@@ -350,7 +412,9 @@
         "walk": "From Parque Berrío station cross to the basilica side of the park. Pause at the forecourt and enter quietly if services allow.",
         "manager": "The Catholic parish oversees the church and worship; the surrounding park is municipal.",
         "question": "What can I see during Mass?",
-        "answer": "Remain in the square to view the forecourt and façade until the service ends."
+        "answer": "Remain in the square to view the forecourt and façade until the service ends.",
+        "context": "The parish outlasted successive reconstructions of the building. The point is not that every wall dates to the seventeenth century, but that worship continued at the same site. The Marian image and the public steps tell different parts of that history.",
+        "fieldNotes": "Start on the park side and watch where everyday pedestrians and worshippers meet. If admission is possible, ask for the image of the Virgin before exploring the chapels; during a service stay with the exterior route."
       },
       "zh": {
         "title": "坎德拉里亚圣母宗座圣殿",
@@ -358,7 +422,9 @@
         "walk": "从贝里奥公园站穿过公园走到教堂前庭，先看建筑与广场的关系，在礼拜允许时安静入内。",
         "manager": "天主教堂区负责圣殿与宗教活动，外围公园由市政管理。",
         "question": "遇到弥撒看哪里？",
-        "answer": "可先在广场观察前庭与教堂立面，等待礼拜结束。"
+        "answer": "可先在广场观察前庭与教堂立面，等待礼拜结束。",
+        "context": "教堂历经重建，堂区历史比现有各段墙体更悠久。不要把眼前每一处材料都理解为十七世纪遗存；圣母画像与公共台阶分别呈现了宗教生活和市民活动的延续。",
+        "fieldNotes": "先沿公园一侧观察日常人流和入堂者怎样汇合。如果可以入内，先向接待者询问圣母画像的位置，再考虑参观其他小堂；礼拜时可保留室外路线。"
       }
     }
   },
@@ -375,7 +441,9 @@
         "walk": "Cruza el Parque Bolívar hacia la carrera 48 y busca el número 54-20. Consulta la cartelera junto a la puerta antes de seguir hacia Junín.",
         "manager": "La Alcaldía de Medellín apoya la programación del Lido. Confirma el acceso de cada acto en el teatro.",
         "question": "¿Cómo sé si hay concierto esta noche?",
-        "answer": "Mira la cartelera del Lido o consulta en carrera 48, 54-20."
+        "answer": "Mira la cartelera del Lido o consulta en carrera 48, 54-20.",
+        "context": "Francisco Luis Moreno Ramírez impulsó la construcción cuando las salas del centro reunían a públicos de cine y espectáculos. La recuperación cultural del recinto permitió que la relación con el parque continuara bajo una programación diferente.",
+        "fieldNotes": "De día, mira el nombre sobre el acceso y la relación de la fachada con el jardín del parque. Para una función, vuelve con margen para localizar el sector asignado. La vista desde la plaza complementa el interior, pero no lo sustituye."
       },
       "en": {
         "title": "Lido Theatre",
@@ -383,7 +451,9 @@
         "walk": "Cross Parque Bolívar toward Carrera 48 and find number 54-20. Check the programme at the door before continuing toward Junín.",
         "manager": "The Medellín city government supports the Lido’s cultural programme. Check arrangements for a particular event with the theatre.",
         "question": "How do I check tonight’s concert?",
-        "answer": "Consult the Lido programme or its entrance at Carrera 48, 54-20."
+        "answer": "Consult the Lido programme or its entrance at Carrera 48, 54-20.",
+        "context": "Francisco Luis Moreno Ramírez promoted the project when central-city halls brought together cinema and stage audiences. Cultural renewal of the venue kept its relationship with the park alive under a different programme.",
+        "fieldNotes": "By day, look for the name above the entrance and see how the frontage faces the park gardens. For a performance return in time to locate your seating area. The park view complements the auditorium rather than replacing it."
       },
       "zh": {
         "title": "利多剧院",
@@ -391,7 +461,9 @@
         "walk": "横穿玻利瓦尔公园，朝 Carrera 48 的54-20号走，在入口查看节目单，再步行前往胡宁街。",
         "manager": "麦德林市政府支持利多剧院的文化项目，具体场次的入场方式由剧院说明。",
         "question": "怎么知道今晚有无音乐会？",
-        "answer": "查看利多剧院节目表或到 Carrera 48 的54-20号入口询问。"
+        "answer": "查看利多剧院节目表或到 Carrera 48 的54-20号入口询问。",
+        "context": "弗朗西斯科·路易斯·莫雷诺·拉米雷斯推动兴建利多剧院，当时市中心的观众常在同一场所看电影和舞台演出。后来剧院恢复文化活动，也让场馆继续与广场生活相联系。",
+        "fieldNotes": "白天先认入口上方馆名，再从公园花园一侧看剧院正面。若有演出票，可提前返回找座位区；室外建筑观察与室内观演是两种不同的体验。"
       }
     }
   },
@@ -408,7 +480,9 @@
         "walk": "En Manrique sigue la carrera 45 hasta la entrada señalizada de la Casa Gardeliana. Empieza por la muestra y consulta si hay presentación antes de reservar la tarde.",
         "manager": "La Casa Museo Gardeliana coordina la visita y su programación artística. Ver la exposición y asistir a un espectáculo son actividades distintas.",
         "question": "¿Siempre hay bailarines durante la visita?",
-        "answer": "El museo y las presentaciones tienen horarios distintos; verifica la agenda."
+        "answer": "El museo y las presentaciones tienen horarios distintos; verifica la agenda.",
+        "context": "Fotografías, documentos y objetos de la colección reconstruyen una trayectoria artística que el público local hizo propia. Compara una imagen preparada para circulación pública con un documento personal: muestran maneras diferentes de construir el recuerdo de un cantante.",
+        "fieldNotes": "En carrera 45, 76-50, reconoce primero la fachada colorida. Dentro, recorre la galería de imágenes antes de preguntar por actividades de canto o baile. Con poco tiempo, escoge una foto y lee sus datos en vez de pasar frente a todas."
       },
       "en": {
         "title": "Gardeliana Tango Museum",
@@ -416,7 +490,9 @@
         "walk": "In Manrique follow Carrera 45 to the marked Casa Gardeliana entrance. Visit the displays first and ask about a live performance before setting aside the evening.",
         "manager": "Casa Museo Gardeliana coordinates visits and performances. The exhibition and the stage programme have separate arrangements.",
         "question": "Are there dancers at every visit?",
-        "answer": "Museum visits and performances run on separate schedules; check the programme."
+        "answer": "Museum visits and performances run on separate schedules; check the programme.",
+        "context": "Photographs, documents and objects reconstruct an artistic career embraced by local audiences. Compare an image made for publicity with a personal document: they build the memory of a singer in different ways.",
+        "fieldNotes": "At Carrera 45, 76-50, identify the colourful frontage first. Inside, visit the photo gallery before asking about singing or dance events. For a short stop, choose one photograph and read its caption carefully."
       },
       "zh": {
         "title": "加德尔探戈博物馆",
@@ -424,7 +500,9 @@
         "walk": "在曼里克区沿 Carrera 45 找到故居博物馆标志，先参观陈列，再询问当日有无现场活动，以便安排晚间时间。",
         "manager": "加德尔博物馆协调参访及演出，展览与现场节目的入场安排分别公布。",
         "question": "到访就能看到舞者吗？",
-        "answer": "博物馆参观与演出分开安排，应先看当天节目。"
+        "answer": "博物馆参观与演出分开安排，应先看当天节目。",
+        "context": "照片、文献和实物把歌手的生涯与本地听众的记忆连接起来。可以比较一张面向公众传播的形象照与一份个人文件，观察它们如何用不同方式塑造后人的认识。",
+        "fieldNotes": "到 Carrera 45 的76-50号先认彩色外墙，再进入照片展区。时间紧时选一张照片读清说明，比匆匆走过全部展品更能理解其背景。"
       }
     }
   },
@@ -441,7 +519,9 @@
         "walk": "Entra en la plazoleta desde el lado de la antigua estación. Acércate al pie del monumento y retrocede hacia el borde para comparar la silueta con las torres administrativas.",
         "manager": "La Gobernación de Antioquia y la Alcaldía ocupan el complejo administrativo; los accesos institucionales tienen controles separados de la plaza.",
         "question": "¿Dónde se ve toda la curva del monumento?",
-        "answer": "Desde el borde de la plazoleta, después de observar las figuras de cerca."
+        "answer": "Desde el borde de la plazoleta, después de observar las figuras de cerca.",
+        "context": "La explanada reúne responsabilidades de dos escalas, el gobierno departamental y la administración de la ciudad. Arenas Betancur concentró en una estructura ascendente episodios que aluden al trabajo, los orígenes y las aspiraciones de Antioquia.",
+        "fieldNotes": "Haz dos paradas a distinta distancia. Al pie busca los cambios entre los grupos figurativos y la estructura que los sostiene; desde el borde reconoce la forma de media luna. No hace falta atravesar controles de oficinas para completar el recorrido."
       },
       "en": {
         "title": "La Alpujarra monument plaza",
@@ -449,7 +529,9 @@
         "walk": "Enter the plaza from the old railway station side. Approach the base, then return to the edge to frame the monument against the administrative towers.",
         "manager": "The Antioquia government and Medellín city offices occupy the complex. Entry to their buildings is controlled separately from the plaza.",
         "question": "Where can I see the full curve of the monument?",
-        "answer": "Return to the plaza edge after viewing the figures up close."
+        "answer": "Return to the plaza edge after viewing the figures up close.",
+        "context": "The esplanade brings the departmental and city administrations together. Arenas Betancur assembled scenes referring to labour, origins and aspirations in Antioquia into a rising structure. The civic setting gives those scenes a public rather than a purely gallery context.",
+        "fieldNotes": "Make two stops at different distances. At the base distinguish the groups of figures from their supporting structure; from the edge trace the crescent shape. You need not enter any government office to complete the walk."
       },
       "zh": {
         "title": "拉阿尔普哈拉纪念雕塑广场",
@@ -457,7 +539,9 @@
         "walk": "从老火车站一侧进入广场，到雕塑基座旁观察人物，再退到边缘把纪念碑与行政办公楼放在同一视野。",
         "manager": "安蒂奥基亚省政府和麦德林市政府在此办公，行政楼通行检查与广场步行参观分别管理。",
         "question": "哪里能看到群雕完整弧线？",
-        "answer": "近看人物后退至广场边缘。"
+        "answer": "近看人物后退至广场边缘。",
+        "context": "广场把省级与市级行政机构集中在一起。阿雷纳斯·贝坦库尔将与劳动、地方起源和社会愿望有关的场景汇入上升的结构，让这些形象置于公共行政空间之中。",
+        "fieldNotes": "分近远两处停步。基座附近比较人物群与承托构件的分界；走到广场边缘再找出整件作品的新月形曲线。走完这一段不必进入政府办公区。"
       }
     }
   },
@@ -474,7 +558,9 @@
         "walk": "Desde el Parque de los Pies Descalzos busca la carrera 57, 42-139, frente al edificio de EPM. En recepción pregunta por el inicio del recorrido y la disponibilidad de las salas.",
         "manager": "Fundación EPM gestiona el Museo del Agua. El acceso al parque contiguo y el ingreso al museo se organizan por separado.",
         "question": "¿Está dentro del edificio de oficinas de EPM?",
-        "answer": "Su entrada está en el parque, frente a la sede administrativa."
+        "answer": "Su entrada está en el parque, frente a la sede administrativa.",
+        "context": "El museo plantea el agua como sistema que une naturaleza y servicio público, una relación especialmente visible en una ciudad que crece dentro de un valle. Las salas enlazan la historia del planeta, los cambios de estado y la huella del consumo diario.",
+        "fieldNotes": "En familia, selecciona una actividad sobre propiedades físicas y otra sobre potabilización. Después busca el edificio de EPM desde el parque: el contraste entre exhibición y sede de servicios ayuda a situar lo aprendido en el entorno real."
       },
       "en": {
         "title": "EPM Water Museum",
@@ -482,7 +568,9 @@
         "walk": "From Parque de los Pies Descalzos find Carrera 57, 42-139, facing the EPM building. Ask reception where to start and which rooms are open.",
         "manager": "Fundación EPM runs the Water Museum. The adjacent park and the museum have separate entry arrangements.",
         "question": "Is the museum inside the EPM office tower?",
-        "answer": "Its entrance is at the park, facing the administrative building."
+        "answer": "Its entrance is at the park, facing the administrative building.",
+        "context": "The museum treats water as a system linking nature and public service, a particularly tangible relationship in a city growing inside a valley. Its rooms connect planetary history and changes of state with the footprint of everyday consumption.",
+        "fieldNotes": "For a family visit, select one activity about physical properties and another about drinking-water treatment. Afterwards locate the EPM building from the park to relate the exhibits to an actual city utility."
       },
       "zh": {
         "title": "EPM 水博物馆",
@@ -490,7 +578,9 @@
         "walk": "从赤足公园走到 Carrera 57 的42-139号，面对 EPM 办公楼找到博物馆接待处，询问参观起点和当天开放展厅。",
         "manager": "EPM 基金会管理水博物馆，公园和馆内展厅分别通行。",
         "question": "入口在 EPM 办公楼里吗？",
-        "answer": "入口在公园内，面对 EPM 办公楼。"
+        "answer": "入口在公园内，面对 EPM 办公楼。",
+        "context": "博物馆把水理解为连接自然与公共服务的系统，在河谷中扩张的城市尤其容易体会这种联系。展厅将地球演变、水的状态变化与日常用水留下的足迹串联起来。",
+        "fieldNotes": "亲子参观可以各选一项物理性质和净水主题的活动，结束后从公园辨认 EPM 办公楼，把展览中的供水概念放回眼前的城市设施。"
       }
     }
   },
@@ -507,7 +597,9 @@
         "walk": "Desde la plaza del Pueblito Paisa sigue la señal del Museo de Ciudad. Mira la maqueta antes de dirigirte al mirador para contrastar representación y paisaje.",
         "manager": "La Fundación Casa Museo Pedro Nel Gómez dirige el museo. Consulta en su recepción las exposiciones disponibles.",
         "question": "¿Conviene ver primero la maqueta o el mirador?",
-        "answer": "La maqueta primero permite reconocer después la forma del valle en el paisaje."
+        "answer": "La maqueta primero permite reconocer después la forma del valle en el paisaje.",
+        "context": "El modelo permanente recibe el nombre de Instrumento de Pensamiento Urbano. Más que buscar una casa concreta, sirve para leer dónde la topografía limita las calles y cómo el tejido urbano sigue el valle. La exposición temporal puede ofrecer otra escala de análisis.",
+        "fieldNotes": "Localiza en la maqueta el cauce principal y después la ladera del cerro. Desde el borde del mirador repite la búsqueda en el mismo orden. Una imagen tomada fuera puede servir de referencia para recordar esa comparación."
       },
       "en": {
         "title": "Museo de Ciudad",
@@ -515,7 +607,9 @@
         "walk": "Follow the Museo de Ciudad sign from the square of Pueblito Paisa. Study the model before walking to the lookout to compare it with the actual valley.",
         "manager": "Fundación Casa Museo Pedro Nel Gómez directs the museum. Ask reception about the exhibitions on view.",
         "question": "Should I see the model or the lookout first?",
-        "answer": "Start with the model to recognise the valley’s shape outdoors."
+        "answer": "Start with the model to recognise the valley’s shape outdoors.",
+        "context": "The permanent model is known as the Instrumento de Pensamiento Urbano, an instrument for thinking about the city. Rather than looking for an individual house, examine where slopes interrupt the street grid and where development follows the valley floor.",
+        "fieldNotes": "Find the main river channel in the model and then the slope of the hill. At the lookout repeat the search in the same order. An outdoor photograph can help you remember how the model and the valley compared."
       },
       "zh": {
         "title": "山顶城市博物馆",
@@ -523,7 +617,9 @@
         "walk": "从派萨小镇广场沿城市博物馆指示入内，看完模型后转到观景台，对照实际河谷与模型。",
         "manager": "佩德罗·内尔·戈麦斯故居博物馆基金会负责运营，当期展览可向接待处查询。",
         "question": "先看模型还是观景台？",
-        "answer": "先看模型，随后更容易在室外认出山谷轮廓。"
+        "answer": "先看模型，随后更容易在室外认出山谷轮廓。",
+        "context": "永久模型名为“城市思考工具”。比起在上面寻找某一栋房子，更有意思的是观察山坡如何限制街网、建成区又如何沿谷底延伸。当期临展还可能提供另一种尺度。",
+        "fieldNotes": "在模型中先找河道，再找山丘的坡面。走到观景处按照同样顺序在真实地形中辨认，也可拍一张山谷全景帮助回忆这次对照。"
       }
     }
   },
@@ -540,7 +636,9 @@
         "walk": "Empieza en el borde de la plaza frente a los edificios Carré y Vásquez. Atraviesa una hilera de columnas y mira atrás para situar aquellas fachadas entre los fustes.",
         "manager": "La plaza forma parte del espacio público municipal. La iluminación depende del funcionamiento del sistema y no tiene entrada de espectáculo.",
         "question": "¿Vale la pena ir durante el día?",
-        "answer": "La sombra de las columnas permite leer el trazado sin esperar el encendido."
+        "answer": "La sombra de las columnas permite leer el trazado sin esperar el encendido.",
+        "context": "La renovación de Guayaquil cobró impulso a comienzos de este siglo. El nombre Cisneros conserva la identidad de la plaza aun cuando hoy se la conoce por las luces. Por eso es importante mirar también su borde histórico y no solo las columnas.",
+        "fieldNotes": "Prueba una vista alineada con una hilera y otra diagonal entre dos filas. La primera resalta la repetición, la segunda deja entrar fragmentos de los edificios vecinos. Ambas son posibles a plena luz, sin depender del encendido nocturno."
       },
       "en": {
         "title": "Parque de las Luces",
@@ -548,7 +646,9 @@
         "walk": "Start at the edge facing the Carré and Vásquez buildings. Walk between a row of columns, then turn to frame the old façades between them.",
         "manager": "The square belongs to the municipal public realm. The lighting depends on the installation’s operation and is not a ticketed performance.",
         "question": "Is it worth visiting by day?",
-        "answer": "The columns cast shadows that reveal the layout without waiting for lighting."
+        "answer": "The columns cast shadows that reveal the layout without waiting for lighting.",
+        "context": "Renewal of Guayaquil gathered pace early this century. The Cisneros name preserves the identity of the square even though most people now recognise it by the lights. Its historic edges therefore deserve attention alongside the columns.",
+        "fieldNotes": "Look straight down a row and then diagonally between two rows. The first view emphasises repetition; the second admits fragments of neighbouring buildings. Both work in daylight, without relying on the night lighting."
       },
       "zh": {
         "title": "灯光公园",
@@ -556,7 +656,9 @@
         "walk": "从面对卡雷与巴斯克斯大楼的一边入场，穿过一排灯柱，再回头从柱间看两栋老建筑。",
         "manager": "广场由市政公共空间部门管理，灯光随设施运行，不设专场演出票。",
         "question": "白天值得去吗？",
-        "answer": "白天可由灯柱投下的阴影观察排列方式，无需等到开灯。"
+        "answer": "白天可由灯柱投下的阴影观察排列方式，无需等到开灯。",
+        "context": "瓜亚基尔片区的更新在本世纪初加速。今天人们常以灯柱称呼广场，但“西斯内罗斯”这一旧名仍记录着地点身份，因此周边历史建筑也值得一起观看。",
+        "fieldNotes": "先沿一排灯柱的轴线看，再从两排之间斜看一次。前者突出整齐重复，后者能从柱间看到邻近建筑，两种视角白天都可完成。"
       }
     }
   },
@@ -573,7 +675,9 @@
         "walk": "Desde Parque Berrío llega al costado del Palacio de la Cultura. Recorre la plaza hacia el Museo de Antioquia dejando los accesos libres y termina frente al museo.",
         "manager": "El espacio exterior es público y municipal. El Museo de Antioquia controla por separado el acceso a sus salas.",
         "question": "¿Cuál es una buena manera de comparar dos bronces?",
-        "answer": "Mira ambos desde la misma distancia y después camina a su alrededor."
+        "answer": "Mira ambos desde la misma distancia y después camina a su alrededor.",
+        "context": "La entrega de las esculturas coincidió con una intervención urbana alrededor del museo. En una sala normalmente se elige un fondo; aquí detrás de cada figura aparecen a veces el palacio, el tránsito o las otras piezas. Esa relación cambia con cada cruce de la plaza.",
+        "fieldNotes": "Escoge un punto frente al museo para ver un bronce aislado contra un muro. Después rodea la pieza hasta que el palacio entre en el encuadre. Evita apoyarte en el bronce o bloquear el paso de otros visitantes."
       },
       "en": {
         "title": "Botero Plaza",
@@ -581,7 +685,9 @@
         "walk": "From Parque Berrío approach the side of the cultural palace. Walk across the square toward Museo de Antioquia, keeping doorways clear, and finish at the museum frontage.",
         "manager": "The outdoor square is municipal public space. Museo de Antioquia manages access to the indoor collection separately.",
         "question": "How should I compare two bronzes?",
-        "answer": "View each from the same distance and then walk around both."
+        "answer": "View each from the same distance and then walk around both.",
+        "context": "The donation formed part of an urban intervention around the museum. In a gallery a curator can choose a backdrop; here a palace, passing traffic or another bronze may appear behind a figure as you cross the square.",
+        "fieldNotes": "Start opposite the museum and frame one bronze against a wall. Walk around it until the palace comes into the view. Keep clear of other visitors’ paths and avoid leaning on the bronze."
       },
       "zh": {
         "title": "博特罗雕塑广场",
@@ -589,7 +695,9 @@
         "walk": "从贝里奥公园走向文化宫一侧，穿过广场朝安蒂奥基亚博物馆前进，在馆舍前结束行程，并保持各入口畅通。",
         "manager": "露天广场属于市政公共空间，博物馆另行管理室内展览的入场。",
         "question": "怎样比较两件青铜作品？",
-        "answer": "先从相同距离观察，再分别绕行。"
+        "answer": "先从相同距离观察，再分别绕行。",
+        "context": "这批雕塑的捐赠也推动了博物馆周边公共空间的更新。室内展览可以选择背景，广场上的雕塑却随着人步行而不断与文化宫、往来车辆或另一件作品重叠。",
+        "fieldNotes": "站在博物馆对面，以墙面为背景观察一件雕塑，再绕到文化宫进入背景的位置。保持步道畅通，也不要靠在青铜表面拍照。"
       }
     }
   },
@@ -606,7 +714,9 @@
         "walk": "En calle 50 busca el número 50-21. En la entrada pregunta por los pisos culturales y comprueba qué sala o actividad del auditorio está abierta al público.",
         "manager": "El Banco de la República administra su área cultural, colecciones y programación. Los servicios bancarios tienen circuitos distintos.",
         "question": "¿Tengo que hacer fila para un trámite bancario?",
-        "answer": "Pregunta por el área cultural en la entrada antes de ir al servicio bancario."
+        "answer": "Pregunta por el área cultural en la entrada antes de ir al servicio bancario.",
+        "context": "La actividad cultural del banco combina objetos pequeños, documentación económica y un auditorio. Esta convivencia ayuda a entender la filatelia como testimonio de circulación y comunicación, no solo como una serie de dibujos diminutos ordenados por país.",
+        "fieldNotes": "Tras la recepción, pregunta qué conjunto de sellos está expuesto y contrasta dos emisiones: busca el valor facial y el motivo de la imagen. Si coincide una conferencia, confirma el piso concreto para no confundir la sala de muestras con el auditorio."
       },
       "en": {
         "title": "Banco de la República Cultural Centre",
@@ -614,7 +724,9 @@
         "walk": "Find Calle 50, number 50-21. At the entrance ask for the cultural floors and check which gallery or auditorium event admits visitors.",
         "manager": "Banco de la República runs the collections and programme. Banking services follow separate procedures.",
         "question": "Do I join the banking queue?",
-        "answer": "Ask for the cultural area at the entrance before entering the banking line."
+        "answer": "Ask for the cultural area at the entrance before entering the banking line.",
+        "context": "The bank’s cultural work brings together small objects, economic documentation and an auditorium. The combination makes stamps evidence of circulation and communication, rather than merely tiny illustrations arranged by country.",
+        "fieldNotes": "Ask reception which philatelic displays are on view. Compare the face value and subject of two issues. If attending a talk, confirm the floor: the exhibition room and auditorium serve different purposes."
       },
       "zh": {
         "title": "共和国银行文化中心",
@@ -622,7 +734,9 @@
         "walk": "走到 Calle 50 的50-21号，进门先询问文化楼层，确认当天可参观的展厅或礼堂活动。",
         "manager": "哥伦比亚共和国银行负责文化中心、藏品和活动，银行业务另有办理通道。",
         "question": "需要排银行业务的队吗？",
-        "answer": "在入口先问文化中心接待位置，再决定去哪个通道。"
+        "answer": "在入口先问文化中心接待位置，再决定去哪个通道。",
+        "context": "这里把邮票收藏、经济文献与礼堂放进同一文化机构。邮票因此也能作为流通和通讯的证据来解读，不只是一列依国家分类的小图画。",
+        "fieldNotes": "进门后先询问当前展出的邮票，选两枚比较面值与图案主题。若计划听讲座，须再次确认楼层，因为展览室与礼堂承担不同功能。"
       }
     }
   },
@@ -639,7 +753,9 @@
         "walk": "Desde la estación Universidad dirígete al acceso autorizado del campus. Consulta el control universitario y sigue la señalización del MUUA antes de elegir salas.",
         "manager": "La Universidad de Antioquia administra el MUUA y controla los ingresos al campus. Lleva identificación y consulta la modalidad de visita.",
         "question": "¿Se entra directamente desde el metro al museo?",
-        "answer": "Primero hay que pasar el acceso universitario y seguir las señales al MUUA."
+        "answer": "Primero hay que pasar el acceso universitario y seguir las señales al MUUA.",
+        "context": "Las colecciones de artes visuales e historia se sumaron en 1970 y 1980. La cronología explica por qué los objetos de un museo universitario se agrupan también según la investigación y la docencia de cada disciplina, no únicamente por antigüedad.",
+        "fieldNotes": "Una vez dentro de la Ciudad Universitaria pregunta por el bloque 15. En una sala de ciencias busca la clasificación de un ejemplar; en antropología observa cómo la ficha cambia al hablar de uso humano y procedencia."
       },
       "en": {
         "title": "University of Antioquia Museum",
@@ -647,7 +763,9 @@
         "walk": "From Universidad station walk to an authorised campus entrance. Check in at the university gate and follow signs for MUUA before choosing galleries.",
         "manager": "Universidad de Antioquia manages the museum and campus access. Bring identification and check visitor procedures in advance.",
         "question": "Is the museum directly accessible from the station?",
-        "answer": "Enter through the university visitor access first, then follow signs to MUUA."
+        "answer": "Enter through the university visitor access first, then follow signs to MUUA.",
+        "context": "Visual arts and history collections followed in 1970 and 1980. This chronology helps explain why a university museum groups objects according to research and teaching in different disciplines as well as by historical period.",
+        "fieldNotes": "Once admitted to Ciudad Universitaria, ask for Block 15. Look for the classification of a specimen in the science display, then compare a label describing the use and provenance of an object in anthropology."
       },
       "zh": {
         "title": "安蒂奥基亚大学博物馆",
@@ -655,7 +773,9 @@
         "walk": "从 Universidad 地铁站走到对外开放的校门，先按学校要求登记，再沿 MUUA 指示前往展厅。",
         "manager": "安蒂奥基亚大学负责博物馆及校园通行，携带身份证件并在出发前向校方核实访客安排。",
         "question": "地铁站能直接进馆吗？",
-        "answer": "先在大学访客入口办理手续，再沿 MUUA 指示走。"
+        "answer": "先在大学访客入口办理手续，再沿 MUUA 指示走。",
+        "context": "视觉艺术和历史收藏分别在1970年与1980年加入。这样的形成过程解释了大学博物馆为何会按研究和教学领域组织展品，而不单以年代早晚排序。",
+        "fieldNotes": "通过大学城门岗后寻找第15栋。在自然科学展陈里留意标本分类，再到人类学展区比较展签怎样说明人的使用方式与物件来源。"
       }
     }
   },
@@ -672,7 +792,9 @@
         "walk": "Sigue La Playa hacia el oriente hasta la fachada del teatro. Cruza por el paso peatonal y busca taquilla en carrera 40, 51-24.",
         "manager": "El Teatro Pablo Tobón Uribe programa su escenario y regula el acceso a los espectáculos.",
         "question": "¿Desde dónde se aprecia la relación con La Playa?",
-        "answer": "Desde el cruce frente al teatro se ve el edificio cerrando la perspectiva."
+        "answer": "Desde el cruce frente al teatro se ve el edificio cerrando la perspectiva.",
+        "context": "El proyecto nació en 1952 con la donación de terrenos vinculada a Pablo Tobón Uribe. El intervalo hasta la actividad artística sostenida recuerda que crear un teatro requiere tanto un edificio como una organización capaz de mantener su programación.",
+        "fieldNotes": "Haz una parada en el eje de la avenida para mirar la fachada a distancia y otra en la entrada para leer la programación. Una visita arquitectónica corta puede continuar por La Playa sin necesidad de esperar a que se abra el auditorio."
       },
       "en": {
         "title": "Pablo Tobón Uribe Theatre",
@@ -680,7 +802,9 @@
         "walk": "Follow La Playa east to the theatre frontage. Use the pedestrian crossing and find the box office at Carrera 40, 51-24.",
         "manager": "Teatro Pablo Tobón Uribe programmes the stage and controls admission to performances.",
         "question": "Where is the avenue view clearest?",
-        "answer": "From the crossing opposite the theatre you can see how it closes the view."
+        "answer": "From the crossing opposite the theatre you can see how it closes the view.",
+        "context": "The project took shape in 1952 with a land donation associated with Pablo Tobón Uribe. The interval before regular performances is a reminder that a theatre needs both a building and an organisation able to sustain a programme.",
+        "fieldNotes": "Stop on the line of the avenue for a distant view, then at the entrance to read the programme. A short architectural visit can continue along La Playa without waiting for the auditorium to open."
       },
       "zh": {
         "title": "巴勃罗·托邦剧院",
@@ -688,7 +812,9 @@
         "walk": "沿拉普拉亚大道向东走至剧院，使用行人过街处，转到 Carrera 40 的51-24号找票房。",
         "manager": "剧院负责舞台节目及场次入场安排。",
         "question": "哪里能看清剧院与大道的关系？",
-        "answer": "在剧院对面的过街处可见建筑正好位于大道视线尽端。"
+        "answer": "在剧院对面的过街处可见建筑正好位于大道视线尽端。",
+        "context": "项目在1952年随巴勃罗·托邦·乌里韦捐地而启动，距形成持续的演出季尚有一段时间。这段间隔提醒参观者，剧院除了需要建筑，还需要能够长期组织节目的机构。",
+        "fieldNotes": "先在大道轴线上远看正面，再到门口读节目表。如果只是参观建筑，可以直接沿拉普拉亚大道继续步行，无须等到观众厅开放。"
       }
     }
   },
@@ -705,7 +831,9 @@
         "walk": "Desde Plaza Mayor ubica el Teatro Metropolitano y camina por la plazoleta hasta el frente de ladrillo. Para una función, localiza la puerta indicada en la entrada.",
         "manager": "El Teatro Metropolitano José Gutiérrez Gómez organiza el acceso; las temporadas se consultan con la boletería del teatro.",
         "question": "¿Qué detalle merece una segunda mirada?",
-        "answer": "Compara el dibujo de las juntas de ladrillo de cerca y desde la plazoleta."
+        "answer": "Compara el dibujo de las juntas de ladrillo de cerca y desde la plazoleta.",
+        "context": "El teatro se ha asociado a la Filarmónica de Medellín y a temporadas de música clásica, ópera y zarzuela. La masa de la fachada oculta una sala dividida entre platea y balcón: desde fuera se aprecia la unidad del volumen, no su reparto interior.",
+        "fieldNotes": "Busca la fachada de calle 41, 57-30. Para una función, compara la localidad impresa en el boleto con las señales de acceso; para una parada exterior, aléjate hacia la plazoleta hasta poder ver los extremos simétricos."
       },
       "en": {
         "title": "Metropolitan Theatre",
@@ -713,7 +841,9 @@
         "walk": "From Plaza Mayor locate the Metropolitan Theatre and cross the forecourt to the brick frontage. For a performance, continue to the door indicated on your ticket.",
         "manager": "Teatro Metropolitano José Gutiérrez Gómez controls admission. Consult its box office for the current season.",
         "question": "Which detail deserves a second look?",
-        "answer": "Compare the brick joints close up and from the forecourt."
+        "answer": "Compare the brick joints close up and from the forecourt.",
+        "context": "The theatre has hosted Medellín’s Philharmonic as well as classical music, opera and zarzuela seasons. The continuous mass of the frontage conceals seating divided between stalls and balcony; that internal division is not apparent from the plaza.",
+        "fieldNotes": "Find the Calle 41 frontage at 57-30. For a performance, match your ticket section to the entrance signs. For an exterior visit, step back into the forecourt until the symmetrical ends come into view."
       },
       "zh": {
         "title": "麦德林大都会剧院",
@@ -721,7 +851,9 @@
         "walk": "从 Plaza Mayor 会展区找到大都会剧院，穿过前广场走到砖立面前；观看演出则按票面标注寻找对应入口。",
         "manager": "大都会剧院负责入场和剧季安排，可向剧院票房查询。",
         "question": "什么细节值得看两次？",
-        "answer": "近看砖缝排列，再从广场边缘看整个砖面。"
+        "answer": "近看砖缝排列，再从广场边缘看整个砖面。",
+        "context": "剧院与麦德林爱乐乐团及古典音乐、歌剧、西班牙轻歌剧的演出季相联系。连贯的砖立面内部其实分为池座和楼座，从广场不容易直接看出这种观众席布局。",
+        "fieldNotes": "走到 Calle 41 的57-30号正面。看演出时将票面区域与入口指示对照；若只看建筑，向广场后退，直到两侧对称边界都进入视野。"
       }
     }
   },
@@ -738,7 +870,9 @@
         "walk": "Llega a la sede de Prado del Águila Descalza y verifica la sala en taquilla. Observa los acabados en las zonas abiertas antes de tomar asiento.",
         "manager": "La compañía El Águila Descalza gestiona la sede y anuncia las funciones. Los espacios accesibles varían según la actividad.",
         "question": "¿El acceso a una comedia incluye todas las salas históricas?",
-        "answer": "La compañía indica las zonas abiertas para cada función."
+        "answer": "La compañía indica las zonas abiertas para cada función.",
+        "context": "El conjunto también incluye terrazas, galerías y piezas expuestas, entre ellas dibujos y pintura. El formato doméstico de las salas hace que esas obras se perciban a otra escala que la de un museo con grandes naves.",
+        "fieldNotes": "Antes de sentarte mira dos alturas: cerca del suelo, los zócalos de madera; arriba, los relieves de yeso. Si la casa permite entrar a una galería, observa cómo cambian esos acabados al pasar desde un salón."
       },
       "en": {
         "title": "Águila Descalza Theatre",
@@ -746,7 +880,9 @@
         "walk": "Walk to the company’s Prado venue, confirm the room at the box office and examine the finishes in the public areas before taking your seat.",
         "manager": "El Águila Descalza runs the venue and announces performances. Access to other rooms depends on the event.",
         "question": "Does a comedy ticket include all the historic rooms?",
-        "answer": "The company indicates which rooms are open for each event."
+        "answer": "The company indicates which rooms are open for each event.",
+        "context": "Terraces, galleries and displayed works, including drawings and paintings, form another layer of the venue. The domestic scale of the rooms gives these objects a different setting from that of a large museum hall.",
+        "fieldNotes": "Before taking your seat, look at two levels: wooden skirting near the floor and plaster relief overhead. If a gallery is accessible, notice how the finishes change as you leave the drawing room."
       },
       "zh": {
         "title": "赤足鹰普拉多剧院",
@@ -754,7 +890,9 @@
         "walk": "步行至剧团的普拉多馆址，先到票房确认厅号，再利用入座前的时间在开放空间观察装饰细节。",
         "manager": "赤足鹰剧团负责场地和演出，其他房间的参观范围依活动而定。",
         "question": "喜剧演出票含全部历史房间吗？",
-        "answer": "每场开放的房间由剧团说明。"
+        "answer": "每场开放的房间由剧团说明。",
+        "context": "这座宅邸不仅有剧场，也设有露台、画廊以及绘画、素描等展品。住宅房间的尺度让人观看作品时获得不同于大型美术馆的距离感。",
+        "fieldNotes": "入座之前分别向下和向上看：低处是木质墙裙，高处有石膏装饰。若画廊对外开放，可由客厅步入，比较两处装修与空间尺度的变化。"
       }
     }
   },
@@ -771,7 +909,9 @@
         "walk": "Navega al recinto Casa Teatro El Poblado y llega primero al acceso de espectadores. Consulta la sala o el patio asignado en lugar de seguir a quienes entran a un taller.",
         "manager": "Casa Teatro El Poblado coordina su agenda y la atención de públicos. Los talleres y funciones tienen inscripciones propias.",
         "question": "¿La misma entrada sirve para taller y espectáculo?",
-        "answer": "Verifica con la casa la reserva específica de cada actividad."
+        "answer": "Verifica con la casa la reserva específica de cada actividad.",
+        "context": "La programación reúne artistas consolidados y propuestas emergentes del sur de la ciudad. En un espacio así la obra anunciada importa tanto como el edificio: una lectura, una exposición y una actuación musical convocan al público de maneras distintas.",
+        "fieldNotes": "Usa la dirección carrera 47B, 17B Sur-30, para evitar confundir la sede con otros teatros del Poblado. Lee el anuncio de la puerta y pregunta si el acceso es por orden de llegada o con reserva."
       },
       "en": {
         "title": "Casa Teatro El Poblado",
@@ -779,7 +919,9 @@
         "walk": "Navigate to Casa Teatro El Poblado and start at the audience entrance. Ask which room or courtyard hosts your event rather than following a workshop group.",
         "manager": "Casa Teatro El Poblado runs the programme and visitor services. Workshops and performances have separate booking arrangements.",
         "question": "Does one booking cover a workshop and a show?",
-        "answer": "Check the specific booking for each activity with the venue."
+        "answer": "Check the specific booking for each activity with the venue.",
+        "context": "The programme brings established artists together with emerging work in the south of the city. At this venue the event matters as much as the building: a reading, exhibition and music performance bring people into the space in different ways.",
+        "fieldNotes": "Use Carrera 47B, 17B Sur-30, to distinguish this venue from other theatres in El Poblado. Read the event notice at the entrance and ask whether admission is by reservation or order of arrival."
       },
       "zh": {
         "title": "埃尔波夫拉多剧场之家",
@@ -787,7 +929,9 @@
         "walk": "按 Casa Teatro El Poblado 全名导航，到观众入口后询问当天使用的厅或庭院，留意工作坊学员可能使用另一通道。",
         "manager": "剧场之家负责活动日历与接待，演出和工作坊分别报名。",
         "question": "工作坊和演出使用同一预约吗？",
-        "answer": "请向剧场分别核实两项活动的预约。"
+        "answer": "请向剧场分别核实两项活动的预约。",
+        "context": "这里让成熟艺术家和新兴创作者在城市南部共享活动场所。对这种社区文化空间来说，活动本身与建筑同样重要；朗读、展览和音乐演出组织观众的方式各不相同。",
+        "fieldNotes": "使用 Carrera 47B、17B Sur-30 这一门牌，避免与波夫拉多区其他剧场混淆。到门口先读活动公告，再问是预约入场还是按抵达顺序排队。"
       }
     }
   },
@@ -804,7 +948,9 @@
         "walk": "Desde la estación Universidad mira hacia los pabellones rojos, sigue el acceso de visitantes y consulta el plano antes de repartir el tiempo entre salas y acuario.",
         "manager": "La Corporación Parque Explora gestiona el parque y define acceso, aforo y funcionamiento de las experiencias.",
         "question": "¿Cómo reconozco el museo al salir del metro?",
-        "answer": "Busca los pabellones rojos desde la estación Universidad."
+        "answer": "Busca los pabellones rojos desde la estación Universidad.",
+        "context": "La proximidad del metro sitúa la divulgación científica junto a otros equipamientos del norte de la ciudad. Los pabellones elevados y los ensayos a gran escala en espacios abiertos ofrecen dos formas de experimentar: mirar el conjunto a distancia y manipular algo con las manos.",
+        "fieldNotes": "Con niños de edades distintas, pregunta por las salas apropiadas antes de entrar al primer pabellón. Alterna una experiencia de movimiento o sonido con una observación tranquila en el acuario; no todos los módulos requieren la misma atención."
       },
       "en": {
         "title": "Parque Explora",
@@ -812,7 +958,9 @@
         "walk": "From Universidad station look for the red pavilions, follow the visitor entrance and consult the site plan before dividing time between the galleries and aquarium.",
         "manager": "Corporación Parque Explora manages the park, admissions, capacity and operation of the exhibits.",
         "question": "How do I recognise the site from the metro?",
-        "answer": "Look for the red pavilions from Universidad station."
+        "answer": "Look for the red pavilions from Universidad station.",
+        "context": "Next to the metro, science education sits among other cultural institutions in the north of the city. Elevated halls and large-scale outdoor experiments offer two scales of experience: seeing the whole structure from afar and manipulating something with your hands.",
+        "fieldNotes": "With children of different ages, ask about suitable rooms before entering the first hall. Alternate a movement or sound experiment with quiet observation in the aquarium; the stations do not all call for the same kind of attention."
       },
       "zh": {
         "title": "探索科学公园",
@@ -820,7 +968,9 @@
         "walk": "从 Universidad 地铁站朝红色展馆走，循游客入口入内，先看平面图再决定互动展厅和水族馆的顺序。",
         "manager": "探索公园机构负责运营，入场、容量与展项运行按馆方安排。",
         "question": "从地铁出口怎么认路？",
-        "answer": "从 Universidad 站寻找醒目的红色展馆。"
+        "answer": "从 Universidad 站寻找醒目的红色展馆。",
+        "context": "紧邻地铁的科学公园与城北其他文化设施相连。架高的展馆和室外的大尺度实验让人既能远看建筑整体，也能近距离用手验证一个科学现象。",
+        "fieldNotes": "带不同年龄的孩子参观时，先问清适龄展厅，再进第一座展馆。可以在运动或声音实验后穿插水族馆的安静观察，而不用在每个模块停留同样长的时间。"
       }
     }
   },
@@ -837,7 +987,9 @@
         "walk": "Desde las columnas de Plaza Cisneros acércate al frente del Vásquez y localiza su nombre. Camina hacia una esquina para ver la profundidad de los cuerpos antes de mirar el Carré.",
         "manager": "Comfama participó en la restauración; las actividades interiores se consultan con la recepción de la sede. La observación desde la plaza es independiente.",
         "question": "¿Es el mismo edificio que el Carré?",
-        "answer": "Son inmuebles distintos. Identifica los nombres en el borde de Plaza Cisneros."
+        "answer": "Son inmuebles distintos. Identifica los nombres en el borde de Plaza Cisneros.",
+        "context": "En el antiguo barrio comercial la altura del Vásquez destacaba cuando el centro aún no tenía las torres actuales. Su reutilización para actividades formativas prolongó la vida del edificio sin borrar la relación con el Carré y la antigua zona del mercado.",
+        "fieldNotes": "Desde carrera 52, 44-31, cuenta los niveles de huecos de la fachada. Luego mira qué cambia en la esquina, donde aparecen dos planos al mismo tiempo. La comparación gana claridad desde el espacio abierto frente al edificio."
       },
       "en": {
         "title": "Vásquez Building",
@@ -845,7 +997,9 @@
         "walk": "From the columns of Plaza Cisneros walk to the named Vásquez frontage. Continue to a corner to see the depth of its volumes before comparing the Carré.",
         "manager": "Comfama took part in the restoration. Ask the venue reception about indoor activities; exterior viewing from the square is separate.",
         "question": "Is this the Carré Building?",
-        "answer": "They are separate buildings. Look for the names along Plaza Cisneros."
+        "answer": "They are separate buildings. Look for the names along Plaza Cisneros.",
+        "context": "In the old trading district the Vásquez stood tall before the contemporary towers appeared. Its reuse for educational activities kept the building in use without severing its connection to the Carré and the former market area.",
+        "fieldNotes": "At Carrera 52, 44-31, count the levels of openings across the façade. Move to the corner, where two planes come into view at once, then compare them again from the open space opposite."
       },
       "zh": {
         "title": "巴斯克斯大楼",
@@ -853,7 +1007,9 @@
         "walk": "从西斯内罗斯广场灯柱区走向有巴斯克斯名称标识的立面，再绕至转角观察建筑纵深，最后回望卡雷楼。",
         "manager": "Comfama 参与建筑修复，室内活动向场地接待处查询，从公共广场看外观可单独安排。",
         "question": "它与卡雷楼是同一栋吗？",
-        "answer": "是两座独立建筑，可在广场边核对楼名。"
+        "answer": "是两座独立建筑，可在广场边核对楼名。",
+        "context": "在现代高楼出现以前，巴斯克斯大楼的高度曾让它在老商业区非常显眼。后来改作学习与文化活动场地，使建筑继续使用，同时保留了它与卡雷大楼、旧市场片区的联系。",
+        "fieldNotes": "在 Carrera 52 的44-31号数一数立面上成排的开窗层次，再转到街角看两个墙面同时出现的效果，最后从对面的开敞地带完整对照。"
       }
     }
   },
@@ -870,7 +1026,9 @@
         "walk": "Desde la portería del Museo El Castillo sigue el acceso indicado al jardín y consulta en recepción las visitas al interior. Reserva el tramo final para volver por los jardines.",
         "manager": "El Museo El Castillo gestiona colección, jardín y visitas. Las condiciones del jardín y del recorrido interior pueden diferir.",
         "question": "¿Se puede combinar jardín y colección?",
-        "answer": "Pregunta en la portería por la modalidad que incluya ambos recorridos."
+        "answer": "Pregunta en la portería por la modalidad que incluya ambos recorridos.",
+        "context": "La familia de Diego Echavarría vinculó las habitaciones y objetos a una colección doméstica; su apertura pública en 1971 cambió el modo de recorrerlos. El visitante sigue hoy un itinerario de museo por espacios concebidos para otra forma de vida.",
+        "fieldNotes": "En la Loma Los Balsos busca calle 9 Sur, 32-269. Antes de entrar compara la disposición formal de los cipreses con el perfil irregular de las torres. Después selecciona una habitación para mirar objetos y vidrieras en su contexto."
       },
       "en": {
         "title": "El Castillo Museum",
@@ -878,7 +1036,9 @@
         "walk": "At the museum gate follow the designated garden approach and ask reception about interior tours. Leave time at the end to return through the gardens.",
         "manager": "Museo El Castillo manages the collection, grounds and tours. Garden access and an interior visit can have different conditions.",
         "question": "Can I combine the garden and collection?",
-        "answer": "Ask at the gate which admission option includes both routes."
+        "answer": "Ask at the gate which admission option includes both routes.",
+        "context": "The family of Diego Echavarría assembled household objects in rooms intended for private life. Opening the residence to the public in 1971 changed how people moved through it. The visitor now follows a museum route through a formerly domestic setting.",
+        "fieldNotes": "On Loma Los Balsos find Calle 9 Sur, 32-269. Before entering, compare the formal arrangement of the cypresses with the irregular tower skyline. Choose one room to view its objects and stained glass in context."
       },
       "zh": {
         "title": "城堡博物馆",
@@ -886,7 +1046,9 @@
         "walk": "从城堡博物馆门岗按指定路线穿过花园，在接待处询问室内参观安排，结束后留时间步行返回。",
         "manager": "城堡博物馆管理藏品、园地与导览，花园与室内参访的条件可能不同。",
         "question": "可以一起参观花园和馆藏吗？",
-        "answer": "在门岗询问包含两条路线的入场方式。"
+        "answer": "在门岗询问包含两条路线的入场方式。",
+        "context": "迭戈·埃查瓦里亚家族在私人生活空间中收藏器物。1971年住宅向公众开放，改变了人们穿过房间的方式；今天的博物馆游线实际经过的是当年的家居环境。",
+        "fieldNotes": "在 Los Balsos 坡道寻找 Calle 9 Sur 的32-269号。进楼前比较柏树的整齐排列与城堡塔尖的起伏，再选一间房结合室内环境观察器物与彩色玻璃。"
       }
     }
   },
@@ -903,7 +1065,9 @@
         "walk": "Desde Plaza Botero bordea el palacio hasta el acceso público indicado. Pregunta en recepción por una galería o por la fonoteca antes de pasar de una dependencia a otra.",
         "manager": "El Instituto de Cultura y Patrimonio de Antioquia tiene aquí su sede y organiza los espacios culturales. El archivo aplica sus propios procedimientos de consulta.",
         "question": "¿Una visita a la galería sirve para consultar el archivo?",
-        "answer": "No necesariamente: solicita al archivo sus condiciones de consulta."
+        "answer": "No necesariamente: solicita al archivo sus condiciones de consulta.",
+        "context": "El traslado de funciones administrativas dejó espacio para conservar documentación y crear servicios culturales del departamento. La biblioteca Carlos Castro Saavedra y la fonoteca permiten visitar el edificio desde intereses distintos al de la arquitectura exterior.",
+        "fieldNotes": "Observa primero el patrón claro y oscuro desde la plaza; después acércate para ver cómo cambia alrededor de vanos y esquinas. Si la fonoteca admite público ese día, consulta en recepción la sala de escucha y sus condiciones."
       },
       "en": {
         "title": "Rafael Uribe Uribe Cultural Palace",
@@ -911,7 +1075,9 @@
         "walk": "Follow the palace frontage from Plaza Botero to the signed public entrance. Ask reception for the gallery or sound archive before moving between departments.",
         "manager": "Instituto de Cultura y Patrimonio de Antioquia is based here and manages the cultural spaces. Archive research follows separate procedures.",
         "question": "Does gallery entry include archive research?",
-        "answer": "Ask the historical archive separately about reader access."
+        "answer": "Ask the historical archive separately about reader access.",
+        "context": "The shift from administration to cultural use made room for departmental collections and public services. The Carlos Castro Saavedra library and sound archive offer reasons to enter that extend beyond the unusual exterior.",
+        "fieldNotes": "Study the dark-and-light pattern from the square, then move closer to see how it turns corners and surrounds openings. If the sound archive is accepting visitors, ask reception for its listening room and access conditions."
       },
       "zh": {
         "title": "拉斐尔·乌里韦·乌里韦文化宫",
@@ -919,7 +1085,9 @@
         "walk": "从博特罗广场沿外墙寻找标示的公共入口，在接待处询问展厅或声音资料馆位置，再按指示前往。",
         "manager": "安蒂奥基亚文化与遗产研究所设于此并组织文化空间，档案查阅另有手续。",
         "question": "参观展览即可查档案吗？",
-        "answer": "历史档案馆有独立的查阅手续，需另外询问。"
+        "answer": "历史档案馆有独立的查阅手续，需另外询问。",
+        "context": "从行政用途转向文化服务后，这座楼开始容纳省级资料收藏。卡洛斯·卡斯特罗·萨阿韦德拉图书馆和声音资料馆让参观者有机会从阅读、聆听等不同角度认识建筑。",
+        "fieldNotes": "先在广场辨认深浅相间的立面，再靠近观察图案怎样沿窗洞和墙角转折。如果声音资料馆当天接待公众，向前台询问聆听室位置与条件。"
       }
     }
   },
@@ -936,7 +1104,9 @@
         "walk": "Llega por Plaza Cisneros y busca el frente de la carrera 52. Identifica la sede de Educación para distinguirla del vecino Vásquez; vuelve unos pasos para ver las cuatro plantas.",
         "manager": "La Alcaldía restauró el inmueble y la Secretaría de Educación lo utiliza. El acceso a oficinas se rige por los trámites de la entidad.",
         "question": "¿Es un hotel en funcionamiento?",
-        "answer": "El uso hotelero es histórico; hoy se identifica con la Secretaría de Educación."
+        "answer": "El uso hotelero es histórico; hoy se identifica con la Secretaría de Educación.",
+        "context": "En 1895, cuatro plantas bastaban para convertir al Carré en uno de los puntos altos de Medellín. La trayectoria de su arquitecto también está ligada a la Catedral Metropolitana. Su posterior uso comercial y hotelero recuerda la cercanía histórica del mercado.",
+        "fieldNotes": "Desde carrera 52, 44-17, observa las hileras de balcones y cómo giran en la esquina. Después localiza el Vásquez unos pasos más allá y compara el perfil superior antes de cambiar de acera."
       },
       "en": {
         "title": "Carré Building",
@@ -944,7 +1114,9 @@
         "walk": "Approach from Plaza Cisneros and find the Carrera 52 frontage. The education offices distinguish it from the neighbouring Vásquez; step back to see all four floors.",
         "manager": "The city restored the building and its education secretariat uses it. Office access follows the agency’s administrative procedures.",
         "question": "Is it still a hotel?",
-        "answer": "Hotel use is historical; the building now houses education offices."
+        "answer": "Hotel use is historical; the building now houses education offices.",
+        "context": "In 1895 four storeys were enough for the Carré to stand high above Medellín. Its architect also worked on the Metropolitan Cathedral. Later trading and hotel uses reflect the neighbourhood’s proximity to the old market.",
+        "fieldNotes": "At Carrera 52, 44-17, observe the lines of balconies and how the frontage turns the corner. Locate the Vásquez a short distance away and compare the rooflines before crossing the street."
       },
       "zh": {
         "title": "卡雷大楼",
@@ -952,7 +1124,9 @@
         "walk": "从西斯内罗斯广场走到 Carrera 52 一侧，利用教育部门标识与旁边巴斯克斯大楼区分，再退后观察四层立面。",
         "manager": "市政府修复大楼，现由教育部门使用，办公区按行政办事流程出入。",
         "question": "现在还经营旅馆吗？",
-        "answer": "旅馆属于历史用途，现在是教育部门办公地点。"
+        "answer": "旅馆属于历史用途，现在是教育部门办公地点。",
+        "context": "1895年，四层高度就足以让卡雷楼俯瞰市区。它的建筑师也参与了大都会主教座堂的营建；后来的商业和旅馆用途则与旧市场近在咫尺有关。",
+        "fieldNotes": "到 Carrera 52 的44-17号，先看成排阳台与转角立面，再找到几步外的巴斯克斯楼，对比两座楼的顶部轮廓后再过街。"
       }
     }
   },
@@ -969,7 +1143,9 @@
         "walk": "Desde la estación San Antonio busca la entrada señalizada de Salón Málaga. Pregunta por una mesa y recorre con la vista las fotografías sin invadir la pista o el servicio.",
         "manager": "La administración del Salón Málaga gestiona el café y su programación musical. Ver las fotos durante una visita no garantiza una actuación en vivo.",
         "question": "¿Se puede fotografiar una pareja bailando?",
-        "answer": "Pregunta antes a los bailarines y al personal, sin ocupar la pista."
+        "answer": "Pregunta antes a los bailarines y al personal, sin ocupar la pista.",
+        "context": "Gustavo Arteaga abrió el local en 1957 para reunir música y conversación. El valor de las fotos está en el conjunto acumulado a lo largo de décadas: una pared registra visitas y la otra extiende la memoria de intérpretes más allá de una sola velada.",
+        "fieldNotes": "Elige una mesa desde la que veas la pista y una sección de la pared. Antes de acercarte a leer una fotografía comprueba si comienza una actuación. En una noche tranquila prima la tertulia, otra parte de la historia del salón."
       },
       "en": {
         "title": "Salón Málaga Tango Café",
@@ -977,7 +1153,9 @@
         "walk": "From San Antonio station find the signed Salón Málaga entrance. Ask for a table and look along the photo walls without blocking the dance floor or service routes.",
         "manager": "The Salón Málaga administration runs the café and music programme. A visit to see the photographs does not guarantee live music.",
         "question": "Can I photograph a dancing couple?",
-        "answer": "Ask the dancers and staff first and keep off the dance floor."
+        "answer": "Ask the dancers and staff first and keep off the dance floor.",
+        "context": "Gustavo Arteaga opened the establishment in 1957 as a place for music and conversation. The photographs gain meaning from their accumulation over decades: they record visits and preserve musicians’ presence long after a single evening ends.",
+        "fieldNotes": "Choose a table with a view of the dance floor and part of the photo wall. Check whether a performance is beginning before getting up to read a photograph. On a quieter night, conversation itself continues one of the café’s traditions."
       },
       "zh": {
         "title": "马拉加探戈咖啡馆",
@@ -985,7 +1163,9 @@
         "walk": "从圣安东尼奥站走到有 Salón Málaga 标牌的入口，先询问座位，再观察照片墙，给舞池和服务通道留出空间。",
         "manager": "马拉加咖啡馆经营方负责餐饮和音乐节目，普通到店参观不代表一定有现场表演。",
         "question": "能拍正在跳舞的来客吗？",
-        "answer": "先询问舞者及现场工作人员，并给舞池留出空间。"
+        "answer": "先询问舞者及现场工作人员，并给舞池留出空间。",
+        "context": "古斯塔沃·阿特亚加于1957年开设这里，最初就希望让音乐与闲谈相伴。照片的意义也在于数十年持续积累，它们既记录客人来访，也让演奏者的形象在演出结束后继续留在现场。",
+        "fieldNotes": "可选一张同时看见舞池和部分照片墙的桌子，起身看照片前先留意是否即将开演。没有演出时，坐下来交谈本身也是咖啡馆历史的一部分。"
       }
     }
   },
@@ -1002,7 +1182,9 @@
         "walk": "Desde el monumento de La Alpujarra camina hasta la fachada de la antigua estación. Recorre el frente y consulta en el acceso qué partes del conjunto están habilitadas.",
         "manager": "La Fundación Ferrocarril de Antioquia trabaja en la conservación del patrimonio ferroviario. Las oficinas y locales dentro del conjunto regulan sus accesos.",
         "question": "¿Salen trenes de pasajeros desde aquí?",
-        "answer": "El recorrido visita la antigua estación como patrimonio, no un andén de salidas."
+        "answer": "El recorrido visita la antigua estación como patrimonio, no un andén de salidas.",
+        "context": "El ingeniero antioqueño Enrique Olarte dio forma a una estación que conectaba el centro con las economías del Magdalena Medio y el suroeste. Llegaban materias primas y salían productos manufacturados; esa doble dirección explica el nombre de puerto seco.",
+        "fieldNotes": "Desde la avenida San Juan observa la composición de la fachada y sigue hasta la entrada para distinguir la escala de peatones y mercancías. Completa el recorrido en Plaza Cisneros, donde el antiguo mercado da otra pista sobre la función del ferrocarril."
       },
       "en": {
         "title": "Former Antioquia Railway Station",
@@ -1010,7 +1192,9 @@
         "walk": "Walk from the monument at La Alpujarra to the old station frontage. Follow the façade and ask at the entrance which parts of the complex can be visited.",
         "manager": "Fundación Ferrocarril de Antioquia works to conserve railway heritage. Offices and businesses within the complex control their own access.",
         "question": "Do passenger trains leave from here?",
-        "answer": "The visit is to the historic station, not a live departure platform."
+        "answer": "The visit is to the historic station, not a live departure platform.",
+        "context": "Antioquia engineer Enrique Olarte designed a station connecting the centre to the economies of the Magdalena Medio and the southwest. Raw materials came in and manufactured goods went out. That two-way exchange explains the comparison with a port far from the sea.",
+        "fieldNotes": "From Avenida San Juan read the façade and follow it to the entrance to compare the scale of passengers and goods. Finish at Plaza Cisneros, where the former market provides a second clue to the railway’s purpose."
       },
       "zh": {
         "title": "安蒂奥基亚铁路老车站",
@@ -1018,7 +1202,9 @@
         "walk": "从拉阿尔普哈拉纪念群雕步行至旧站正面，沿立面走到入口，询问建筑群内哪些部分开放。",
         "manager": "安蒂奥基亚铁路基金会参与铁路遗产保护，楼内办公室与商户分别管理出入。",
         "question": "可以在这里乘客运列车吗？",
-        "answer": "这里参观的是历史车站，并非现行列车出发站台。"
+        "answer": "这里参观的是历史车站，并非现行列车出发站台。",
+        "context": "安蒂奥基亚工程师恩里克·奥拉尔特设计的车站连接市中心与马格达莱纳中游和西南地区经济。原材料进城、制成品出城，这种双向交换解释了内陆车站为何被称为“港口”。",
+        "fieldNotes": "从圣胡安大道看立面构图，沿墙走到入口比较人行空间与过去货运活动的尺度，最后到西斯内罗斯广场，通过旧市场的位置理解铁路的运输作用。"
       }
     }
   }
