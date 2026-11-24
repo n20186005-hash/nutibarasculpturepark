@@ -4,6 +4,7 @@
     "description": "Guía para visitar el Cerro Nutibara y el Parque de las Esculturas en Medellín: horario, entrada gratuita, cómo llegar, Pueblito Paisa, miradores, esculturas y mapa."
   },
   "header": {
+    "nearby": "Lugares cercanos",
     "siteName": "Cerro de Nutibara",
     "home": "Inicio",
     "gallery": "Galería",
@@ -139,7 +140,7 @@
     "facilities": "Instalaciones",
     "facilitiesValue": "Baños públicos cercanos, restaurantes y estacionamiento",
     "hours": "Horario de Atención",
-    "hoursValue": "Todos los días 08:00–22:00",
+    "hoursValue": "Consulta los avisos locales; el acceso varía según el sector.",
     "rating": "Calificación",
     "ratingValue": "4.6 / 5.0 (basado en 5,917 opiniones)",
     "location": "Ubicación",
@@ -147,18 +148,18 @@
   },
   "hours": {
     "title": "Horario del Cerro Nutibara y Parque de las Esculturas",
-    "intro": "Horario habitual: todos los días, 08:00–22:00. Entrada: gratuita.",
-    "lastUpdated": "Última actualización: octubre de 2026",
-    "outdoor": "Horario Comercial",
-    "outdoorTime": "08:00–22:00",
+    "intro": "El cerro, el sendero de esculturas y los recintos culturales no tienen necesariamente el mismo horario. Consulta los avisos de la Alcaldía antes de ir. El acceso general al espacio público es gratuito; los recintos pueden tener sus propias condiciones.",
+    "lastUpdated": "Fuentes consultadas: 20 de noviembre de 2026",
+    "outdoor": "Acceso al cerro y al sendero",
+    "outdoorTime": "Consulta los avisos de la Alcaldía y la señalización en cada entrada.",
     "lighthouse": "Mejor Momento de Visita",
     "summer": "Horas del atardecer",
-    "summerTime": "(Depende del clima y la temporada, consulte Google Maps)",
+    "summerTime": "Para caminar o fotografiar, elige horas de luz y revisa el tiempo y el acceso antes de salir.",
     "winter": "Notas",
     "winterTime": "Traiga protector solar, cámara y abundante agua",
     "warning": "💡 Clima Dinámico",
     "warningTime": "Medellín tiene un clima agradable, ideal para visitas al aire libre. Recomendamos traer protector solar y abundante agua.",
-    "tip": "Hay muchos puestos de comida local y restaurantes cerca del parque, donde puede probar auténtica cocina colombiana."
+    "tip": "Museo de Ciudad: según su operador, lunes a viernes de 10:00 a 18:00; sábados, domingos y festivos de 09:00 a 19:00. Confirma el horario con el museo antes de ir."
   },
   "tickets": {
     "title": "Información Importante",
@@ -322,7 +323,7 @@
       },
       {
         "question": "¿Cuál es el horario del Parque de Las Esculturas - Cerro Nutibara?",
-        "answer": "El parque suele abrir todos los días aproximadamente de 08:00 a 22:00. El horario puede variar según la temporada y el clima, por lo que se recomienda consultar Google Maps antes de la visita."
+        "answer": "El acceso y los horarios pueden variar según el sector. El sendero de esculturas y el Museo de Ciudad tienen condiciones distintas. Consulta los avisos de la Alcaldía para el cerro y verifica el horario del museo con la Fundación Casa Museo Pedro Nel Gómez."
       },
       {
         "question": "¿Cómo se llega al Parque de Las Esculturas - Cerro Nutibara?",
@@ -353,6 +354,16 @@
     "portalUrl": "https://www.medellin.travel/",
     "introTail": ".",
     "items": [
+      {
+        "name": "Alcaldía de Medellín: gestión integral del Cerro Nutibara",
+        "url": "https://www.medellin.gov.co/es/sala-de-prensa/noticias/con-90-especies-de-flora-y-150-de-fauna-identificadas-el-cerro-nutibara-se-consolida-como-pulmon-verde-de-medellin/",
+        "description": "Identifica a la Corporación Parque Arví como gestora integral del cerro."
+      },
+      {
+        "name": "Museo de Ciudad: horario del operador",
+        "url": "https://museopedronelgomez.org/museo-de-ciudad/",
+        "description": "Museo de Ciudad: según su operador, lunes a viernes de 10:00 a 18:00; sábados, domingos y festivos de 09:00 a 19:00. Confirma el horario con el museo antes de ir."
+      },
       {
         "name": "Alcaldía de Medellín - Cerro Nutibara",
         "url": "https://www.medellin.gov.co/es/secretaria-medio-ambiente/medellin-biodiversa/cerro-nutibara/",
@@ -872,7 +883,7 @@
   },
   "about": {
     "title": "Acerca del Parque de Las Esculturas - Cerro Nutibara",
-    "description": "Bienvenido al **Parque de Las Esculturas - Cerro Nutibara**, ampliamente reconocido como el **Cerro Nutibara**. Situado en el corazón de **Medellín**, **Antioquia**, **Colombia**, este destino sirve como un punto de referencia central para los viajeros de la región. Como una de las \"islas verdes\" más grandes de la ciudad, no solo conserva ricos recursos ecológicos, sino que también es mundialmente famoso por el Pueblito Paisa y el parque de esculturas al aire libre en su cima. Como bien público, la atracción es administrada y mantenida actualmente por la **Alcaldía de Medellín**, dedicada a proporcionar un espacio gratuito y abierto para la recreación natural y la educación cultural tanto para los ciudadanos como para los visitantes internacionales."
+    "description": "Bienvenido al **Parque de Las Esculturas - Cerro Nutibara**, ampliamente reconocido como el **Cerro Nutibara**. Situado en el corazón de **Medellín**, **Antioquia**, **Colombia**, este destino sirve como un punto de referencia central para los viajeros de la región. Como una de las \"islas verdes\" más grandes de la ciudad, no solo conserva ricos recursos ecológicos, sino que también es mundialmente famoso por el Pueblito Paisa y el parque de esculturas al aire libre en su cima. El Cerro Nutibara es un espacio público. La Alcaldía de Medellín ha encargado su gestión integral a la Corporación Parque Arví. El Museo de Ciudad está dirigido por la Fundación Casa Museo Pedro Nel Gómez."
   },
   "sculptures": {
     "title": "Las esculturas del Parque de las Esculturas en el Cerro Nutibara",

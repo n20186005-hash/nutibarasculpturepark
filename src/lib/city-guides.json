@@ -1,0 +1,1025 @@
+[
+  {
+    "slug": "edificio-coltejer",
+    "name": "Edificio Coltejer",
+    "source": "https://www.medellin.travel/edificio-coltejer/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/Coltejer1-640x640.jpg",
+    "photo": "/city/edificio-coltejer.webp",
+    "locales": {
+      "es": {
+        "title": "Edificio Coltejer",
+        "history": "En el cruce de Junín con La Playa se entiende por qué esta torre de oficinas se convirtió en emblema textil. Los 147 metros de fachada suben hasta un remate que los habitantes comparan con una aguja. Desde el pie del edificio se pierde esa silueta; se lee mejor desde el paseo.",
+        "walk": "Desde Parque Berrío sigue La Playa hasta Junín. Cruza por el paso señalizado, retrocede unos pasos por el paseo y mira por encima de las fachadas bajas.",
+        "manager": "La administración del edificio regula el acceso a oficinas. La parada panorámica se hace en espacio público.",
+        "question": "¿Dónde se distingue la aguja?",
+        "answer": "En Junín, a cierta distancia de la base."
+      },
+      "en": {
+        "title": "Coltejer Tower",
+        "history": "At Junín and La Playa an office tower built for a textile company gives the industry a place on the skyline. The 147-metre façade narrows to a point often compared to a needle. Standing directly beneath it hides the feature that makes it recognisable.",
+        "walk": "From Parque Berrío follow La Playa to Junín. Cross at the marked crossing and step back along the promenade to frame the peak above the shopfronts.",
+        "manager": "The building administration controls access to the offices. The skyline viewpoint is on the public street.",
+        "question": "Where is the needle shape clearest?",
+        "answer": "On Junín, a short way back from the base."
+      },
+      "zh": {
+        "title": "科尔特赫尔大厦",
+        "history": "在胡宁步行街与拉普拉亚大道交会处，这座为纺织企业兴建的办公楼将工业历史写进了城市天际线。147米高的楼身收束成被当地人比作针尖的顶部；站在墙脚反而看不出完整轮廓。",
+        "walk": "从贝里奥公园沿拉普拉亚大道走到胡宁街，在划线处过街，再沿步行街后退一段，从低矮店铺屋顶上方观察尖顶。",
+        "manager": "楼宇管理方控制办公室出入，观看城市轮廓可直接使用公共人行道。",
+        "question": "在哪里最容易看见针尖形状？",
+        "answer": "从胡宁街稍远处朝楼顶看。"
+      }
+    }
+  },
+  {
+    "slug": "pueblito-paisa-cerro-nutibara",
+    "name": "Pueblito Paisa – Cerro Nutibara",
+    "source": "https://www.medellin.travel/pueblito-paisa-cerro-nutibara/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/pueblito-paisa-medellin-1-640x600.jpg",
+    "photo": "/city/pueblito-paisa-cerro-nutibara.webp",
+    "locales": {
+      "es": {
+        "title": "Pueblito Paisa – Cerro Nutibara",
+        "history": "En la cima del cerro, la fuente, el atrio y la casa cural componen una plaza que interpreta la arquitectura de los pueblos antioqueños. Aquí se visita una recreación; su escala compacta permite comparar el espacio de reunión con el mirador abierto al valle.",
+        "walk": "Desde el final del ascenso sigue las señales al Pueblito. Rodea la fuente, mira la iglesia desde el lado opuesto y sal hacia el mirador antes de volver a la plaza.",
+        "manager": "El Distrito gestiona el espacio público del cerro. Restaurantes y tiendas dentro del pueblo fijan sus propios servicios.",
+        "question": "¿Es un pueblo antiguo trasladado completo?",
+        "answer": "Es una recreación de la plaza y edificios tradicionales de Antioquia."
+      },
+      "en": {
+        "title": "Pueblito Paisa square",
+        "history": "On the summit, a fountain, church forecourt and priest’s house frame a square modelled on Antioquia’s small towns. This is a reconstruction. Its enclosed gathering space makes an instructive contrast with the open valley view a short walk away.",
+        "walk": "At the top of the ascent follow signs for Pueblito. Circle the fountain, face the church from across the square, then walk out to the lookout before returning.",
+        "manager": "The District manages the hill’s public space. Shops and restaurants inside the village operate separately.",
+        "question": "Was an entire old town moved here?",
+        "answer": "The square and buildings recreate a typical Antioquia village."
+      },
+      "zh": {
+        "title": "派萨小镇广场",
+        "history": "走到山顶，喷泉、教堂前庭和神父住宅围出一座按安蒂奥基亚乡镇风貌重现的小广场。这里是仿建聚落，围合的公共空间与旁边豁然开朗的山谷观景台形成对照。",
+        "walk": "在上山道路尽头循小镇标识入内，绕喷泉半圈，从广场对面看教堂，再步行去观景台，最后回到广场。",
+        "manager": "市政府管理山丘公共区域，小镇内餐馆、店铺的服务由各自经营者安排。",
+        "question": "是整座老村迁到这里的吗？",
+        "answer": "这里重现的是安蒂奥基亚典型乡镇的广场和建筑。"
+      }
+    }
+  },
+  {
+    "slug": "pasaje-junin",
+    "name": "Pasaje Junín",
+    "source": "https://www.medellin.travel/pasaje-junin/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2022/06/Junin-640x640.jpg",
+    "photo": "/city/pasaje-junin.webp",
+    "locales": {
+      "es": {
+        "title": "Pasaje Junín",
+        "history": "Caminar por Junín era una actividad social en sí misma: cafés, cines y vitrinas reunían a las familias del centro hasta dar origen al verbo local «juniniar». Mira la continuidad de los escaparates y dónde las entradas de los cafés interrumpen esa línea.",
+        "walk": "Empieza bajo la torre Coltejer, entra en el tramo peatonal y sigue hacia Parque Bolívar. Detente frente a una cafetería sin ocupar su puerta.",
+        "manager": "La vía es espacio público del Distrito; la entrada, los horarios y las compras en los comercios dependen de cada local.",
+        "question": "¿Qué significa juniniar?",
+        "answer": "Salir a pasear, encontrarse con otros y mirar vitrinas en Junín."
+      },
+      "en": {
+        "title": "Junín pedestrian promenade",
+        "history": "Walking Junín once had such a distinct place in social life that it acquired its own verb, juniniar. Families came for the cinemas and afternoon coffee as much as for shopping. Read the street at eye level, where shop windows give way to café entrances.",
+        "walk": "Start below the Coltejer tower and take the pedestrian stretch toward Parque Bolívar. Pause across from a café rather than blocking its doorway.",
+        "manager": "The District looks after the public street. Each business sets its own opening hours and conditions.",
+        "question": "What does juniniar mean?",
+        "answer": "To stroll, meet people and window-shop on Junín."
+      },
+      "zh": {
+        "title": "胡宁步行街",
+        "history": "胡宁街曾是市中心家庭看电影、喝下午咖啡和逛橱窗的地方，甚至产生了专指在此闲逛的当地动词 juniniar。沿街最值得观察的是与人视线平齐的店面，以及橱窗之间通向咖啡馆的小入口。",
+        "walk": "从科尔特赫尔大厦下方进入步行段，朝玻利瓦尔公园方向走，在咖啡馆对面停步观察，给店门留出通道。",
+        "manager": "街道属于市政公共空间，商店自行决定营业时间和服务内容。",
+        "question": "当地人说的 juniniar 是什么？",
+        "answer": "就是在胡宁街散步、会友、逛橱窗。"
+      }
+    }
+  },
+  {
+    "slug": "mamm",
+    "name": "Museo de Arte Moderno de Medellín",
+    "source": "https://www.medellin.travel/mamm/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/terraza-mamm-640x640.jpg",
+    "photo": "/city/mamm.webp",
+    "locales": {
+      "es": {
+        "title": "Museo de Arte Moderno de Medellín",
+        "history": "Los antiguos talleres siderúrgicos de Ciudad del Río dieron al MAMM una sede muy distinta a un palacio de exposiciones. Desde la plaza se distinguen la nave industrial de Talleres Robledo y la ampliación de volúmenes apilados; dentro, la selección cambia por temporadas.",
+        "walk": "En Ciudad del Río llega a la plaza del museo, compara las dos partes del edificio y localiza la taquilla antes de subir a las salas anunciadas.",
+        "manager": "El MAMM programa las exposiciones y controla las entradas. La plaza exterior se puede recorrer sin ingresar a las salas.",
+        "question": "¿Puedo reconocer los talleres sin comprar entrada?",
+        "answer": "La antigua nave y el volumen nuevo se comparan desde la plaza."
+      },
+      "en": {
+        "title": "Medellín Museum of Modern Art",
+        "history": "Former metalworking shops in Ciudad del Río gave MAMM a very different setting from a purpose-built gallery. From the forecourt compare the industrial hall of Talleres Robledo with the stacked volumes of the extension. The exhibitions inside change with the programme.",
+        "walk": "Walk to the museum forecourt in Ciudad del Río, compare the two buildings, then find the ticket desk for the galleries open that day.",
+        "manager": "MAMM sets the exhibition programme and admission conditions. You can view the architecture from the forecourt.",
+        "question": "Can I see the old workshops without a ticket?",
+        "answer": "Compare the outline of the old hall and new wing from the square."
+      },
+      "zh": {
+        "title": "麦德林现代艺术博物馆",
+        "history": "现代艺术博物馆在河城片区的旧冶金工场落脚。站在前广场可以比较罗夫莱多工场宽阔的厂房和扩建部分层叠的体块；馆内展品则随档期轮换。",
+        "walk": "先走到河城片区博物馆前广场，从两座建筑交界处观察外观，再到售票处领取当天开放展厅的信息。",
+        "manager": "展览和入场安排由现代艺术博物馆负责，在前广场看建筑无需进入展厅。",
+        "question": "不买票可分辨旧厂房吗？",
+        "answer": "从广场就能比较旧厂房轮廓与新馆体块。"
+      }
+    }
+  },
+  {
+    "slug": "pequeno-teatro",
+    "name": "Pequeño Teatro",
+    "source": "https://www.medellin.travel/pequeno-teatro/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/PequenCC83o-Teatro1-640x640.jpg",
+    "photo": "/city/pequeno-teatro.webp",
+    "locales": {
+      "es": {
+        "title": "Pequeño Teatro",
+        "history": "Una casa republicana acoge a la compañía fundada en 1975. Tras la fachada se distribuyen dos salas alrededor del ámbito del patio; la palmera antigua ayuda a imaginar el edificio como casa antes de leerlo como teatro.",
+        "walk": "Desde la parada Pabellón del Agua busca la entrada de Pequeño Teatro en Córdoba. Pasa primero por taquilla: pueden funcionar dos salas la misma noche.",
+        "manager": "Pequeño Teatro organiza funciones y formación de actores. Consulta a su taquilla qué sala y qué modalidad de ingreso corresponden a tu obra.",
+        "question": "¿Cómo evito entrar en la sala equivocada?",
+        "answer": "Comprueba título, hora y sala en taquilla: hay dos escenarios."
+      },
+      "en": {
+        "title": "Pequeño Teatro",
+        "history": "A Republican-era house is home to the theatre company founded in 1975. Behind the frontage two stages occupy a complex centred on a courtyard. Look for the old palm: it helps the former house make sense before you enter a theatre.",
+        "walk": "From the Pabellón del Agua stop, find Pequeño Teatro on Córdoba and check in at the box office before taking a seat. Two rooms can be in use on the same evening.",
+        "manager": "Pequeño Teatro runs the performances and actor training. Its box office identifies the correct room and admission arrangements.",
+        "question": "How do I find the right stage?",
+        "answer": "Check title, time and room at the desk because there are two stages."
+      },
+      "zh": {
+        "title": "小剧院",
+        "history": "1975年成立的小剧院剧团在一座共和国时期的宅邸内演出。庭院连接两个演出空间；看一眼院中的老棕榈树，便容易理解这里原本的住宅格局。",
+        "walk": "从 Pabellón del Agua 站走到科尔多瓦街的小剧院入口，先至售票处确认剧目和厅号，再前往座席。两厅可能同晚演出。",
+        "manager": "小剧院负责排演和演员培训，具体场次、演出厅与入场方式由剧院票房公布。",
+        "question": "怎样找到正确演出厅？",
+        "answer": "有两座舞台，到票房核对剧名、开演时间及厅号。"
+      }
+    }
+  },
+  {
+    "slug": "museo-casa-de-la-memoria",
+    "name": "Museo Casa de la Memoria",
+    "source": "https://www.medellin.travel/museo-casa-de-la-memoria/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2021/04/Museo-casa-de-la-memorria-640x640.jpg",
+    "photo": "/city/museo-casa-de-la-memoria.webp",
+    "locales": {
+      "es": {
+        "title": "Museo Casa de la Memoria",
+        "history": "El museo surgió en 2006 de una iniciativa municipal de atención a víctimas. Los testimonios sitúan vidas y barrios dentro de la historia del conflicto. Deja margen para escuchar un relato entero en lugar de recorrer las salas como un inventario de fechas.",
+        "walk": "En el Parque Bicentenario busca la entrada señalizada del museo. Empieza por la orientación de las salas y reserva la parte final para volver al parque.",
+        "manager": "El Museo Casa de la Memoria administra las exposiciones y orienta sobre el tratamiento respetuoso de los testimonios.",
+        "question": "¿Cómo escucho los testimonios con respeto?",
+        "answer": "Deja espacio a otros oyentes y consulta antes de grabar voces o imágenes."
+      },
+      "en": {
+        "title": "House of Memory Museum",
+        "history": "An initiative to support victims of violence gave rise to the museum in 2006. Personal testimony connects the history of the conflict to particular families and neighbourhoods. Allow time to hear one account in full before moving to the next display.",
+        "walk": "Enter Parque Bicentenario and look for the signed museum entrance. Start at the gallery orientation point and leave time to return to the open space outside.",
+        "manager": "Museo Casa de la Memoria runs the exhibitions and advises visitors on respectful use of testimony.",
+        "question": "How can I listen respectfully?",
+        "answer": "Give others space and ask staff before recording voices or images."
+      },
+      "zh": {
+        "title": "记忆之家博物馆",
+        "history": "博物馆源于2006年的市政受害者援助项目。馆内以个人叙述把冲突史与具体的家庭和社区相连，适合留出一段完整时间听完一人的讲述。",
+        "walk": "进入二百周年公园后按指示前往博物馆，在展厅导览处确定参观顺序，结束时回到公园稍作停留。",
+        "manager": "记忆之家博物馆负责展览和参观服务，并就记录、使用受访者证言提供指引。",
+        "question": "如何尊重讲述者？",
+        "answer": "给其他听众留空间，录音或拍摄前先问馆方。"
+      }
+    }
+  },
+  {
+    "slug": "casa-museo-pedro-nel-gomez",
+    "name": "Casa Museo Pedro Nel Gómez",
+    "source": "https://www.medellin.travel/casa-museo-pedro-nel-gomez/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2022/11/Casa-Museo-Pedro.-Nel.-Gómez-portada-640x640.jpg",
+    "photo": "/city/casa-museo-pedro-nel-gomez.webp",
+    "locales": {
+      "es": {
+        "title": "Casa Museo Pedro Nel Gómez",
+        "history": "Pedro Nel Gómez vivió aquí desde 1936; la casa se convirtió en museo en 1975 y siguió siendo su hogar. Mira cómo los frescos se ajustan a paredes y pasillos. A diferencia de una obra enmarcada, cambiar de habitación cambia el contexto de la pintura.",
+        "walk": "En Aranjuez localiza la casa museo por su nombre, entra por recepción y sigue de los espacios domésticos a los muros pintados. Pregunta qué salas están abiertas.",
+        "manager": "La Fundación Casa Museo Maestro Pedro Nel Gómez conserva la casa y organiza los recorridos.",
+        "question": "¿Los murales se pueden trasladar como cuadros?",
+        "answer": "Los frescos se pintaron sobre muros; observa cómo responden a la habitación."
+      },
+      "en": {
+        "title": "Pedro Nel Gómez House Museum",
+        "history": "Gómez moved here in 1936 and continued to live here after it became a museum in 1975. Notice how frescoes fit the walls and passages. Crossing a doorway changes the setting of the painting in a way that simply moving between framed pictures does not.",
+        "walk": "In Aranjuez navigate to the named house museum, check in at reception and follow the domestic rooms to the painted walls. Ask which spaces are open that day.",
+        "manager": "Fundación Casa Museo Maestro Pedro Nel Gómez cares for the house and organises visits.",
+        "question": "Can the murals be moved like framed paintings?",
+        "answer": "The frescoes were painted onto walls; see how the room shapes each composition."
+      },
+      "zh": {
+        "title": "佩德罗·内尔·戈麦斯故居博物馆",
+        "history": "戈麦斯自1936年起在此生活，住宅于1975年改为博物馆后，他仍继续居住。湿壁画贴合房间和过道的墙面，跨过门槛便改变了观看画作的空间关系。",
+        "walk": "在阿兰胡埃斯区按故居全名导航，在接待处入内，沿住宅房间走向壁画墙面，并询问当天开放范围。",
+        "manager": "佩德罗·内尔·戈麦斯大师故居博物馆基金会负责保护住宅及安排参观。",
+        "question": "壁画能像画框那样搬动吗？",
+        "answer": "湿壁画绘在墙上，要结合房间格局一起观察。"
+      }
+    }
+  },
+  {
+    "slug": "barrio-prado",
+    "name": "Barrio Prado de Medellín",
+    "source": "https://www.medellin.travel/barrio-prado/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2022/06/Prado-640x640.jpg",
+    "photo": "/city/barrio-prado.webp",
+    "locales": {
+      "es": {
+        "title": "Barrio Prado de Medellín",
+        "history": "Los caserones de Prado muestran cómo las familias acomodadas de comienzos del siglo XX adaptaron referencias europeas a calles arboladas de Medellín. Busca las diferencias entre aleros, torrecillas y jardines delanteros sin cruzar los límites de las viviendas.",
+        "walk": "Desde la estación Prado camina hacia las calles residenciales del barrio. Recorre un tramo por una acera y vuelve por la opuesta para comparar los retranqueos de las casas.",
+        "manager": "El Distrito protege el conjunto urbano. Las casas siguen teniendo propietarios y usos independientes; una fachada catalogada no implica visita interior.",
+        "question": "¿Puedo entrar en los patios de las casas?",
+        "answer": "Observa desde la acera salvo que el propietario anuncie acceso público."
+      },
+      "en": {
+        "title": "Prado heritage district",
+        "history": "Prado’s early twentieth-century houses show how wealthy families adapted European ideas to tree-lined streets in Medellín. Look for differences in turrets, rooflines and front gardens without crossing private boundaries.",
+        "walk": "From Prado station walk toward the residential streets of the district. Take one side of a block on the way out and the opposite pavement on the return to compare the setbacks.",
+        "manager": "The District protects the urban ensemble. Individual buildings have separate owners and uses; heritage status does not grant entry.",
+        "question": "Can I enter the front gardens?",
+        "answer": "Stay on the pavement unless the owner explicitly offers public access."
+      },
+      "zh": {
+        "title": "普拉多历史街区",
+        "history": "二十世纪初的富裕家庭将欧洲建筑意象带到普拉多的林荫街道。沿路比较不同屋顶、小塔和前院，站在街上就能看出各宅邸退让街道的距离。",
+        "walk": "从普拉多地铁站走向住宅区，去程沿街区一侧人行道，回程换到对面观察前院和屋檐，不进入私人庭院。",
+        "manager": "历史街区受市级保护，住宅各有业主和用途；列入保护范围不代表内部开放。",
+        "question": "能进宅邸庭院吗？",
+        "answer": "除非业主明确对外开放，应留在公共人行道观察。"
+      }
+    }
+  },
+  {
+    "slug": "cementerio-museo-san-pedro",
+    "name": "Cementerio Museo San Pedro",
+    "source": "https://www.medellin.travel/cementerio-museo-san-pedro/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/Cementerio-San-Pedro-Cuadrado-640x640.jpg",
+    "photo": "/city/cementerio-museo-san-pedro.webp",
+    "locales": {
+      "es": {
+        "title": "Cementerio Museo San Pedro",
+        "history": "En 1842 un grupo de familias impulsó este cementerio, hoy también museo patrimonial. Los patios reúnen esculturas funerarias y monumentos de distintas épocas. Compara una figura exenta con los relieves de las tumbas vecinas, manteniendo libre el paso de dolientes.",
+        "walk": "Desde la estación Hospital dirígete a la entrada principal del cementerio. Consulta el recorrido del museo antes de pasar a los patios y regresa por los pasos autorizados.",
+        "manager": "La Fundación Cementerio de San Pedro gestiona el cementerio y las visitas culturales; los actos funerarios tienen prioridad.",
+        "question": "¿Cómo convivo con una ceremonia funeraria?",
+        "answer": "Cede el paso a familiares y sigue el desvío que indique el personal."
+      },
+      "en": {
+        "title": "San Pedro Cemetery Museum",
+        "history": "Founded by local families in 1842, the cemetery now also operates as a heritage museum. Its courts contain funerary sculpture and monuments from different periods. Compare a free-standing figure with the reliefs on a nearby tomb while leaving room for mourners.",
+        "walk": "From Hospital station walk to the main cemetery gate. Ask about the museum route before entering the courts and return along the designated paths.",
+        "manager": "Fundación Cementerio de San Pedro manages both the cemetery and cultural visits. Funerals take priority.",
+        "question": "What if a funeral is in progress?",
+        "answer": "Give relatives priority and follow any diversion indicated by staff."
+      },
+      "zh": {
+        "title": "圣佩德罗公墓博物馆",
+        "history": "当地家庭于1842年发起兴建这座公墓，如今园区也作为遗产博物馆开放。院落中可以把独立雕塑与墓面浮雕放在一起观察，同时注意给悼念者留出空间。",
+        "walk": "从 Hospital 地铁站走至公墓正门，先询问博物馆游线，再进入院落，按开放通道返回。",
+        "manager": "圣佩德罗公墓基金会负责墓园和文化参访，葬礼优先于旅游活动。",
+        "question": "遇到葬礼怎么办？",
+        "answer": "让亲友先行，依工作人员指示调整步行路线。"
+      }
+    }
+  },
+  {
+    "slug": "museo-de-antioquia",
+    "name": "Museo de Antioquia",
+    "source": "https://www.medellin.travel/museo-de-antioquia/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/museo-de-antioquia-640x640.jpg",
+    "photo": "/city/museo-de-antioquia.webp",
+    "locales": {
+      "es": {
+        "title": "Museo de Antioquia",
+        "history": "Una visita puede empezar en las esculturas de la plaza y continuar dentro, donde Botero se sitúa junto a otros artistas. El museo, cuyos orígenes se remontan a 1881, ocupa el antiguo Palacio Municipal. Observa el cambio de escala entre la plaza y los patios interiores.",
+        "walk": "Llega desde Parque Berrío a Plaza Botero. Identifica la entrada del museo frente a las esculturas, consulta el plano y escoge una sala antes de recorrer otras plantas.",
+        "manager": "El Museo de Antioquia gestiona sus galerías y boletería. El paseo por la plaza exterior tiene acceso independiente.",
+        "question": "¿Las esculturas exteriores requieren el boleto del museo?",
+        "answer": "La plaza es pública; el boleto se consulta al entrar al museo."
+      },
+      "en": {
+        "title": "Museum of Antioquia",
+        "history": "The sculptures outside offer a starting point for a museum whose history goes back to 1881. Inside, Botero’s work sits within a wider artistic collection. Its home is the former municipal palace; notice the shift in scale from the square to its inner courts.",
+        "walk": "Walk from Parque Berrío to Plaza Botero. Find the museum entrance facing the sculptures, pick up a plan and choose a gallery before moving between floors.",
+        "manager": "Museo de Antioquia runs the galleries and ticket desk. The public sculpture square has separate access.",
+        "question": "Does seeing the outdoor sculptures require a museum ticket?",
+        "answer": "The square is public; ask about admission when entering the museum."
+      },
+      "zh": {
+        "title": "安蒂奥基亚博物馆",
+        "history": "博物馆的历史可追溯至1881年，馆址为旧市政宫。可先从广场雕塑开始，再进馆将博特罗作品与其他艺术家的创作对照，留意大广场与内院之间的尺度变化。",
+        "walk": "从贝里奥公园走至博特罗广场，在雕塑对面找到博物馆入口，领取平面图并先选定一个展厅，再考虑跨楼层参观。",
+        "manager": "安蒂奥基亚博物馆负责馆内展厅和票务，公共雕塑广场另行通行。",
+        "question": "看室外雕塑需要博物馆门票吗？",
+        "answer": "广场对公众开放，进入博物馆另行办理入场。"
+      }
+    }
+  },
+  {
+    "slug": "basilica-menor-nuestra-senora-de-la-candelaria",
+    "name": "Basílica Menor Nuestra Señora de La Candelaria",
+    "source": "https://www.medellin.travel/basilica-menor-nuestra-senora-de-la-candelaria/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/La-Candelaria1-640x640.jpg",
+    "photo": "/city/basilica-menor-nuestra-senora-de-la-candelaria.webp",
+    "locales": {
+      "es": {
+        "title": "Basílica Menor Nuestra Señora de La Candelaria",
+        "history": "El atrio mira al Parque Berrío. La primera parroquia de la villa se vincula a este lugar desde el siglo XVII; dentro se conserva una imagen dieciochesca de la Virgen. El mismo atrio tiene otra memoria, la de los encuentros de familias de desaparecidos.",
+        "walk": "Desde la estación Parque Berrío cruza hacia el costado de la basílica. Detente ante el atrio y entra solo si el culto permite un recorrido discreto.",
+        "manager": "La parroquia católica atiende el templo y sus celebraciones; el parque tiene gestión municipal.",
+        "question": "¿Qué observar si hay misa?",
+        "answer": "Quédate en la plaza y mira el atrio y la fachada hasta que termine."
+      },
+      "en": {
+        "title": "Basilica of Our Lady of Candelaria",
+        "history": "The forecourt faces Parque Berrío. The first parish of the settlement is associated with this site from the seventeenth century; an eighteenth-century image of the Virgin survives inside. The steps also hold a more recent history as a meeting place for families of the disappeared.",
+        "walk": "From Parque Berrío station cross to the basilica side of the park. Pause at the forecourt and enter quietly if services allow.",
+        "manager": "The Catholic parish oversees the church and worship; the surrounding park is municipal.",
+        "question": "What can I see during Mass?",
+        "answer": "Remain in the square to view the forecourt and façade until the service ends."
+      },
+      "zh": {
+        "title": "坎德拉里亚圣母宗座圣殿",
+        "history": "前庭面向贝里奥公园，十七世纪早期聚落的堂区历史与此地相连，内部珍藏十八世纪的圣母画像。前庭也见证了失踪者家属的集会，是这座教堂另一层城市记忆。",
+        "walk": "从贝里奥公园站穿过公园走到教堂前庭，先看建筑与广场的关系，在礼拜允许时安静入内。",
+        "manager": "天主教堂区负责圣殿与宗教活动，外围公园由市政管理。",
+        "question": "遇到弥撒看哪里？",
+        "answer": "可先在广场观察前庭与教堂立面，等待礼拜结束。"
+      }
+    }
+  },
+  {
+    "slug": "teatro-lido",
+    "name": "Teatro Lido",
+    "source": "https://www.medellin.travel/teatro-lido/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/Lido1-640x640.jpg",
+    "photo": "/city/teatro-lido.webp",
+    "locales": {
+      "es": {
+        "title": "Teatro Lido",
+        "history": "El Lido recuerda la época en que una salida al cine llevaba al público al Parque Bolívar. Su construcción se impulsó en 1945. Hoy una misma sala recibe música, teatro y conferencias; el aspecto cerrado de la fachada por la mañana no indica si habrá función nocturna.",
+        "walk": "Cruza el Parque Bolívar hacia la carrera 48 y busca el número 54-20. Consulta la cartelera junto a la puerta antes de seguir hacia Junín.",
+        "manager": "La Alcaldía de Medellín apoya la programación del Lido. Confirma el acceso de cada acto en el teatro.",
+        "question": "¿Cómo sé si hay concierto esta noche?",
+        "answer": "Mira la cartelera del Lido o consulta en carrera 48, 54-20."
+      },
+      "en": {
+        "title": "Lido Theatre",
+        "history": "The Lido recalls the days when going to the cinema meant an evening out by Parque Bolívar. The project began in 1945. Music, theatre and talks now share the space; the appearance of the doors in the morning tells you little about the evening programme.",
+        "walk": "Cross Parque Bolívar toward Carrera 48 and find number 54-20. Check the programme at the door before continuing toward Junín.",
+        "manager": "The Medellín city government supports the Lido’s cultural programme. Check arrangements for a particular event with the theatre.",
+        "question": "How do I check tonight’s concert?",
+        "answer": "Consult the Lido programme or its entrance at Carrera 48, 54-20."
+      },
+      "zh": {
+        "title": "利多剧院",
+        "history": "利多剧院让人想起到玻利瓦尔公园看电影的年代。建筑项目始于1945年，如今这里也安排音乐、戏剧和讲座；白天大门关闭并不能说明晚上没有演出。",
+        "walk": "横穿玻利瓦尔公园，朝 Carrera 48 的54-20号走，在入口查看节目单，再步行前往胡宁街。",
+        "manager": "麦德林市政府支持利多剧院的文化项目，具体场次的入场方式由剧院说明。",
+        "question": "怎么知道今晚有无音乐会？",
+        "answer": "查看利多剧院节目表或到 Carrera 48 的54-20号入口询问。"
+      }
+    }
+  },
+  {
+    "slug": "casa-museo-gardeliana",
+    "name": "Casa Museo Gardeliana",
+    "source": "https://www.medellin.travel/casa-museo-gardeliana/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/Casa-Gardeliana-Cuadrado-640x640.jpg",
+    "photo": "/city/casa-museo-gardeliana.webp",
+    "locales": {
+      "es": {
+        "title": "Casa Museo Gardeliana",
+        "history": "La casa abrió en 1973 como espacio de canto y baile y asumió carácter de museo en 2002. La relación de Medellín con el tango se entiende mejor al distinguir la memoria de Carlos Gardel de la práctica local que sigue reuniendo a músicos y bailarines.",
+        "walk": "En Manrique sigue la carrera 45 hasta la entrada señalizada de la Casa Gardeliana. Empieza por la muestra y consulta si hay presentación antes de reservar la tarde.",
+        "manager": "La Casa Museo Gardeliana coordina la visita y su programación artística. Ver la exposición y asistir a un espectáculo son actividades distintas.",
+        "question": "¿Siempre hay bailarines durante la visita?",
+        "answer": "El museo y las presentaciones tienen horarios distintos; verifica la agenda."
+      },
+      "en": {
+        "title": "Gardeliana Tango Museum",
+        "history": "Opened for singing and dancing in 1973, the house became a museum in 2002. Its tribute to Carlos Gardel also tells a local story: tango continued to bring Medellín’s musicians and dancers together long after the singer’s lifetime.",
+        "walk": "In Manrique follow Carrera 45 to the marked Casa Gardeliana entrance. Visit the displays first and ask about a live performance before setting aside the evening.",
+        "manager": "Casa Museo Gardeliana coordinates visits and performances. The exhibition and the stage programme have separate arrangements.",
+        "question": "Are there dancers at every visit?",
+        "answer": "Museum visits and performances run on separate schedules; check the programme."
+      },
+      "zh": {
+        "title": "加德尔探戈博物馆",
+        "history": "这里1973年作为歌舞场所开放，2002年转为博物馆。展览纪念歌手卡洛斯·加德尔，也记录探戈怎样在歌手去世后继续联系麦德林本地的乐手与舞者。",
+        "walk": "在曼里克区沿 Carrera 45 找到故居博物馆标志，先参观陈列，再询问当日有无现场活动，以便安排晚间时间。",
+        "manager": "加德尔博物馆协调参访及演出，展览与现场节目的入场安排分别公布。",
+        "question": "到访就能看到舞者吗？",
+        "answer": "博物馆参观与演出分开安排，应先看当天节目。"
+      }
+    }
+  },
+  {
+    "slug": "alpujarra-y-monumento-a-la-raza",
+    "name": "Alpujarra, Monumento a la Raza y Antigua Estación del Ferrocarril",
+    "source": "https://www.medellin.travel/alpujarra-y-monumento-a-la-raza/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2022/06/Alpujarra-640x640.jpg",
+    "photo": "/city/alpujarra-y-monumento-a-la-raza.webp",
+    "locales": {
+      "es": {
+        "title": "Alpujarra, Monumento a la Raza y Antigua Estación del Ferrocarril",
+        "history": "En medio de las sedes de gobierno, las figuras del Monumento a la Raza de Rodrigo Arenas Betancur ascienden sobre una gran curva. El efecto cambia con la distancia: de cerca se ven los cuerpos individuales; desde el borde se comprende la forma completa.",
+        "walk": "Entra en la plazoleta desde el lado de la antigua estación. Acércate al pie del monumento y retrocede hacia el borde para comparar la silueta con las torres administrativas.",
+        "manager": "La Gobernación de Antioquia y la Alcaldía ocupan el complejo administrativo; los accesos institucionales tienen controles separados de la plaza.",
+        "question": "¿Dónde se ve toda la curva del monumento?",
+        "answer": "Desde el borde de la plazoleta, después de observar las figuras de cerca."
+      },
+      "en": {
+        "title": "La Alpujarra monument plaza",
+        "history": "Rodrigo Arenas Betancur’s Monumento a la Raza sweeps upward between government offices. Up close the groups resolve into individual bodies; step back to see the curve that organises the whole composition. The surrounding towers make its scale easier to read.",
+        "walk": "Enter the plaza from the old railway station side. Approach the base, then return to the edge to frame the monument against the administrative towers.",
+        "manager": "The Antioquia government and Medellín city offices occupy the complex. Entry to their buildings is controlled separately from the plaza.",
+        "question": "Where can I see the full curve of the monument?",
+        "answer": "Return to the plaza edge after viewing the figures up close."
+      },
+      "zh": {
+        "title": "拉阿尔普哈拉纪念雕塑广场",
+        "history": "罗德里戈·阿雷纳斯·贝坦库尔的纪念群雕在政府办公楼之间沿弧线向上延伸。靠近可辨单个人物，退到广场边缘才能看清整体轮廓，周围高楼也提供了尺度参照。",
+        "walk": "从老火车站一侧进入广场，到雕塑基座旁观察人物，再退到边缘把纪念碑与行政办公楼放在同一视野。",
+        "manager": "安蒂奥基亚省政府和麦德林市政府在此办公，行政楼通行检查与广场步行参观分别管理。",
+        "question": "哪里能看到群雕完整弧线？",
+        "answer": "近看人物后退至广场边缘。"
+      }
+    }
+  },
+  {
+    "slug": "museo-del-agua",
+    "name": "Museo del Agua",
+    "source": "https://www.medellin.travel/museo-del-agua/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/11/thumbnail-MUSEO-DEL-AGUA.jpg",
+    "photo": "/city/museo-del-agua.webp",
+    "locales": {
+      "es": {
+        "title": "Museo del Agua",
+        "history": "El recorrido del agua conecta fenómenos que ocurren en una gota con decisiones sobre el abastecimiento de Medellín. Las salas interactivas permiten comparar propiedades físicas con ecosistemas. Guarda tiempo para la parte sobre potabilización: devuelve la visita a la escala de la ciudad.",
+        "walk": "Desde el Parque de los Pies Descalzos busca la carrera 57, 42-139, frente al edificio de EPM. En recepción pregunta por el inicio del recorrido y la disponibilidad de las salas.",
+        "manager": "Fundación EPM gestiona el Museo del Agua. El acceso al parque contiguo y el ingreso al museo se organizan por separado.",
+        "question": "¿Está dentro del edificio de oficinas de EPM?",
+        "answer": "Su entrada está en el parque, frente a la sede administrativa."
+      },
+      "en": {
+        "title": "EPM Water Museum",
+        "history": "The water exhibits connect what happens in a single drop to questions about Medellín’s water supply. Interactive rooms move between physical properties and ecosystems. Allow time for drinking-water treatment, where the story comes back to the scale of the city.",
+        "walk": "From Parque de los Pies Descalzos find Carrera 57, 42-139, facing the EPM building. Ask reception where to start and which rooms are open.",
+        "manager": "Fundación EPM runs the Water Museum. The adjacent park and the museum have separate entry arrangements.",
+        "question": "Is the museum inside the EPM office tower?",
+        "answer": "Its entrance is at the park, facing the administrative building."
+      },
+      "zh": {
+        "title": "EPM 水博物馆",
+        "history": "展览从一滴水的物理性质讲到生态系统，再回到麦德林的供水问题。互动展厅适合边操作边比较，特别值得为净水主题留时间，了解自来水背后的城市设施。",
+        "walk": "从赤足公园走到 Carrera 57 的42-139号，面对 EPM 办公楼找到博物馆接待处，询问参观起点和当天开放展厅。",
+        "manager": "EPM 基金会管理水博物馆，公园和馆内展厅分别通行。",
+        "question": "入口在 EPM 办公楼里吗？",
+        "answer": "入口在公园内，面对 EPM 办公楼。"
+      }
+    }
+  },
+  {
+    "slug": "museo-de-ciudad",
+    "name": "Museo de Ciudad",
+    "source": "https://www.medellin.travel/museo-de-ciudad/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/museo-de-ciudad-2-640x640.jpg",
+    "photo": "/city/museo-de-ciudad.webp",
+    "locales": {
+      "es": {
+        "title": "Museo de Ciudad",
+        "history": "Una maqueta de Medellín da sentido a la ubicación del museo sobre el cerro. Desde 2011 el espacio presenta el desarrollo urbano mediante fotografía, arte y arquitectura. Compara primero la forma del valle en el modelo y luego los barrios que distingues desde el mirador.",
+        "walk": "Desde la plaza del Pueblito Paisa sigue la señal del Museo de Ciudad. Mira la maqueta antes de dirigirte al mirador para contrastar representación y paisaje.",
+        "manager": "La Fundación Casa Museo Pedro Nel Gómez dirige el museo. Consulta en su recepción las exposiciones disponibles.",
+        "question": "¿Conviene ver primero la maqueta o el mirador?",
+        "answer": "La maqueta primero permite reconocer después la forma del valle en el paisaje."
+      },
+      "en": {
+        "title": "Museo de Ciudad",
+        "history": "A scale model makes the most of the museum’s hilltop location. Founded in 2011, the museum interprets urban development through architecture, photographs and art. Look at the shape of the valley in the model, then pick out neighbourhoods from the viewpoint outside.",
+        "walk": "Follow the Museo de Ciudad sign from the square of Pueblito Paisa. Study the model before walking to the lookout to compare it with the actual valley.",
+        "manager": "Fundación Casa Museo Pedro Nel Gómez directs the museum. Ask reception about the exhibitions on view.",
+        "question": "Should I see the model or the lookout first?",
+        "answer": "Start with the model to recognise the valley’s shape outdoors."
+      },
+      "zh": {
+        "title": "山顶城市博物馆",
+        "history": "山顶位置让城市模型格外容易理解。博物馆创办于2011年，以建筑、照片和艺术展说明城市的发展。先看模型中山谷的形状，再到室外辨认刚才见过的街区。",
+        "walk": "从派萨小镇广场沿城市博物馆指示入内，看完模型后转到观景台，对照实际河谷与模型。",
+        "manager": "佩德罗·内尔·戈麦斯故居博物馆基金会负责运营，当期展览可向接待处查询。",
+        "question": "先看模型还是观景台？",
+        "answer": "先看模型，随后更容易在室外认出山谷轮廓。"
+      }
+    }
+  },
+  {
+    "slug": "parque-de-las-luces",
+    "name": "Parque de las Luces",
+    "source": "https://www.medellin.travel/parque-de-las-luces/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/Plaza-de-las-Luces1-640x640.jpg",
+    "photo": "/city/parque-de-las-luces.webp",
+    "locales": {
+      "es": {
+        "title": "Parque de las Luces",
+        "history": "La antigua plaza de mercado del sector de Guayaquil cambió de función después del incendio del mercado. Hoy la Plaza Cisneros se reconoce por unas 300 columnas: de día dibujan un bosque de sombras y hacia la noche cambia la relación entre el suelo y los fustes.",
+        "walk": "Empieza en el borde de la plaza frente a los edificios Carré y Vásquez. Atraviesa una hilera de columnas y mira atrás para situar aquellas fachadas entre los fustes.",
+        "manager": "La plaza forma parte del espacio público municipal. La iluminación depende del funcionamiento del sistema y no tiene entrada de espectáculo.",
+        "question": "¿Vale la pena ir durante el día?",
+        "answer": "La sombra de las columnas permite leer el trazado sin esperar el encendido."
+      },
+      "en": {
+        "title": "Parque de las Luces",
+        "history": "After fire destroyed the old market, Guayaquil’s trading square acquired a different use. Plaza Cisneros is now distinguished by roughly 300 columns. In daylight they cast a forest of shadows; after dusk the lighting changes how the shafts stand out against the ground.",
+        "walk": "Start at the edge facing the Carré and Vásquez buildings. Walk between a row of columns, then turn to frame the old façades between them.",
+        "manager": "The square belongs to the municipal public realm. The lighting depends on the installation’s operation and is not a ticketed performance.",
+        "question": "Is it worth visiting by day?",
+        "answer": "The columns cast shadows that reveal the layout without waiting for lighting."
+      },
+      "zh": {
+        "title": "灯光公园",
+        "history": "瓜亚基尔片区的旧市场毁于火灾后，西斯内罗斯广场转变了用途。约三百根灯柱白天投下树林般的阴影，入夜照明又改变了柱体与地面的视觉关系。",
+        "walk": "从面对卡雷与巴斯克斯大楼的一边入场，穿过一排灯柱，再回头从柱间看两栋老建筑。",
+        "manager": "广场由市政公共空间部门管理，灯光随设施运行，不设专场演出票。",
+        "question": "白天值得去吗？",
+        "answer": "白天可由灯柱投下的阴影观察排列方式，无需等到开灯。"
+      }
+    }
+  },
+  {
+    "slug": "plaza-botero",
+    "name": "Plaza de Botero",
+    "source": "https://www.medellin.travel/plaza-botero/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/10/Botero-1-640x640.jpg",
+    "photo": "/city/plaza-botero.webp",
+    "locales": {
+      "es": {
+        "title": "Plaza de Botero",
+        "history": "La donación de 2002 reunió en la plaza 23 bronces de Fernando Botero. Caminar entre las figuras revela espacios vacíos que una fotografía frontal oculta. Escoge un solo bronce y rodéalo antes de comparar su volumen con el de otra figura.",
+        "walk": "Desde Parque Berrío llega al costado del Palacio de la Cultura. Recorre la plaza hacia el Museo de Antioquia dejando los accesos libres y termina frente al museo.",
+        "manager": "El espacio exterior es público y municipal. El Museo de Antioquia controla por separado el acceso a sus salas.",
+        "question": "¿Cuál es una buena manera de comparar dos bronces?",
+        "answer": "Mira ambos desde la misma distancia y después camina a su alrededor."
+      },
+      "en": {
+        "title": "Botero Plaza",
+        "history": "Botero’s 2002 donation brought 23 bronzes together in the square. Walking around one figure reveals gaps and contours hidden in a frontal photograph. Compare two bronzes from the same distance before heading inside the museum.",
+        "walk": "From Parque Berrío approach the side of the cultural palace. Walk across the square toward Museo de Antioquia, keeping doorways clear, and finish at the museum frontage.",
+        "manager": "The outdoor square is municipal public space. Museo de Antioquia manages access to the indoor collection separately.",
+        "question": "How should I compare two bronzes?",
+        "answer": "View each from the same distance and then walk around both."
+      },
+      "zh": {
+        "title": "博特罗雕塑广场",
+        "history": "2002年的捐赠让费尔南多·博特罗的23件青铜雕塑在这里相聚。围绕一件作品走一圈，会发现正面照片掩盖的空隙与曲线，再从同样距离比较另一件作品的体量。",
+        "walk": "从贝里奥公园走向文化宫一侧，穿过广场朝安蒂奥基亚博物馆前进，在馆舍前结束行程，并保持各入口畅通。",
+        "manager": "露天广场属于市政公共空间，博物馆另行管理室内展览的入场。",
+        "question": "怎样比较两件青铜作品？",
+        "answer": "先从相同距离观察，再分别绕行。"
+      }
+    }
+  },
+  {
+    "slug": "area-cultural-banco-de-la-republica",
+    "name": "Área Cultural Banco de la República",
+    "source": "https://www.medellin.travel/area-cultural-banco-de-la-republica/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/museo-banco-de-la-republica-1-640x640.jpg",
+    "photo": "/city/area-cultural-banco-de-la-republica.webp",
+    "locales": {
+      "es": {
+        "title": "Área Cultural Banco de la República",
+        "history": "Una colección filatélica y una sala de exposiciones dan al banco otra función en el centro de Medellín. Una estampilla condensa imagen, emisión y circulación en unos centímetros: mira la fecha y el motivo antes de pasar a una obra de mayor formato.",
+        "walk": "En calle 50 busca el número 50-21. En la entrada pregunta por los pisos culturales y comprueba qué sala o actividad del auditorio está abierta al público.",
+        "manager": "El Banco de la República administra su área cultural, colecciones y programación. Los servicios bancarios tienen circuitos distintos.",
+        "question": "¿Tengo que hacer fila para un trámite bancario?",
+        "answer": "Pregunta por el área cultural en la entrada antes de ir al servicio bancario."
+      },
+      "en": {
+        "title": "Banco de la República Cultural Centre",
+        "history": "A philatelic collection and exhibition space give the central bank a second role in downtown Medellín. A stamp condenses an image, an issue date and a circulation history into a few centimetres. Read the date and design before moving on to a larger work.",
+        "walk": "Find Calle 50, number 50-21. At the entrance ask for the cultural floors and check which gallery or auditorium event admits visitors.",
+        "manager": "Banco de la República runs the collections and programme. Banking services follow separate procedures.",
+        "question": "Do I join the banking queue?",
+        "answer": "Ask for the cultural area at the entrance before entering the banking line."
+      },
+      "zh": {
+        "title": "共和国银行文化中心",
+        "history": "邮票藏品和艺术展厅让共和国银行在市中心兼具文化功能。邮票把图像、发行时间与流通历史压缩到方寸之间，可先辨认年代和图案，再与厅内较大的作品比较。",
+        "walk": "走到 Calle 50 的50-21号，进门先询问文化楼层，确认当天可参观的展厅或礼堂活动。",
+        "manager": "哥伦比亚共和国银行负责文化中心、藏品和活动，银行业务另有办理通道。",
+        "question": "需要排银行业务的队吗？",
+        "answer": "在入口先问文化中心接待位置，再决定去哪个通道。"
+      }
+    }
+  },
+  {
+    "slug": "museo-universitario-universidad-de-antioquia",
+    "name": "Museo Universitario Universidad de Antioquia (MUUA)",
+    "source": "https://www.medellin.travel/museo-universitario-universidad-de-antioquia/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/muua-1-640x640.jpg",
+    "photo": "/city/museo-universitario-universidad-de-antioquia.webp",
+    "locales": {
+      "es": {
+        "title": "Museo Universitario Universidad de Antioquia (MUUA)",
+        "history": "El museo universitario nació del encuentro de colecciones con historias distintas: ciencias naturales desde 1942 y antropología desde 1943, seguidas por artes visuales e historia. Elige dos salas y compara cómo se presenta una pieza natural frente a un objeto fabricado.",
+        "walk": "Desde la estación Universidad dirígete al acceso autorizado del campus. Consulta el control universitario y sigue la señalización del MUUA antes de elegir salas.",
+        "manager": "La Universidad de Antioquia administra el MUUA y controla los ingresos al campus. Lleva identificación y consulta la modalidad de visita.",
+        "question": "¿Se entra directamente desde el metro al museo?",
+        "answer": "Primero hay que pasar el acceso universitario y seguir las señales al MUUA."
+      },
+      "en": {
+        "title": "University of Antioquia Museum",
+        "history": "The university museum brings together collections with separate origins. Natural sciences began in 1942 and anthropology in 1943; art and history followed. Choose two galleries and compare the ways labels interpret a natural specimen and a human-made object.",
+        "walk": "From Universidad station walk to an authorised campus entrance. Check in at the university gate and follow signs for MUUA before choosing galleries.",
+        "manager": "Universidad de Antioquia manages the museum and campus access. Bring identification and check visitor procedures in advance.",
+        "question": "Is the museum directly accessible from the station?",
+        "answer": "Enter through the university visitor access first, then follow signs to MUUA."
+      },
+      "zh": {
+        "title": "安蒂奥基亚大学博物馆",
+        "history": "大学博物馆汇集了来源不同的藏品，自然科学收藏始于1942年，人类学收藏则始于1943年，之后又加入艺术和历史。可以选择两个展厅，比较自然标本与人工器物的标签如何解释展品。",
+        "walk": "从 Universidad 地铁站走到对外开放的校门，先按学校要求登记，再沿 MUUA 指示前往展厅。",
+        "manager": "安蒂奥基亚大学负责博物馆及校园通行，携带身份证件并在出发前向校方核实访客安排。",
+        "question": "地铁站能直接进馆吗？",
+        "answer": "先在大学访客入口办理手续，再沿 MUUA 指示走。"
+      }
+    }
+  },
+  {
+    "slug": "teatro-pablo-tobon-uribe",
+    "name": "Teatro Pablo Tobón Uribe",
+    "source": "https://www.medellin.travel/teatro-pablo-tobon-uribe/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/Pablo-Tango-Cuadrado-640x640.jpg",
+    "photo": "/city/teatro-pablo-tobon-uribe.webp",
+    "locales": {
+      "es": {
+        "title": "Teatro Pablo Tobón Uribe",
+        "history": "En el extremo de La Playa, el teatro proyectado por Nel Rodríguez da a la avenida un punto de llegada reconocible. Su programación estable desde 1967 incluye música y danza además de teatro. Para apreciar la relación con la avenida, observa el frente antes de entrar.",
+        "walk": "Sigue La Playa hacia el oriente hasta la fachada del teatro. Cruza por el paso peatonal y busca taquilla en carrera 40, 51-24.",
+        "manager": "El Teatro Pablo Tobón Uribe programa su escenario y regula el acceso a los espectáculos.",
+        "question": "¿Desde dónde se aprecia la relación con La Playa?",
+        "answer": "Desde el cruce frente al teatro se ve el edificio cerrando la perspectiva."
+      },
+      "en": {
+        "title": "Pablo Tobón Uribe Theatre",
+        "history": "At the eastern end of La Playa, Nel Rodríguez’s theatre gives the avenue a clear destination. Its ongoing programme dates to 1967 and includes music and dance as well as theatre. Stand back before entering to see how the frontage terminates the street view.",
+        "walk": "Follow La Playa east to the theatre frontage. Use the pedestrian crossing and find the box office at Carrera 40, 51-24.",
+        "manager": "Teatro Pablo Tobón Uribe programmes the stage and controls admission to performances.",
+        "question": "Where is the avenue view clearest?",
+        "answer": "From the crossing opposite the theatre you can see how it closes the view."
+      },
+      "zh": {
+        "title": "巴勃罗·托邦剧院",
+        "history": "内尔·罗德里格斯设计的剧院为拉普拉亚大道东端提供了醒目的视觉终点。自1967年起的演出传统也包括音乐与舞蹈，进门前适合先从街对面看建筑与大道的关系。",
+        "walk": "沿拉普拉亚大道向东走至剧院，使用行人过街处，转到 Carrera 40 的51-24号找票房。",
+        "manager": "剧院负责舞台节目及场次入场安排。",
+        "question": "哪里能看清剧院与大道的关系？",
+        "answer": "在剧院对面的过街处可见建筑正好位于大道视线尽端。"
+      }
+    }
+  },
+  {
+    "slug": "teatro-metropolitano-jose-gutierrez-gomez",
+    "name": "Teatro Metropolitano José Gutiérrez Gómez",
+    "source": "https://www.medellin.travel/teatro-metropolitano-jose-gutierrez-gomez/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/Metropolitano-Cuadrado-02-640x640.jpg",
+    "photo": "/city/teatro-metropolitano-jose-gutierrez-gomez.webp",
+    "locales": {
+      "es": {
+        "title": "Teatro Metropolitano José Gutiérrez Gómez",
+        "history": "Las hileras de ladrillo de la fachada de Óscar Mesa producen textura sin recurrir a una decoración recargada. Acércate para ver las juntas y retrocede para leer el volumen continuo. La sala recibe temporadas sinfónicas, ópera y danza, con montajes distintos de una visita a otra.",
+        "walk": "Desde Plaza Mayor ubica el Teatro Metropolitano y camina por la plazoleta hasta el frente de ladrillo. Para una función, localiza la puerta indicada en la entrada.",
+        "manager": "El Teatro Metropolitano José Gutiérrez Gómez organiza el acceso; las temporadas se consultan con la boletería del teatro.",
+        "question": "¿Qué detalle merece una segunda mirada?",
+        "answer": "Compara el dibujo de las juntas de ladrillo de cerca y desde la plazoleta."
+      },
+      "en": {
+        "title": "Metropolitan Theatre",
+        "history": "Rows of brick give Óscar Mesa’s façade texture without elaborate ornament. Step close to see the joints and back to read the building as a single volume. The hall hosts orchestral seasons, opera and dance, so its stage setting changes between visits.",
+        "walk": "From Plaza Mayor locate the Metropolitan Theatre and cross the forecourt to the brick frontage. For a performance, continue to the door indicated on your ticket.",
+        "manager": "Teatro Metropolitano José Gutiérrez Gómez controls admission. Consult its box office for the current season.",
+        "question": "Which detail deserves a second look?",
+        "answer": "Compare the brick joints close up and from the forecourt."
+      },
+      "zh": {
+        "title": "麦德林大都会剧院",
+        "history": "奥斯卡·梅萨用连续的砖层组织外立面，近看可以辨认砖缝，后退则能理解完整体量。剧院上演交响乐、歌剧和舞蹈，同一舞台会随演出改变布景。",
+        "walk": "从 Plaza Mayor 会展区找到大都会剧院，穿过前广场走到砖立面前；观看演出则按票面标注寻找对应入口。",
+        "manager": "大都会剧院负责入场和剧季安排，可向剧院票房查询。",
+        "question": "什么细节值得看两次？",
+        "answer": "近看砖缝排列，再从广场边缘看整个砖面。"
+      }
+    }
+  },
+  {
+    "slug": "teatro-prado-el-aguila-descalza",
+    "name": "Teatro Prado El Águila Descalza",
+    "source": "https://www.medellin.travel/teatro-prado-el-aguila-descalza/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/11/thumbnail-AGUILA-DESCALZA.jpg",
+    "photo": "/city/teatro-prado-el-aguila-descalza.webp",
+    "locales": {
+      "es": {
+        "title": "Teatro Prado El Águila Descalza",
+        "history": "El repertorio cómico de El Águila Descalza ocupa una mansión de Prado. Molduras de yeso, detalles dorados y zócalos de madera dan pistas sobre la casa anterior al escenario. Una entrada para una función no equivale a un recorrido por toda la vivienda.",
+        "walk": "Llega a la sede de Prado del Águila Descalza y verifica la sala en taquilla. Observa los acabados en las zonas abiertas antes de tomar asiento.",
+        "manager": "La compañía El Águila Descalza gestiona la sede y anuncia las funciones. Los espacios accesibles varían según la actividad.",
+        "question": "¿El acceso a una comedia incluye todas las salas históricas?",
+        "answer": "La compañía indica las zonas abiertas para cada función."
+      },
+      "en": {
+        "title": "Águila Descalza Theatre",
+        "history": "El Águila Descalza stages comedy in a Prado mansion. Plaster ceilings, gilded details and wooden skirting are clues to the house that preceded the stage. A performance ticket does not necessarily include a tour of the building.",
+        "walk": "Walk to the company’s Prado venue, confirm the room at the box office and examine the finishes in the public areas before taking your seat.",
+        "manager": "El Águila Descalza runs the venue and announces performances. Access to other rooms depends on the event.",
+        "question": "Does a comedy ticket include all the historic rooms?",
+        "answer": "The company indicates which rooms are open for each event."
+      },
+      "zh": {
+        "title": "赤足鹰普拉多剧院",
+        "history": "赤足鹰剧团在普拉多街区的一座宅邸演出喜剧。石膏天花、金色装饰和木质墙裙保留着舞台出现以前的住宅痕迹。持演出票并不一定可以参观整栋建筑。",
+        "walk": "步行至剧团的普拉多馆址，先到票房确认厅号，再利用入座前的时间在开放空间观察装饰细节。",
+        "manager": "赤足鹰剧团负责场地和演出，其他房间的参观范围依活动而定。",
+        "question": "喜剧演出票含全部历史房间吗？",
+        "answer": "每场开放的房间由剧团说明。"
+      }
+    }
+  },
+  {
+    "slug": "casa-teatro-el-poblado",
+    "name": "Casa Teatro El Poblado",
+    "source": "https://www.medellin.travel/casa-teatro-el-poblado/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/Casa-teatro1-640x640.jpg",
+    "photo": "/city/casa-teatro-el-poblado.webp",
+    "locales": {
+      "es": {
+        "title": "Casa Teatro El Poblado",
+        "history": "La escala de esta casa cultural favorece el encuentro con propuestas independientes. Música, artes visuales y teatro comparten programación; por ello el espacio que se ve una noche de concierto puede funcionar de otro modo al día siguiente. Lee la ficha de la actividad antes de escoger fecha.",
+        "walk": "Navega al recinto Casa Teatro El Poblado y llega primero al acceso de espectadores. Consulta la sala o el patio asignado en lugar de seguir a quienes entran a un taller.",
+        "manager": "Casa Teatro El Poblado coordina su agenda y la atención de públicos. Los talleres y funciones tienen inscripciones propias.",
+        "question": "¿La misma entrada sirve para taller y espectáculo?",
+        "answer": "Verifica con la casa la reserva específica de cada actividad."
+      },
+      "en": {
+        "title": "Casa Teatro El Poblado",
+        "history": "The intimate scale of this cultural house suits independent productions. Music, exhibitions and theatre share the programme, so a space used for a concert one night can function differently the next day. Read the event listing before choosing a date.",
+        "walk": "Navigate to Casa Teatro El Poblado and start at the audience entrance. Ask which room or courtyard hosts your event rather than following a workshop group.",
+        "manager": "Casa Teatro El Poblado runs the programme and visitor services. Workshops and performances have separate booking arrangements.",
+        "question": "Does one booking cover a workshop and a show?",
+        "answer": "Check the specific booking for each activity with the venue."
+      },
+      "zh": {
+        "title": "埃尔波夫拉多剧场之家",
+        "history": "这座小型文化场所为独立创作提供舞台，音乐、展览与戏剧共用节目表，同一空间在不同日期可能有完全不同的用途。决定出行日期前应先看具体活动说明。",
+        "walk": "按 Casa Teatro El Poblado 全名导航，到观众入口后询问当天使用的厅或庭院，留意工作坊学员可能使用另一通道。",
+        "manager": "剧场之家负责活动日历与接待，演出和工作坊分别报名。",
+        "question": "工作坊和演出使用同一预约吗？",
+        "answer": "请向剧场分别核实两项活动的预约。"
+      }
+    }
+  },
+  {
+    "slug": "parque-explora-2",
+    "name": "Parque Explora",
+    "source": "https://www.medellin.travel/parque-explora-2/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/IMAGEN-DESTACADA-PARQUE-EXPLORA-MEDELLIN-TRAVEL-640x640.jpg",
+    "photo": "/city/parque-explora-2.webp",
+    "locales": {
+      "es": {
+        "title": "Parque Explora",
+        "history": "Cuatro volúmenes rojos anuncian el museo de ciencias antes de llegar a su entrada. En vez de intentar completar cada estación interactiva, escoge una pregunta y prueba cómo cambia el resultado al repetir el experimento. Deja un bloque aparte para el acuario.",
+        "walk": "Desde la estación Universidad mira hacia los pabellones rojos, sigue el acceso de visitantes y consulta el plano antes de repartir el tiempo entre salas y acuario.",
+        "manager": "La Corporación Parque Explora gestiona el parque y define acceso, aforo y funcionamiento de las experiencias.",
+        "question": "¿Cómo reconozco el museo al salir del metro?",
+        "answer": "Busca los pabellones rojos desde la estación Universidad."
+      },
+      "en": {
+        "title": "Parque Explora",
+        "history": "Four red volumes make the science museum visible before you reach its entrance. Choose an experiment and repeat it with one changed variable instead of rushing through every station. Leave a separate block of time for the aquarium.",
+        "walk": "From Universidad station look for the red pavilions, follow the visitor entrance and consult the site plan before dividing time between the galleries and aquarium.",
+        "manager": "Corporación Parque Explora manages the park, admissions, capacity and operation of the exhibits.",
+        "question": "How do I recognise the site from the metro?",
+        "answer": "Look for the red pavilions from Universidad station."
+      },
+      "zh": {
+        "title": "探索科学公园",
+        "history": "四个红色体块让人尚未抵达入口就能辨认科学公园。在互动展项前可以选定一个问题，改变一项条件后再试一次；参观水族馆则值得单独留出时间。",
+        "walk": "从 Universidad 地铁站朝红色展馆走，循游客入口入内，先看平面图再决定互动展厅和水族馆的顺序。",
+        "manager": "探索公园机构负责运营，入场、容量与展项运行按馆方安排。",
+        "question": "从地铁出口怎么认路？",
+        "answer": "从 Universidad 站寻找醒目的红色展馆。"
+      }
+    }
+  },
+  {
+    "slug": "edificio-vasquez",
+    "name": "Edificio Vásquez",
+    "source": "https://www.medellin.travel/edificio-vasquez/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/Vasquez1-640x640.jpg",
+    "photo": "/city/edificio-vasquez.webp",
+    "locales": {
+      "es": {
+        "title": "Edificio Vásquez",
+        "history": "El edificio de 1906 se relaciona visualmente con los secaderos de café de las haciendas antioqueñas. La restauración de Comfama permitió nuevos usos culturales. Desde la plaza compara su fachada con la del Carré, parecida en ritmo pero perteneciente a otro edificio.",
+        "walk": "Desde las columnas de Plaza Cisneros acércate al frente del Vásquez y localiza su nombre. Camina hacia una esquina para ver la profundidad de los cuerpos antes de mirar el Carré.",
+        "manager": "Comfama participó en la restauración; las actividades interiores se consultan con la recepción de la sede. La observación desde la plaza es independiente.",
+        "question": "¿Es el mismo edificio que el Carré?",
+        "answer": "Son inmuebles distintos. Identifica los nombres en el borde de Plaza Cisneros."
+      },
+      "en": {
+        "title": "Vásquez Building",
+        "history": "Built in 1906, the Vásquez evokes the drying structures of Antioquia’s coffee estates. Restoration by Comfama made new cultural uses possible. From the square compare its façade rhythm with that of the Carré, a separate building often mistaken for its twin.",
+        "walk": "From the columns of Plaza Cisneros walk to the named Vásquez frontage. Continue to a corner to see the depth of its volumes before comparing the Carré.",
+        "manager": "Comfama took part in the restoration. Ask the venue reception about indoor activities; exterior viewing from the square is separate.",
+        "question": "Is this the Carré Building?",
+        "answer": "They are separate buildings. Look for the names along Plaza Cisneros."
+      },
+      "zh": {
+        "title": "巴斯克斯大楼",
+        "history": "1906年落成的巴斯克斯大楼让人联想到安蒂奥基亚咖啡庄园的晾晒设施。Comfama 参与修复后建筑承担了新的文化用途。从广场可将其立面节奏与另一栋独立的卡雷大楼比较。",
+        "walk": "从西斯内罗斯广场灯柱区走向有巴斯克斯名称标识的立面，再绕至转角观察建筑纵深，最后回望卡雷楼。",
+        "manager": "Comfama 参与建筑修复，室内活动向场地接待处查询，从公共广场看外观可单独安排。",
+        "question": "它与卡雷楼是同一栋吗？",
+        "answer": "是两座独立建筑，可在广场边核对楼名。"
+      }
+    }
+  },
+  {
+    "slug": "museo-el-castillo",
+    "name": "Museo El Castillo",
+    "source": "https://www.medellin.travel/museo-el-castillo/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/museo-el-castillo-640x640.jpg",
+    "photo": "/city/museo-el-castillo.webp",
+    "locales": {
+      "es": {
+        "title": "Museo El Castillo",
+        "history": "El aspecto de castillo francés pertenece a una residencia del siglo XX: el edificio se levantó en 1930 y abrió como museo en 1971. La colección doméstica de porcelanas, cristal y tapices se entiende mejor después de observar cómo los jardines organizan la aproximación a la casa.",
+        "walk": "Desde la portería del Museo El Castillo sigue el acceso indicado al jardín y consulta en recepción las visitas al interior. Reserva el tramo final para volver por los jardines.",
+        "manager": "El Museo El Castillo gestiona colección, jardín y visitas. Las condiciones del jardín y del recorrido interior pueden diferir.",
+        "question": "¿Se puede combinar jardín y colección?",
+        "answer": "Pregunta en la portería por la modalidad que incluya ambos recorridos."
+      },
+      "en": {
+        "title": "El Castillo Museum",
+        "history": "Despite its French château appearance, this was a twentieth-century residence, built in 1930 and opened as a museum in 1971. The domestic collection includes porcelain, glass and tapestries. Notice how the gardens stage the approach to the house before viewing the rooms.",
+        "walk": "At the museum gate follow the designated garden approach and ask reception about interior tours. Leave time at the end to return through the gardens.",
+        "manager": "Museo El Castillo manages the collection, grounds and tours. Garden access and an interior visit can have different conditions.",
+        "question": "Can I combine the garden and collection?",
+        "answer": "Ask at the gate which admission option includes both routes."
+      },
+      "zh": {
+        "title": "城堡博物馆",
+        "history": "外观虽似法国城堡，建筑实为1930年兴建的近代宅邸，1971年作为博物馆开放。内部收藏瓷器、玻璃器与挂毯。走近主楼之前先看花园如何组织入场视线，有助于理解宅邸的原有生活场景。",
+        "walk": "从城堡博物馆门岗按指定路线穿过花园，在接待处询问室内参观安排，结束后留时间步行返回。",
+        "manager": "城堡博物馆管理藏品、园地与导览，花园与室内参访的条件可能不同。",
+        "question": "可以一起参观花园和馆藏吗？",
+        "answer": "在门岗询问包含两条路线的入场方式。"
+      }
+    }
+  },
+  {
+    "slug": "palacio-de-la-cultura-rafael-uribe-uribe",
+    "name": "Palacio de la Cultura Rafael Uribe Uribe",
+    "source": "https://www.medellin.travel/palacio-de-la-cultura-rafael-uribe-uribe/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/palacio-de-la-cultura-1-640x640.jpg",
+    "photo": "/city/palacio-de-la-cultura-rafael-uribe-uribe.webp",
+    "locales": {
+      "es": {
+        "title": "Palacio de la Cultura Rafael Uribe Uribe",
+        "history": "La fachada ajedrezada domina un lado de Plaza Botero. Dentro, el antiguo edificio administrativo aloja servicios departamentales que van mucho más allá de una exposición temporal: biblioteca, fonoteca y archivo histórico tienen consultas y ritmos diferentes.",
+        "walk": "Desde Plaza Botero bordea el palacio hasta el acceso público indicado. Pregunta en recepción por una galería o por la fonoteca antes de pasar de una dependencia a otra.",
+        "manager": "El Instituto de Cultura y Patrimonio de Antioquia tiene aquí su sede y organiza los espacios culturales. El archivo aplica sus propios procedimientos de consulta.",
+        "question": "¿Una visita a la galería sirve para consultar el archivo?",
+        "answer": "No necesariamente: solicita al archivo sus condiciones de consulta."
+      },
+      "en": {
+        "title": "Rafael Uribe Uribe Cultural Palace",
+        "history": "The chequered façade dominates one side of Plaza Botero. Inside, the former administrative building serves several distinct purposes: the departmental library, sound archive and historical archive each have their own visiting arrangements beyond temporary exhibitions.",
+        "walk": "Follow the palace frontage from Plaza Botero to the signed public entrance. Ask reception for the gallery or sound archive before moving between departments.",
+        "manager": "Instituto de Cultura y Patrimonio de Antioquia is based here and manages the cultural spaces. Archive research follows separate procedures.",
+        "question": "Does gallery entry include archive research?",
+        "answer": "Ask the historical archive separately about reader access."
+      },
+      "zh": {
+        "title": "拉斐尔·乌里韦·乌里韦文化宫",
+        "history": "棋盘格状的外墙占据博特罗广场一侧。原行政建筑内部除临展外还有省级图书馆、声音资料馆与历史档案馆，各自的查阅方式和接待安排有所不同。",
+        "walk": "从博特罗广场沿外墙寻找标示的公共入口，在接待处询问展厅或声音资料馆位置，再按指示前往。",
+        "manager": "安蒂奥基亚文化与遗产研究所设于此并组织文化空间，档案查阅另有手续。",
+        "question": "参观展览即可查档案吗？",
+        "answer": "历史档案馆有独立的查阅手续，需另外询问。"
+      }
+    }
+  },
+  {
+    "slug": "edificio-carre",
+    "name": "Edificio Carré",
+    "source": "https://www.medellin.travel/edificio-carre/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/07/Carre1-640x640.jpg",
+    "photo": "/city/edificio-carre.webp",
+    "locales": {
+      "es": {
+        "title": "Edificio Carré",
+        "history": "Cuatro pisos de adobe elevaron este edificio sobre la ciudad de finales del siglo XIX. Charles Émile Carré dio nombre a una obra que pasó por usos comerciales y hoteleros antes de alojar dependencias educativas. Desde la esquina se aprecia mejor la altura que desde el umbral.",
+        "walk": "Llega por Plaza Cisneros y busca el frente de la carrera 52. Identifica la sede de Educación para distinguirla del vecino Vásquez; vuelve unos pasos para ver las cuatro plantas.",
+        "manager": "La Alcaldía restauró el inmueble y la Secretaría de Educación lo utiliza. El acceso a oficinas se rige por los trámites de la entidad.",
+        "question": "¿Es un hotel en funcionamiento?",
+        "answer": "El uso hotelero es histórico; hoy se identifica con la Secretaría de Educación."
+      },
+      "en": {
+        "title": "Carré Building",
+        "history": "Four storeys of adobe made this building prominent in late nineteenth-century Medellín. Named for Charles Émile Carré, it served commerce and lodging before becoming education offices. A corner viewpoint reveals its height more clearly than the doorstep.",
+        "walk": "Approach from Plaza Cisneros and find the Carrera 52 frontage. The education offices distinguish it from the neighbouring Vásquez; step back to see all four floors.",
+        "manager": "The city restored the building and its education secretariat uses it. Office access follows the agency’s administrative procedures.",
+        "question": "Is it still a hotel?",
+        "answer": "Hotel use is historical; the building now houses education offices."
+      },
+      "zh": {
+        "title": "卡雷大楼",
+        "history": "十九世纪末，这座四层土坯建筑已是城中显眼的高楼。楼名来自建筑师夏尔·埃米尔·卡雷，曾有商业、旅馆等用途，如今用于教育行政。从转角比站在门口更能看出楼层高度。",
+        "walk": "从西斯内罗斯广场走到 Carrera 52 一侧，利用教育部门标识与旁边巴斯克斯大楼区分，再退后观察四层立面。",
+        "manager": "市政府修复大楼，现由教育部门使用，办公区按行政办事流程出入。",
+        "question": "现在还经营旅馆吗？",
+        "answer": "旅馆属于历史用途，现在是教育部门办公地点。"
+      }
+    }
+  },
+  {
+    "slug": "salon-malaga",
+    "name": "Salón Málaga",
+    "source": "https://www.medellin.travel/salon-malaga/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2020/11/thumbnaiL-SALON-MALAGA.jpg",
+    "photo": "/city/salon-malaga.webp",
+    "locales": {
+      "es": {
+        "title": "Salón Málaga",
+        "history": "El Salón Málaga conserva una memoria musical que no cabe solo en los discos. Las fotografías de intérpretes y visitantes convierten las paredes en archivo de una tertulia; la pista y las mesas explican cómo se escucha y se baila el tango en el mismo lugar.",
+        "walk": "Desde la estación San Antonio busca la entrada señalizada de Salón Málaga. Pregunta por una mesa y recorre con la vista las fotografías sin invadir la pista o el servicio.",
+        "manager": "La administración del Salón Málaga gestiona el café y su programación musical. Ver las fotos durante una visita no garantiza una actuación en vivo.",
+        "question": "¿Se puede fotografiar una pareja bailando?",
+        "answer": "Pregunta antes a los bailarines y al personal, sin ocupar la pista."
+      },
+      "en": {
+        "title": "Salón Málaga Tango Café",
+        "history": "The café’s musical memory extends beyond records. Photographs of performers and visitors turn the walls into an archive of conversation, while the tables and dance floor show how listening and dancing share a room. Check the programme if a live performance matters to you.",
+        "walk": "From San Antonio station find the signed Salón Málaga entrance. Ask for a table and look along the photo walls without blocking the dance floor or service routes.",
+        "manager": "The Salón Málaga administration runs the café and music programme. A visit to see the photographs does not guarantee live music.",
+        "question": "Can I photograph a dancing couple?",
+        "answer": "Ask the dancers and staff first and keep off the dance floor."
+      },
+      "zh": {
+        "title": "马拉加探戈咖啡馆",
+        "history": "墙上表演者和来访者的照片记录了音乐聚会的历史，桌席和舞池则展示出听探戈与跳探戈怎样共用一个空间。若专程为现场演出而来，要先查当日节目。",
+        "walk": "从圣安东尼奥站走到有 Salón Málaga 标牌的入口，先询问座位，再观察照片墙，给舞池和服务通道留出空间。",
+        "manager": "马拉加咖啡馆经营方负责餐饮和音乐节目，普通到店参观不代表一定有现场表演。",
+        "question": "能拍正在跳舞的来客吗？",
+        "answer": "先询问舞者及现场工作人员，并给舞池留出空间。"
+      }
+    }
+  },
+  {
+    "slug": "antigua-estacion-del-ferrocarril-de-antioquia",
+    "name": "Antigua estación del ferrocarril de Antioquia",
+    "source": "https://www.medellin.travel/antigua-estacion-del-ferrocarril-de-antioquia/",
+    "photoSource": "https://www.medellin.travel/wp-content/uploads/2022/06/Ferrocarril-640x640.jpg",
+    "photo": "/city/antigua-estacion-del-ferrocarril-de-antioquia.webp",
+    "locales": {
+      "es": {
+        "title": "Antigua estación del ferrocarril de Antioquia",
+        "history": "La estación, construida entre 1907 y 1914, fue un puerto seco para café, carbón y maquinaria. Su composición neoclásica ayuda a reconocer un edificio de representación en medio de un conjunto que también era industrial. La visita es patrimonial, no una salida en tren.",
+        "walk": "Desde el monumento de La Alpujarra camina hasta la fachada de la antigua estación. Recorre el frente y consulta en el acceso qué partes del conjunto están habilitadas.",
+        "manager": "La Fundación Ferrocarril de Antioquia trabaja en la conservación del patrimonio ferroviario. Las oficinas y locales dentro del conjunto regulan sus accesos.",
+        "question": "¿Salen trenes de pasajeros desde aquí?",
+        "answer": "El recorrido visita la antigua estación como patrimonio, no un andén de salidas."
+      },
+      "en": {
+        "title": "Former Antioquia Railway Station",
+        "history": "Built between 1907 and 1914, the station served as an inland port for coffee, coal and machinery. Its neoclassical frontage gave a public face to an industrial complex. Come to read the railway history rather than expecting a passenger departure.",
+        "walk": "Walk from the monument at La Alpujarra to the old station frontage. Follow the façade and ask at the entrance which parts of the complex can be visited.",
+        "manager": "Fundación Ferrocarril de Antioquia works to conserve railway heritage. Offices and businesses within the complex control their own access.",
+        "question": "Do passenger trains leave from here?",
+        "answer": "The visit is to the historic station, not a live departure platform."
+      },
+      "zh": {
+        "title": "安蒂奥基亚铁路老车站",
+        "history": "车站建于1907至1914年，曾是装卸咖啡、煤炭和机器的内陆港。新古典主义正面让工业设施拥有面向城市的公共形象。今天到这里主要是了解铁路遗产。",
+        "walk": "从拉阿尔普哈拉纪念群雕步行至旧站正面，沿立面走到入口，询问建筑群内哪些部分开放。",
+        "manager": "安蒂奥基亚铁路基金会参与铁路遗产保护，楼内办公室与商户分别管理出入。",
+        "question": "可以在这里乘客运列车吗？",
+        "answer": "这里参观的是历史车站，并非现行列车出发站台。"
+      }
+    }
+  }
+]

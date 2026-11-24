@@ -1,4 +1,5 @@
 import { setRequestLocale } from 'next-intl/server';
+import {guides, labels, type GuideLocale} from '@/lib/city-guides';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import BasicInfo from '@/components/BasicInfo';
@@ -56,6 +57,12 @@ export default async function HomePage({
         <Stewardship />
         <Gallery />
         <FaqSection />
+        <section id="nearby" className="section-padding"><div className="max-w-6xl mx-auto">
+          <h2 className="font-display text-3xl sm:text-4xl font-semibold mb-6">{labels[locale as GuideLocale].nearby}</h2>
+          <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{guides.map(p => <li key={p.slug}>
+            <a className="block rounded-xl border p-4 hover:underline" style={{background:'var(--card-bg)', borderColor:'var(--border-color)'}} href={'/'+locale+'/nearby/'+p.slug}>{p.locales[locale as GuideLocale].title}</a>
+          </li>)}</ul>
+        </div></section>
         <SourcesSection />
         <MapEmbed />
       </main>

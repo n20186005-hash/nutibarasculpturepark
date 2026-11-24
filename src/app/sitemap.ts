@@ -1,4 +1,5 @@
 import { MetadataRoute } from 'next';
+import {guides} from '@/lib/city-guides';
 import { getBaseUrl } from '@/lib/env';
 
 export const dynamic = 'force-static';
@@ -6,8 +7,6 @@ export const dynamic = 'force-static';
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = getBaseUrl();
 
-  // Only the three canonical visitor-guide homepages are submitted. Legal and
-  // cookie pages are intentionally excluded (they carry noindex,follow).
   const locales = ['es', 'en', 'zh'];
 
   const sitemap: MetadataRoute.Sitemap = locales.map((locale) => ({
@@ -25,5 +24,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   }));
 
+  for (const {slug} of guides) {
+    const path = '/nearby/' + slug;
+    const languages = Object.fromEntries(locales.map(l => [l, baseUrl + '/' + l + path]));
+    for (const locale of locales) sitemap.push({url: languages[locale], alternates: {languages: {...languages, 'x-default': languages.es}}});
+  }
   return sitemap;
 }

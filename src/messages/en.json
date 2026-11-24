@@ -4,6 +4,7 @@
     "description": "Plan your visit to Cerro Nutibara Sculpture Park in Medellín: opening hours, free entry, directions, Pueblito Paisa, viewpoints and the 10 outdoor artworks."
   },
   "header": {
+    "nearby": "Nearby places",
     "siteName": "Cerro de Nutibara",
     "home": "Home",
     "gallery": "Gallery",
@@ -139,7 +140,7 @@
     "facilities": "Facilities",
     "facilitiesValue": "Nearby public restrooms, restaurants and parking",
     "hours": "Opening Hours",
-    "hoursValue": "Daily 08:00–22:00",
+    "hoursValue": "Check city notices; access varies by area.",
     "rating": "Rating",
     "ratingValue": "4.6 / 5.0 (based on 5,917 reviews)",
     "location": "Location",
@@ -147,18 +148,18 @@
   },
   "hours": {
     "title": "Cerro Nutibara & Sculpture Park Opening Hours",
-    "intro": "Regular hours: daily, 08:00–22:00. Entry: free.",
-    "lastUpdated": "Last updated: October 2026",
-    "outdoor": "Business Hours",
-    "outdoorTime": "08:00–22:00",
+    "intro": "The hill, sculpture trail and cultural venues may have different opening hours. Check city notices before you go. General access to the public space is free; individual venues may have their own admission arrangements.",
+    "lastUpdated": "Sources checked: November 20, 2026",
+    "outdoor": "Hill and sculpture trail access",
+    "outdoorTime": "Check Medellín city notices and signs at each entrance.",
     "lighthouse": "Best Visiting Time",
     "summer": "Evening hours",
-    "summerTime": "(Depends on weather and season, please refer to Google Maps)",
+    "summerTime": "For a walk or photos, go in daylight and check weather and access before setting out.",
     "winter": "Notes",
     "winterTime": "Bring sunscreen, camera and plenty of water",
     "warning": "💡 Dynamic Weather Tip",
     "warningTime": "Medellín has a pleasant climate, perfect for outdoor visits. We recommend bringing sunscreen and plenty of water.",
-    "tip": "There are many local snack stalls and restaurants near the park, where you can taste authentic Colombian cuisine."
+    "tip": "Museo de Ciudad: the operator lists 10:00–18:00 on weekdays and 09:00–19:00 on Saturdays, Sundays and public holidays. Confirm hours with the museum before visiting."
   },
   "tickets": {
     "title": "Important Information",
@@ -322,7 +323,7 @@
       },
       {
         "question": "What are the opening hours of Cerro de Nutibara Sculpture Park?",
-        "answer": "The park is generally open daily from approximately 08:00 to 22:00. Hours may vary by season and weather, so please check Google Maps before your visit."
+        "answer": "Access and opening hours can vary by area. The sculpture trail and Museo de Ciudad have separate arrangements. Check city notices for hill access and confirm museum hours with its operator, Fundación Casa Museo Pedro Nel Gómez."
       },
       {
         "question": "How do I get to Cerro de Nutibara Sculpture Park?",
@@ -353,6 +354,16 @@
     "portalUrl": "https://www.medellin.travel/",
     "introTail": ".",
     "items": [
+      {
+        "name": "City of Medellín: overall management of Cerro Nutibara",
+        "url": "https://www.medellin.gov.co/es/sala-de-prensa/noticias/con-90-especies-de-flora-y-150-de-fauna-identificadas-el-cerro-nutibara-se-consolida-como-pulmon-verde-de-medellin/",
+        "description": "Identifies Corporación Parque Arví as the hill’s overall manager."
+      },
+      {
+        "name": "Museo de Ciudad: operator’s hours",
+        "url": "https://museopedronelgomez.org/museo-de-ciudad/",
+        "description": "Museo de Ciudad: the operator lists 10:00–18:00 on weekdays and 09:00–19:00 on Saturdays, Sundays and public holidays. Confirm hours with the museum before visiting."
+      },
       {
         "name": "Alcaldía de Medellín - Cerro Nutibara",
         "url": "https://www.medellin.gov.co/es/secretaria-medio-ambiente/medellin-biodiversa/cerro-nutibara/",
@@ -872,7 +883,7 @@
   },
   "about": {
     "title": "About Cerro de Nutibara Sculpture Park",
-    "description": "Welcome to **Cerro de Nutibara Sculpture Park**, widely recognized as the central **Cerro Nutibara**. Located in the heart of **Medellín**, **Antioquia**, **Colombia**, this destination serves as a primary hub for travelers visiting the region. As one of the city's largest \"green islands,\" it not only preserves rich ecological resources but is also globally renowned for the Pueblito Paisa replica town and the open-air sculpture park at its summit. As a public asset, the attraction is currently managed and maintained by the **Medellín City Government (Alcaldía de Medellín)**, dedicated to providing a free and open space for natural recreation and cultural education for both locals and international visitors."
+    "description": "Welcome to **Cerro de Nutibara Sculpture Park**, widely recognized as the central **Cerro Nutibara**. Located in the heart of **Medellín**, **Antioquia**, **Colombia**, this destination serves as a primary hub for travelers visiting the region. As one of the city's largest \"green islands,\" it not only preserves rich ecological resources but is also globally renowned for the Pueblito Paisa replica town and the open-air sculpture park at its summit. Cerro Nutibara is a public space. The City of Medellín has entrusted overall management of the hill to Corporación Parque Arví. The Museo de Ciudad is run by Fundación Casa Museo Pedro Nel Gómez."
   },
   "sculptures": {
     "title": "The Sculpture Park's 10 Artworks on Cerro Nutibara",

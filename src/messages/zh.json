@@ -4,6 +4,7 @@
     "description": "在麦德林 Cerro Nutibara 上探索 10 座国际知名艺术家的露天雕塑：免费入园、开放时间、地图导览与游玩贴士，紧邻 Pueblito Paisa。"
   },
   "header": {
+    "nearby": "周边景点",
     "siteName": "Cerro de Nutibara",
     "home": "首页",
     "gallery": "图库",
@@ -139,7 +140,7 @@
     "facilities": "实用设施",
     "facilitiesValue": "附近有公共卫生间、餐厅和停车场",
     "hours": "营业时间",
-    "hoursValue": "每日 08:00–22:00",
+    "hoursValue": "各区域通行安排不同，请查看市政府公告。",
     "rating": "游客评分",
     "ratingValue": "4.6 / 5.0 (基于 5,917 条评价)",
     "location": "地理位置",
@@ -147,18 +148,18 @@
   },
   "hours": {
     "title": "Cerro Nutibara 与雕塑公园开放时间",
-    "intro": "常规开放时间：每日 08:00–22:00。门票：免费。",
-    "lastUpdated": "最后更新：2026 年 10 月",
-    "outdoor": "营业时间",
-    "outdoorTime": "08:00–22:00",
+    "intro": "努蒂巴拉山、雕塑步道和文化场馆不一定采用相同的开放时间。出发前请查看麦德林市政府公告。公共空间免费开放，各场馆可能有单独的入场安排。",
+    "lastUpdated": "来源核对日期：2026 年 11 月 20 日",
+    "outdoor": "努蒂巴拉山与雕塑步道通行",
+    "outdoorTime": "请查看麦德林市政府公告及各入口现场标识。",
     "lighthouse": "最佳游览时间",
     "summer": "傍晚时分",
-    "summerTime": "（具体视天气和季节而定，建议参考 Google Maps 数据）",
+    "summerTime": "步行或拍照宜选白天，出发前请确认天气和通行情况。",
     "winter": "注意事项",
     "winterTime": "携带防晒用品、相机和充足的水",
     "warning": "💡 动态天气提示",
     "warningTime": "麦德林气候宜人，非常适合户外游览，建议携带防晒用品和充足的饮用水。",
-    "tip": "公园附近有许多当地小吃摊和餐厅，可以品尝 authentic 的哥伦比亚美食。"
+    "tip": "城市博物馆运营方公布的开放时间：周一至周五 10:00–18:00，周六、周日及公共假日 09:00–19:00。出行前请向博物馆核实。"
   },
   "tickets": {
     "title": "注意事项",
@@ -322,7 +323,7 @@
       },
       {
         "question": "Cerro de Nutibara Sculpture Park 的开放时间是？",
-        "answer": "公园通常每日 08:00–22:00 左右开放。具体时间可能随季节和天气调整，出行前请参考 Google Maps 上的实时信息。"
+        "answer": "各区域的开放时间和通行安排可能不同。雕塑步道和麦德林城市博物馆的安排并不相同。山丘通行请查看市政府公告，博物馆时间请向运营方 Fundación Casa Museo Pedro Nel Gómez 核实。"
       },
       {
         "question": "如何前往 Cerro de Nutibara Sculpture Park？",
@@ -353,6 +354,16 @@
     "portalUrl": "https://www.medellin.travel/",
     "introTail": "。",
     "items": [
+      {
+        "name": "麦德林市政府：努蒂巴拉山综合管理",
+        "url": "https://www.medellin.gov.co/es/sala-de-prensa/noticias/con-90-especies-de-flora-y-150-de-fauna-identificadas-el-cerro-nutibara-se-consolida-como-pulmon-verde-de-medellin/",
+        "description": "说明 Corporación Parque Arví 负责山丘的综合管理。"
+      },
+      {
+        "name": "麦德林城市博物馆：运营方开放时间",
+        "url": "https://museopedronelgomez.org/museo-de-ciudad/",
+        "description": "城市博物馆运营方公布的开放时间：周一至周五 10:00–18:00，周六、周日及公共假日 09:00–19:00。出行前请向博物馆核实。"
+      },
       {
         "name": "麦德林市政府 - Cerro Nutibara 专页",
         "url": "https://www.medellin.gov.co/es/secretaria-medio-ambiente/medellin-biodiversa/cerro-nutibara/",
@@ -872,7 +883,7 @@
   },
   "about": {
     "title": "关于 Cerro de Nutibara 雕塑公园",
-    "description": "欢迎来到 **Cerro de Nutibara Sculpture Park（努蒂巴拉山雕塑公园）**，这里被广泛视为核心的 **努蒂巴拉山（Cerro Nutibara）**。它位于**哥伦比亚** **安蒂奥基亚省** **麦德林市**的中心地带，是旅行者造访该地区的主要目的地。作为城市中最大的一块“绿色孤岛”，它不仅承载着丰富的生态资源，更以其山顶的 Pueblito Paisa（派萨小镇）和露天雕塑公园闻名于世。该景点作为公共资产，目前由**麦德林市政府（Alcaldía de Medellín）**统一管理与维护，致力于为市民和全球游客提供免费、开放的自然休闲与文化教育空间。"
+    "description": "欢迎来到 **Cerro de Nutibara Sculpture Park（努蒂巴拉山雕塑公园）**，这里被广泛视为核心的 **努蒂巴拉山（Cerro Nutibara）**。它位于**哥伦比亚** **安蒂奥基亚省** **麦德林市**的中心地带，是旅行者造访该地区的主要目的地。作为城市中最大的一块“绿色孤岛”，它不仅承载着丰富的生态资源，更以其山顶的 Pueblito Paisa（派萨小镇）和露天雕塑公园闻名于世。努蒂巴拉山是公共空间，麦德林市政府委托 Corporación Parque Arví 负责山丘的综合管理。麦德林城市博物馆由 Fundación Casa Museo Pedro Nel Gómez 运营。"
   },
   "sculptures": {
     "title": "Cerro Nutibara 雕塑公园的 10 件永久雕塑",
